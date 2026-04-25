@@ -130,7 +130,7 @@ are actually worth pursuing.
 ## Visuals
 
 ### Executive Summary
-![Executive Summary](Outputs/05_executive_summary.png)
+![Executive Summary](https://github.com/MohsinR11/nestkraft-export-intelligence/blob/main/Dashboard%20Screenshots/Page%201%20-%20Executive%20Overview.png)
 
 ---
 
