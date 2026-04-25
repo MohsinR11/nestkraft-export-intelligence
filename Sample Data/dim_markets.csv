@@ -1,0 +1,21 @@
+market_id,country,region,currency,exchange_rate_to_inr,home_decor_demand_score,market_entry_ease_score,regulatory_ease_score,indian_craft_affinity_score,ecommerce_maturity_score,monthly_search_volume_k,avg_customs_duty_pct,amazon_presence,primary_marketplace,gdp_per_capita_usd,market_size_usd_mn,population_mn,avg_transit_days_from_india,composite_score,market_tier,vat_gst_pct,payment_risk_score
+M01,USA,North America,USD,83.5,8.8,8.2,7.5,8.5,9.5,920,4.0,Y,Amazon US,65000,5200,340,22,8.5,Tier 2,10,7.7
+M02,UAE,Middle East,AED,22.7,8.5,9.2,8.8,8.0,8.8,480,5.0,Y,Noon,44000,1400,10,10,8.66,Tier 1,15,6.7
+M03,UK,Europe,GBP,105.2,8.2,8.5,7.2,7.5,9.2,420,0.0,Y,Amazon UK,46000,1100,67,24,8.12,Tier 2,0,2.7
+M04,Singapore,Asia Pacific,SGD,61.8,7.8,9.5,9.0,7.0,9.0,240,0.0,Y,Lazada,65000,680,6,12,8.46,Tier 2,25,7.6
+M05,Australia,Asia Pacific,AUD,54.3,7.5,8.8,8.0,6.5,8.8,210,5.0,Y,Amazon AU,55000,620,26,14,7.92,Tier 2,15,7.8
+M06,Canada,North America,CAD,61.2,8.0,8.2,7.0,8.0,9.0,310,8.5,Y,Amazon CA,52000,980,38,24,8.04,Tier 2,21,8.0
+M07,Germany,Europe,EUR,89.7,7.2,6.8,6.0,4.5,9.0,340,0.0,Y,Amazon DE,51000,1200,84,22,6.7,Tier 3,25,2.3
+M08,France,Europe,EUR,89.7,6.8,6.5,5.8,4.0,8.5,280,0.0,N,Amazon FR,44000,920,68,22,6.32,Tier 4,15,6.4
+M09,Saudi Arabia,Middle East,SAR,22.3,8.0,7.8,8.0,7.0,7.8,410,5.5,N,Noon SA,27000,840,35,12,7.72,Tier 2,10,5.3
+M10,Netherlands,Europe,EUR,89.7,6.5,7.2,6.2,5.0,8.8,210,0.0,Y,Bol.com,57000,520,18,22,6.74,Tier 3,5,6.2
+M11,New Zealand,Asia Pacific,NZD,50.2,7.2,9.0,8.2,6.0,8.2,135,5.0,N,Trade Me,42000,310,5,16,7.72,Tier 2,25,7.8
+M12,Malaysia,Asia Pacific,MYR,18.8,7.8,8.2,7.8,7.5,8.5,280,10.0,Y,Lazada MY,12000,520,33,10,7.96,Tier 2,20,6.1
+M13,South Africa,Africa,ZAR,4.5,6.5,6.8,6.2,5.5,7.0,160,20.0,N,Takealot,6800,280,60,18,6.4,Tier 4,20,7.0
+M14,Japan,Asia Pacific,JPY,0.56,6.0,5.8,5.0,3.0,9.2,200,0.0,Y,Amazon JP,40000,1400,125,12,5.8,Tier 4,10,7.2
+M15,Italy,Europe,EUR,89.7,6.8,6.0,5.5,4.2,8.0,240,0.0,N,Amazon IT,38000,740,60,22,6.1,Tier 4,15,7.0
+M16,Spain,Europe,EUR,89.7,6.5,6.5,5.8,4.0,8.2,220,0.0,N,Amazon ES,34000,680,47,22,6.2,Tier 4,0,4.6
+M17,Kuwait,Middle East,KWD,271.5,8.0,8.8,8.2,7.5,8.0,200,5.0,N,Noon KW,38000,420,4,12,8.1,Tier 2,15,3.3
+M18,Sweden,Europe,SEK,7.8,6.8,7.5,6.5,4.5,9.0,180,0.0,N,Amazon SE,56000,480,10,22,6.86,Tier 3,10,4.4
+M19,Ireland,Europe,EUR,89.7,7.2,8.0,7.0,7.0,8.8,160,0.0,Y,Amazon IE,85000,360,5,20,7.6,Tier 2,20,7.4
+M20,Portugal,Europe,EUR,89.7,6.2,7.2,6.5,3.5,8.0,140,0.0,N,Amazon PT,24000,280,10,22,6.28,Tier 4,15,2.9

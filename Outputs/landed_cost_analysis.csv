@@ -1,0 +1,801 @@
+country,region,category,product_name,total_shipments,avg_fob_per_unit_usd,avg_freight_per_unit_usd,avg_insurance_per_unit_usd,avg_customs_per_unit_usd,avg_port_per_unit_usd,avg_lastmile_per_unit_usd,avg_demurrage_per_unit_usd,avg_total_lc_per_unit_usd,avg_exporter_margin_per_unit_usd,avg_exporter_margin_pct,avg_lc_fob_ratio,freight_pct_of_lc,customs_pct_of_lc,lastmile_pct_of_lc,total_demurrage_usd,route_efficiency
+South Africa,Africa,Textiles,Block Print Cotton Table Runner,55,11.4458,0.154,0.1145,2.3429,1.0315,0.4,0.3488,15.8375,11.1774,97.65,1.3827,1.0,14.9,2.5,1388.91,High Cost Route
+South Africa,Africa,Kitchen,Bamboo Serving Tray Large,39,15.2862,0.4125,0.1529,3.1703,1.2161,0.4,0.3343,20.9722,14.7208,96.29,1.374,2.0,15.2,1.9,765.98,High Cost Route
+South Africa,Africa,Storage,Handwoven Jute Storage Basket Small,44,14.4034,0.33,0.144,2.9755,1.0535,0.4,0.3565,19.6629,13.9294,96.71,1.3651,1.7,15.2,2.0,1264.99,High Cost Route
+South Africa,Africa,Bath,Bamboo Toothbrush Holder Set,56,11.4729,0.165,0.1147,2.3505,1.0589,0.4,0.0614,15.6234,11.1931,97.56,1.3623,1.1,15.1,2.6,492.6,High Cost Route
+South Africa,Africa,Textiles,Block Print Cotton Napkin Set of 6,54,13.4063,0.1925,0.1341,2.7466,0.976,0.4,0.2685,18.1239,13.0797,97.56,1.352,1.1,15.2,2.2,1635.26,High Cost Route
+South Africa,Africa,Decor,Handmade Soy Candle Large,44,12.4682,0.209,0.1247,2.5604,0.9012,0.4,0.1806,16.8441,12.1345,97.32,1.3511,1.2,15.2,2.4,983.82,High Cost Route
+South Africa,Africa,Decor,Handmade Soy Candle Set of 3,66,15.423,0.3025,0.1542,3.1759,0.9927,0.4,0.3712,20.8197,14.9663,97.04,1.3504,1.5,15.3,1.9,1484.23,High Cost Route
+South Africa,Africa,Garden,Terracotta Planter Set of 3,53,19.2189,0.715,0.1922,4.0252,1.0236,0.4,0.3448,25.9197,18.3117,95.27,1.3485,2.8,15.6,1.5,1884.96,High Cost Route
+South Africa,Africa,Decor,Hand Painted Wooden Tray,58,17.4197,0.385,0.1742,3.5958,1.0451,0.4,0.4538,23.4736,16.8605,96.79,1.3483,1.6,15.4,1.7,2158.84,High Cost Route
+South Africa,Africa,Storage,Jute Cotton Laundry Basket,47,17.28,0.4125,0.1728,3.5731,1.0988,0.4,0.2581,23.1953,16.6947,96.61,1.3421,1.8,15.4,1.7,914.02,High Cost Route
+South Africa,Africa,Garden,Terracotta Planter Large,54,22.9556,0.99,0.2296,4.835,1.0285,0.4,0.3631,30.8017,21.736,94.68,1.3419,3.2,15.7,1.3,1292.35,High Cost Route
+South Africa,Africa,Decor,Hand Painted Wooden Bowl,46,15.36,0.3025,0.1536,3.1632,1.0673,0.4,0.1616,20.6082,14.9039,97.03,1.3419,1.5,15.4,1.9,492.62,High Cost Route
+South Africa,Africa,Textiles,Handloom Cotton Throw Pillow Set 2,45,16.252,0.3025,0.1625,3.3434,1.0081,0.4,0.2867,21.7552,15.787,97.14,1.3387,1.4,15.4,1.8,794.43,High Cost Route
+South Africa,Africa,Kitchen,Bamboo Cutting Board Set of 3,45,16.3842,0.495,0.1638,3.4086,0.9961,0.4,0.0841,21.9319,15.7254,95.97,1.3385,2.3,15.6,1.8,296.11,High Cost Route
+South Africa,Africa,Decor,Handmade Paper Photo Frame Set 3,55,14.3782,0.2475,0.1438,2.9539,1.0331,0.4,0.0498,19.2063,13.9869,97.27,1.3365,1.3,15.4,2.1,514.02,High Cost Route
+South Africa,Africa,Decor,Macrame Wall Hanging Small,87,17.4621,0.22,0.1746,3.5713,1.1056,0.4,0.3881,23.3217,17.0674,97.74,1.3357,0.9,15.4,1.7,2625.46,High Cost Route
+South Africa,Africa,Storage,Handwoven Jute Storage Basket Large,90,19.1622,0.495,0.1916,3.9698,0.9917,0.4,0.3499,25.5602,18.4756,96.41,1.334,1.9,15.6,1.6,2823.03,High Cost Route
+South Africa,Africa,Kitchen,Ceramic Mug Set of 4,49,21.0527,0.4675,0.2105,4.3461,1.1469,0.4,0.3185,27.9422,20.3746,96.78,1.3281,1.7,15.6,1.4,1045.31,High Cost Route
+South Africa,Africa,Decor,Recycled Glass Vase Set of 2,48,20.0025,0.5225,0.2,4.145,0.9917,0.4,0.2894,26.5512,19.28,96.38,1.3275,2.0,15.6,1.5,1091.66,High Cost Route
+South Africa,Africa,Decor,Macrame Plant Hanger Set of 3,49,15.3078,0.1925,0.1531,3.1307,0.9847,0.4,0.0726,20.2413,14.9622,97.74,1.3231,1.0,15.5,2.0,177.81,High Cost Route
+South Africa,Africa,Storage,Woven Seagrass Floor Basket,38,22.1466,0.605,0.2215,4.5946,0.9591,0.4,0.2094,29.1362,21.3201,96.26,1.3157,2.1,15.8,1.4,676.2,High Cost Route
+South Africa,Africa,Decor,Warli Art Wall Plate Set of 3,61,23.1187,0.495,0.2312,4.769,1.0139,0.4,0.28,30.3077,22.3925,96.86,1.3109,1.6,15.8,1.3,1192.39,High Cost Route
+South Africa,Africa,Decor,Brass Tealight Holder Set of 4,58,20.919,0.3575,0.2092,4.2971,0.9973,0.4,0.2109,27.391,20.3523,97.29,1.3098,1.3,15.7,1.5,1092.29,High Cost Route
+South Africa,Africa,Kitchen,Teak Wood Cheese Board,56,23.1686,0.4675,0.2317,4.7736,1.0142,0.4,0.2604,30.3158,22.4694,96.98,1.3086,1.5,15.8,1.3,1139.53,High Cost Route
+South Africa,Africa,Lighting,Rattan Pendant Lamp Shade,48,25.8581,0.44,0.2586,5.3113,1.089,0.4,0.4373,33.7943,25.1595,97.3,1.3072,1.3,15.8,1.2,1231.56,High Cost Route
+South Africa,Africa,Textiles,Hand Embroidered Cushion Cover Set 2,87,18.2728,0.2475,0.1827,3.7406,0.8901,0.4,0.1471,23.8808,17.8425,97.64,1.307,1.0,15.7,1.7,1315.2,High Cost Route
+South Africa,Africa,Decor,Madhubani Art Canvas Print Large,79,21.301,0.1925,0.213,4.3413,1.1334,0.4,0.1691,27.7503,20.8955,98.1,1.3029,0.7,15.7,1.4,928.63,High Cost Route
+South Africa,Africa,Rugs,Jute Braided Area Rug 2x3ft,78,28.8654,0.77,0.2887,5.9848,0.9974,0.4,0.2728,37.579,27.8067,96.33,1.3018,2.1,15.9,1.1,1545.33,High Cost Route
+South Africa,Africa,Kitchen,Copper Water Bottle 1L,65,24.0885,0.2475,0.2409,4.9154,1.0012,0.4,0.4626,31.3559,23.6001,97.97,1.3016,0.8,15.7,1.3,2631.35,High Cost Route
+South Africa,Africa,Decor,Jute Rope Mirror Frame Round,62,24.25,0.4675,0.2425,4.992,0.9677,0.4,0.2322,31.552,23.54,97.07,1.301,1.5,15.8,1.3,1451.24,High Cost Route
+South Africa,Africa,Kitchen,Copper Water Bottle 750ml,52,21.3019,0.209,0.213,4.3448,0.9567,0.4,0.209,27.6345,20.8799,98.02,1.2973,0.8,15.7,1.5,1010.78,Moderate Cost
+South Africa,Africa,Rugs,Cotton Dhurrie Rug 3x5ft,97,33.5314,0.88,0.3353,6.9494,1.1064,0.4,0.2758,43.4783,32.3161,96.37,1.2967,2.0,16.0,0.9,2179.8,Moderate Cost
+South Africa,Africa,Decor,Macrame Wall Hanging Large,82,24.7222,0.3575,0.2472,5.0654,0.9901,0.4,0.2671,32.0495,24.1174,97.55,1.2962,1.1,15.8,1.3,1994.7,Moderate Cost
+South Africa,Africa,Kitchen,Teak Wood Salad Bowl Large,58,31.7369,0.66,0.3174,6.5428,1.0171,0.4,0.3369,41.0111,30.7595,96.92,1.2927,1.6,16.0,1.0,1630.7,Moderate Cost
+South Africa,Africa,Lighting,Bamboo Table Lamp,46,30.8383,0.605,0.3084,6.3503,1.0656,0.4,0.2346,39.8022,29.9249,97.04,1.2906,1.5,16.0,1.0,821.95,Moderate Cost
+South Africa,Africa,Rugs,Jute Braided Area Rug 4x6ft,81,53.836,1.76,0.5384,11.2269,1.1413,0.4,0.4225,69.3251,51.5377,95.73,1.2876,2.5,16.2,0.6,2717.02,Moderate Cost
+South Africa,Africa,Kitchen,Ceramic Dinner Set 12pc,86,46.1972,1.375,0.462,9.6068,1.0473,0.4,0.3376,59.4259,44.3602,96.02,1.2863,2.3,16.2,0.7,2516.92,Moderate Cost
+South Africa,Africa,Textiles,Hand Block Print Bedsheet Set,76,44.2387,0.99,0.4424,9.1342,1.0701,0.4,0.395,56.6705,42.8063,96.76,1.2812,1.7,16.1,0.7,2935.95,Moderate Cost
+South Africa,Africa,Textiles,Kantha Quilt Throw Blanket,80,36.4848,0.66,0.3648,7.5019,0.9503,0.4,0.1945,46.5563,35.4599,97.19,1.2761,1.4,16.1,0.9,1518.91,Moderate Cost
+South Africa,Africa,Furniture,Cane Rattan Side Table,48,64.8267,1.925,0.6483,13.48,0.9683,0.4,0.3684,82.6166,62.2534,96.02,1.2745,2.3,16.3,0.5,1423.26,Moderate Cost
+Malaysia,Asia Pacific,Textiles,Block Print Cotton Table Runner,73,11.6153,0.098,0.1162,1.1829,1.0086,0.25,0.4066,14.6776,11.4012,98.16,1.2642,0.7,8.1,1.7,2008.06,Moderate Cost
+Canada,North America,Textiles,Block Print Cotton Table Runner,172,11.5451,0.1344,0.1155,1.0026,1.0146,0.35,0.3927,14.5549,11.2953,97.83,1.2612,0.9,6.9,2.4,4959.67,Moderate Cost
+Malaysia,Asia Pacific,Bath,Bamboo Toothbrush Holder Set,74,11.593,0.105,0.1159,1.1814,0.9945,0.25,0.209,14.4488,11.372,98.09,1.2465,0.7,8.2,1.7,1821.76,Moderate Cost
+Malaysia,Asia Pacific,Kitchen,Bamboo Serving Tray Large,84,15.3581,0.2625,0.1536,1.5774,1.0009,0.25,0.5167,19.1192,14.942,97.29,1.2449,1.4,8.3,1.3,2949.92,Moderate Cost
+Canada,North America,Bath,Bamboo Toothbrush Holder Set,176,11.5527,0.144,0.1155,1.004,1.0161,0.35,0.1757,14.3581,11.2932,97.75,1.2429,1.0,7.0,2.5,2687.39,Moderate Cost
+Malaysia,Asia Pacific,Storage,Handwoven Jute Storage Basket Small,79,14.4361,0.21,0.1444,1.479,0.9588,0.25,0.4678,17.9461,14.0817,97.54,1.2429,1.2,8.3,1.4,3034.86,Moderate Cost
+Malaysia,Asia Pacific,Textiles,Block Print Cotton Napkin Set of 6,94,13.437,0.1225,0.1344,1.3694,1.039,0.25,0.3178,16.6701,13.1802,98.09,1.241,0.7,8.2,1.5,3096.8,Moderate Cost
+Saudi Arabia,Middle East,Textiles,Block Print Cotton Table Runner,122,11.5013,0.0896,0.115,0.6438,1.0991,0.28,0.4763,14.2052,11.2967,98.22,1.2363,0.6,4.6,2.0,4110.59,Moderate Cost
+New Zealand,Asia Pacific,Textiles,Block Print Cotton Table Runner,51,11.5224,0.098,0.1152,0.5868,0.9855,0.25,0.6389,14.1968,11.3091,98.15,1.2326,0.7,4.2,1.8,2244.8,Moderate Cost
+Malaysia,Asia Pacific,Decor,Hand Painted Wooden Bowl,71,15.2766,0.1925,0.1528,1.5622,1.1119,0.25,0.263,18.809,14.9314,97.74,1.2317,1.0,8.3,1.3,987.06,Moderate Cost
+Canada,North America,Decor,Handmade Soy Candle Large,177,12.4763,0.1824,0.1248,1.0866,0.9752,0.35,0.152,15.3473,12.1692,97.54,1.2302,1.2,7.1,2.3,2636.05,Moderate Cost
+Canada,North America,Kitchen,Bamboo Serving Tray Large,195,15.4601,0.36,0.1546,1.3579,1.1049,0.35,0.2266,19.014,14.9455,96.67,1.2299,1.9,7.2,1.8,3806.34,Moderate Cost
+Malaysia,Asia Pacific,Decor,Handmade Soy Candle Large,75,12.5701,0.133,0.1257,1.2829,1.001,0.25,0.0824,15.4452,12.3114,97.94,1.229,0.9,8.3,1.6,786.48,Moderate Cost
+Canada,North America,Storage,Handwoven Jute Storage Basket Small,167,14.471,0.288,0.1447,1.2668,1.0102,0.35,0.2441,17.7748,14.0382,97.01,1.2285,1.6,7.1,2.0,3753.86,Moderate Cost
+Canada,North America,Textiles,Block Print Cotton Napkin Set of 6,197,13.3995,0.168,0.134,1.1646,1.04,0.35,0.1939,16.45,13.0975,97.74,1.228,1.0,7.1,2.1,3304.62,Moderate Cost
+Malaysia,Asia Pacific,Decor,Hand Painted Wooden Tray,76,17.3037,0.245,0.173,1.7722,1.1127,0.25,0.3719,21.2285,16.8857,97.58,1.2265,1.2,8.4,1.2,2270.72,Moderate Cost
+Canada,North America,Kitchen,Bamboo Cutting Board Set of 3,177,16.3536,0.432,0.1635,1.4407,0.9904,0.35,0.3043,20.0345,15.7581,96.35,1.225,2.2,7.2,1.8,4317.09,Moderate Cost
+Malaysia,Asia Pacific,Decor,Macrame Wall Hanging Small,103,17.3779,0.14,0.1738,1.7692,1.0447,0.25,0.5009,21.2564,17.0641,98.19,1.2234,0.7,8.4,1.2,4133.92,Moderate Cost
+Malaysia,Asia Pacific,Decor,Handmade Paper Photo Frame Set 3,70,14.475,0.1575,0.1448,1.4777,1.0354,0.25,0.147,17.6873,14.1727,97.91,1.2223,0.9,8.4,1.4,663.23,Moderate Cost
+New Zealand,Asia Pacific,Decor,Handmade Soy Candle Large,51,12.4698,0.133,0.1247,0.6364,1.0187,0.25,0.6047,15.2373,12.2121,97.93,1.2213,0.9,4.2,1.7,1938.15,Moderate Cost
+Canada,North America,Storage,Jute Cotton Laundry Basket,172,17.3093,0.36,0.1731,1.5166,1.0379,0.35,0.3812,21.1281,16.7762,96.92,1.2211,1.7,7.2,1.7,5698.5,Moderate Cost
+Canada,North America,Decor,Hand Painted Wooden Bowl,204,15.331,0.264,0.1533,1.3386,1.027,0.35,0.2299,18.6937,14.9137,97.28,1.2196,1.4,7.2,1.9,5218.0,Moderate Cost
+Canada,North America,Decor,Macrame Plant Hanger Set of 3,181,15.3609,0.168,0.1536,1.333,1.0895,0.35,0.2637,18.7187,15.0393,97.9,1.219,0.9,7.1,1.9,4059.29,Moderate Cost
+Malaysia,Asia Pacific,Decor,Macrame Plant Hanger Set of 3,82,15.3346,0.1225,0.1533,1.561,1.0668,0.25,0.1942,18.6825,15.0588,98.2,1.2184,0.7,8.4,1.3,1788.42,Moderate Cost
+Malaysia,Asia Pacific,Decor,Handmade Soy Candle Set of 3,75,15.4283,0.1925,0.1543,1.5775,0.9639,0.25,0.2226,18.789,15.0815,97.75,1.218,1.0,8.4,1.3,1997.75,Moderate Cost
+Canada,North America,Garden,Terracotta Planter Set of 3,181,19.158,0.624,0.1916,1.6977,1.0335,0.35,0.2426,23.2974,18.3424,95.74,1.2165,2.7,7.3,1.5,4258.24,Moderate Cost
+Canada,North America,Decor,Handmade Soy Candle Set of 3,182,15.3793,0.264,0.1538,1.3427,1.0549,0.35,0.1564,18.7011,14.9615,97.28,1.2164,1.4,7.2,1.9,2924.06,Moderate Cost
+Malaysia,Asia Pacific,Garden,Terracotta Planter Set of 3,86,19.2488,0.455,0.1925,1.9896,1.0644,0.25,0.1799,23.3802,18.6014,96.63,1.2149,2.0,8.5,1.1,1226.42,Moderate Cost
+Canada,North America,Decor,Handmade Paper Photo Frame Set 3,162,14.5194,0.216,0.1452,1.2649,0.9874,0.35,0.1543,17.6372,14.1582,97.51,1.2148,1.2,7.2,2.0,2631.67,Moderate Cost
+Malaysia,Asia Pacific,Kitchen,Bamboo Cutting Board Set of 3,87,16.3356,0.315,0.1633,1.6814,1.0055,0.25,0.079,19.8299,15.8573,97.07,1.2141,1.6,8.5,1.3,918.14,Moderate Cost
+Saudi Arabia,Middle East,Bath,Bamboo Toothbrush Holder Set,139,11.5649,0.096,0.1156,0.6477,1.0072,0.28,0.306,14.0174,11.3532,98.17,1.213,0.7,4.6,2.0,2920.93,Moderate Cost
+Saudi Arabia,Middle East,Decor,Handmade Soy Candle Large,128,12.4922,0.1216,0.1249,0.7006,1.0414,0.28,0.3695,15.1302,12.2457,98.02,1.2116,0.8,4.7,1.9,3294.35,Moderate Cost
+Kuwait,Middle East,Decor,Hand Painted Wooden Tray,44,17.1123,0.224,0.1711,0.8754,1.0791,0.28,0.9566,20.6985,16.7171,97.69,1.2114,1.1,4.3,1.4,2956.47,Moderate Cost
+Malaysia,Asia Pacific,Storage,Jute Cotton Laundry Basket,84,17.3807,0.2625,0.1738,1.7817,0.9996,0.25,0.1624,21.0107,16.9444,97.49,1.2086,1.3,8.5,1.2,1066.51,Moderate Cost
+Canada,North America,Textiles,Handloom Cotton Throw Pillow Set 2,152,16.3603,0.264,0.1636,1.427,1.0471,0.35,0.1537,19.7657,15.9327,97.38,1.2086,1.3,7.2,1.8,2441.83,Moderate Cost
+Malaysia,Asia Pacific,Textiles,Handloom Cotton Throw Pillow Set 2,72,16.3413,0.1925,0.1634,1.6697,1.0058,0.25,0.1179,19.7405,15.9854,97.82,1.2085,1.0,8.5,1.3,773.57,Moderate Cost
+Kuwait,Middle East,Textiles,Block Print Cotton Table Runner,44,11.5473,0.0896,0.1155,0.5876,0.9953,0.28,0.3356,13.9509,11.3422,98.22,1.2085,0.6,4.2,2.0,1507.1,Moderate Cost
+Canada,North America,Decor,Hand Painted Wooden Tray,186,17.3506,0.336,0.1735,1.5181,1.0538,0.35,0.1698,20.9519,16.8411,97.06,1.2078,1.6,7.3,1.7,2597.64,Moderate Cost
+USA,North America,Bath,Bamboo Toothbrush Holder Set,521,11.503,0.144,0.115,0.4705,1.0131,0.35,0.2829,13.8785,11.2439,97.75,1.2069,1.0,3.4,2.5,12203.71,Moderate Cost
+Canada,North America,Garden,Terracotta Planter Large,164,23.04,0.864,0.2304,2.0514,1.0378,0.35,0.2231,27.7967,21.9456,95.24,1.2067,3.1,7.4,1.3,3133.57,Moderate Cost
+Australia,Asia Pacific,Bath,Bamboo Toothbrush Holder Set,150,11.5144,0.105,0.1151,0.5867,1.0409,0.25,0.2709,13.8831,11.2943,98.09,1.2063,0.8,4.2,1.8,3549.88,Moderate Cost
+UAE,Middle East,Textiles,Block Print Cotton Table Runner,357,11.5197,0.0896,0.1152,0.5862,1.0234,0.28,0.2704,13.8845,11.3149,98.22,1.2052,0.7,4.2,2.0,7476.58,Moderate Cost
+Canada,North America,Storage,Handwoven Jute Storage Basket Large,285,19.2582,0.432,0.1926,1.69,0.9962,0.35,0.2804,23.1994,18.6337,96.75,1.205,1.9,7.3,1.5,7190.76,Moderate Cost
+Canada,North America,Decor,Macrame Wall Hanging Small,266,17.3335,0.192,0.1733,1.5044,1.0336,0.35,0.2992,20.8859,16.9681,97.89,1.2048,0.9,7.2,1.7,5643.15,Moderate Cost
+New Zealand,Asia Pacific,Bath,Bamboo Toothbrush Holder Set,63,11.6324,0.105,0.1163,0.5927,1.0867,0.25,0.2257,14.0089,11.4111,98.1,1.2046,0.8,4.3,1.8,1038.05,Moderate Cost
+Kuwait,Middle East,Bath,Bamboo Toothbrush Holder Set,53,11.5562,0.096,0.1156,0.5884,1.0302,0.28,0.223,13.8893,11.3447,98.17,1.2037,0.7,4.2,2.0,1565.39,Moderate Cost
+Canada,North America,Decor,Recycled Glass Vase Set of 2,159,20.1732,0.456,0.2017,1.7706,0.9706,0.35,0.3389,24.2611,19.5155,96.74,1.203,1.9,7.3,1.4,4566.13,Moderate Cost
+UAE,Middle East,Bath,Bamboo Toothbrush Holder Set,361,11.5326,0.096,0.1153,0.5872,1.0052,0.28,0.2552,13.8715,11.3213,98.17,1.203,0.7,4.3,2.0,7535.54,Moderate Cost
+Malaysia,Asia Pacific,Garden,Terracotta Planter Large,88,23.0318,0.63,0.2303,2.3892,1.0372,0.25,0.1255,27.6941,22.1715,96.26,1.2026,2.3,8.6,0.9,693.34,Moderate Cost
+Malaysia,Asia Pacific,Storage,Handwoven Jute Storage Basket Large,116,19.2328,0.315,0.1923,1.974,0.9452,0.25,0.2009,23.1102,18.7254,97.36,1.2016,1.4,8.6,1.1,2484.01,Moderate Cost
+Malaysia,Asia Pacific,Textiles,Hand Embroidered Cushion Cover Set 2,131,18.3009,0.1575,0.183,1.8641,1.0118,0.25,0.2104,21.9777,17.9604,98.14,1.2011,0.7,8.5,1.1,3110.57,Moderate Cost
+USA,North America,Textiles,Block Print Cotton Table Runner,535,11.5238,0.1344,0.1152,0.4709,1.0451,0.35,0.184,13.8235,11.2742,97.83,1.2001,1.0,3.4,2.5,8570.75,Moderate Cost
+Canada,North America,Textiles,Hand Embroidered Cushion Cover Set 2,303,18.2695,0.216,0.1827,1.5868,1.0409,0.35,0.2665,21.9123,17.8708,97.82,1.1996,1.0,7.3,1.6,6709.11,Moderate Cost
+Malaysia,Asia Pacific,Decor,Warli Art Wall Plate Set of 3,69,23.1617,0.315,0.2316,2.3708,1.1001,0.25,0.3557,27.785,22.6151,97.64,1.1994,1.1,8.5,0.9,2131.94,Moderate Cost
+Kuwait,Middle East,Decor,Handmade Soy Candle Large,55,12.5675,0.1216,0.1257,0.6407,1.0387,0.28,0.2918,15.066,12.3202,98.03,1.1984,0.8,4.3,1.9,1056.96,Moderate Cost
+New Zealand,Asia Pacific,Storage,Handwoven Jute Storage Basket Small,46,14.4065,0.21,0.1441,0.738,1.0368,0.25,0.4856,17.2711,14.0524,97.54,1.1983,1.2,4.3,1.5,1292.32,Moderate Cost
+Saudi Arabia,Middle East,Storage,Handwoven Jute Storage Basket Small,114,14.4632,0.192,0.1446,0.814,1.0495,0.28,0.3748,17.3181,14.1265,97.67,1.1976,1.1,4.7,1.6,3519.41,Moderate Cost
+Malaysia,Asia Pacific,Decor,Brass Tealight Holder Set of 4,85,21.0941,0.2275,0.2109,2.1533,0.9992,0.25,0.3163,25.2513,20.6557,97.92,1.1972,0.9,8.5,1.0,1945.65,Moderate Cost
+Australia,Asia Pacific,Textiles,Block Print Cotton Napkin Set of 6,163,13.4615,0.1225,0.1346,0.6859,1.0352,0.25,0.4187,16.1084,13.2044,98.09,1.1965,0.8,4.3,1.6,5026.13,Moderate Cost
+Malaysia,Asia Pacific,Decor,Recycled Glass Vase Set of 2,70,20.148,0.3325,0.2015,2.0682,1.0569,0.25,0.0303,24.0874,19.6141,97.35,1.1957,1.4,8.6,1.0,354.67,Moderate Cost
+Canada,North America,Storage,Woven Seagrass Floor Basket,175,22.1273,0.528,0.2213,1.9445,1.0131,0.35,0.2637,26.4479,21.378,96.61,1.1952,2.0,7.4,1.3,4434.43,Moderate Cost
+Canada,North America,Kitchen,Ceramic Mug Set of 4,189,21.0828,0.408,0.2108,1.8446,1.0346,0.35,0.2503,25.1812,20.4639,97.06,1.1946,1.6,7.3,1.4,3484.09,Moderate Cost
+UAE,Middle East,Decor,Handmade Soy Candle Large,392,12.4886,0.1216,0.1249,0.6368,1.0182,0.28,0.2323,14.9024,12.2421,98.02,1.1937,0.8,4.3,1.9,7556.29,Moderate Cost
+Malaysia,Asia Pacific,Kitchen,Ceramic Mug Set of 4,79,21.1256,0.2975,0.2113,2.1634,0.9403,0.25,0.1971,25.1852,20.6168,97.59,1.1929,1.2,8.6,1.0,999.76,Moderate Cost
+Australia,Asia Pacific,Textiles,Block Print Cotton Table Runner,169,11.5385,0.098,0.1154,0.5876,1.0582,0.25,0.1022,13.7498,11.3251,98.15,1.1918,0.7,4.3,1.8,1297.24,Moderate Cost
+Malaysia,Asia Pacific,Storage,Woven Seagrass Floor Basket,74,22.0241,0.385,0.2202,2.2629,0.9788,0.25,0.1149,26.236,21.4188,97.25,1.1916,1.5,8.6,1.0,1190.12,Moderate Cost
+USA,North America,Decor,Handmade Soy Candle Large,499,12.5178,0.1824,0.1252,0.513,0.9815,0.35,0.2407,14.9105,12.2102,97.54,1.1912,1.2,3.5,2.4,12000.49,Moderate Cost
+New Zealand,Asia Pacific,Kitchen,Bamboo Serving Tray Large,50,15.4016,0.2625,0.154,0.7909,0.938,0.25,0.5424,18.3395,14.9851,97.29,1.1907,1.4,4.3,1.4,2100.98,Moderate Cost
+Malaysia,Asia Pacific,Decor,Madhubani Art Canvas Print Large,106,21.0017,0.1225,0.21,2.1334,1.053,0.25,0.2027,24.9733,20.6692,98.42,1.1898,0.5,8.6,1.0,1475.71,Moderate Cost
+Malaysia,Asia Pacific,Kitchen,Teak Wood Cheese Board,85,22.9835,0.2975,0.2298,2.3511,1.0094,0.25,0.1923,27.3136,22.4562,97.7,1.1886,1.1,8.6,0.9,2520.56,Moderate Cost
+Australia,Asia Pacific,Storage,Handwoven Jute Storage Basket Small,155,14.4435,0.21,0.1444,0.7399,1.0396,0.25,0.3311,17.1585,14.0891,97.54,1.1884,1.2,4.3,1.5,4477.53,Moderate Cost
+Saudi Arabia,Middle East,Textiles,Block Print Cotton Napkin Set of 6,121,13.4099,0.112,0.1341,0.7511,1.0041,0.28,0.2412,15.9324,13.1638,98.16,1.1883,0.7,4.7,1.8,2263.88,Moderate Cost
+Australia,Asia Pacific,Decor,Handmade Soy Candle Large,176,12.5007,0.133,0.125,0.6379,0.9468,0.25,0.2563,14.8497,12.2427,97.93,1.1878,0.9,4.3,1.7,4156.5,Moderate Cost
+Australia,Asia Pacific,Kitchen,Bamboo Cutting Board Set of 3,163,16.3117,0.315,0.1631,0.8395,1.0797,0.25,0.4048,19.3637,15.8335,97.07,1.1872,1.6,4.4,1.3,4663.42,Moderate Cost
+Saudi Arabia,Middle East,Decor,Hand Painted Wooden Bowl,127,15.3814,0.176,0.1538,0.8641,0.9862,0.28,0.412,18.2535,15.0516,97.85,1.1866,1.0,4.8,1.5,3360.2,Moderate Cost
+Malaysia,Asia Pacific,Lighting,Rattan Pendant Lamp Shade,66,25.9282,0.28,0.2593,2.6467,0.9788,0.25,0.4042,30.7471,25.3889,97.92,1.1856,0.9,8.6,0.8,2027.85,Moderate Cost
+USA,North America,Kitchen,Bamboo Serving Tray Large,502,15.396,0.36,0.154,0.6364,1.0037,0.35,0.3479,18.248,14.8821,96.66,1.1855,2.0,3.5,1.9,13479.21,Moderate Cost
+Canada,North America,Kitchen,Teak Wood Cheese Board,199,23.0846,0.408,0.2308,2.0165,0.9788,0.35,0.277,27.3458,22.4458,97.23,1.1848,1.5,7.4,1.3,4847.62,Moderate Cost
+Malaysia,Asia Pacific,Kitchen,Copper Water Bottle 750ml,83,21.1041,0.133,0.211,2.1448,0.929,0.25,0.2051,24.9771,20.7601,98.37,1.1841,0.5,8.6,1.0,1735.61,Moderate Cost
+Canada,North America,Decor,Warli Art Wall Plate Set of 3,193,23.0276,0.432,0.2303,2.0136,0.9927,0.35,0.2133,27.2595,22.3653,97.12,1.1839,1.6,7.4,1.3,3546.55,Moderate Cost
+Kuwait,Middle East,Textiles,Block Print Cotton Napkin Set of 6,71,13.4755,0.112,0.1348,0.6861,0.9875,0.28,0.2706,15.9465,13.2287,98.17,1.1837,0.7,4.3,1.8,1551.02,Moderate Cost
+Saudi Arabia,Middle East,Decor,Handmade Paper Photo Frame Set 3,124,14.348,0.144,0.1435,0.805,1.0635,0.28,0.1888,16.9728,14.0605,97.99,1.183,0.9,4.8,1.7,1922.96,Moderate Cost
+USA,North America,Storage,Handwoven Jute Storage Basket Small,494,14.3809,0.288,0.1438,0.5925,1.025,0.35,0.2293,17.0095,13.9491,96.99,1.1829,1.7,3.5,2.1,9525.67,Moderate Cost
+Saudi Arabia,Middle East,Kitchen,Bamboo Cutting Board Set of 3,148,16.4061,0.288,0.1641,0.9272,1.0321,0.28,0.3006,19.3981,15.9541,97.24,1.1828,1.5,4.8,1.4,3401.21,Moderate Cost
+Malaysia,Asia Pacific,Kitchen,Copper Water Bottle 1L,99,24.1591,0.1575,0.2416,2.4558,1.0087,0.25,0.2872,28.5599,23.76,98.35,1.1827,0.6,8.6,0.9,2816.4,Moderate Cost
+USA,North America,Textiles,Block Print Cotton Napkin Set of 6,449,13.4849,0.168,0.1348,0.5515,1.0118,0.35,0.232,15.9331,13.1821,97.75,1.1818,1.1,3.5,2.2,8706.31,Moderate Cost
+Saudi Arabia,Middle East,Kitchen,Bamboo Serving Tray Large,122,15.4925,0.24,0.1549,0.8738,1.0099,0.28,0.2538,18.3049,15.0975,97.45,1.1817,1.3,4.8,1.5,2668.17,Moderate Cost
+Canada,North America,Decor,Jute Rope Mirror Frame Round,167,24.024,0.408,0.2402,2.0971,0.9977,0.35,0.2644,28.3814,23.3757,97.3,1.1816,1.4,7.4,1.2,3818.26,Moderate Cost
+Canada,North America,Decor,Brass Tealight Holder Set of 4,173,21.0768,0.312,0.2108,1.836,0.9534,0.35,0.1607,24.8996,20.554,97.52,1.1813,1.3,7.4,1.4,2418.82,Moderate Cost
+Malaysia,Asia Pacific,Rugs,Jute Braided Area Rug 2x3ft,106,28.7802,0.49,0.2878,2.9558,0.955,0.25,0.2782,33.997,28.0024,97.29,1.1813,1.4,8.7,0.7,2604.13,Moderate Cost
+UAE,Middle East,Textiles,Block Print Cotton Napkin Set of 6,371,13.4238,0.112,0.1342,0.6835,1.0234,0.28,0.1946,15.8516,13.1775,98.16,1.1811,0.7,4.3,1.8,6404.29,Moderate Cost
+Canada,North America,Decor,Macrame Wall Hanging Large,247,25.0253,0.312,0.2503,2.1749,1.0074,0.35,0.4248,29.5446,24.463,97.75,1.1806,1.1,7.4,1.2,8181.06,Moderate Cost
+Canada,North America,Decor,Madhubani Art Canvas Print Large,272,21.1693,0.168,0.2117,1.8317,0.9531,0.35,0.3011,24.985,20.7896,98.21,1.1805,0.7,7.3,1.4,7283.45,Moderate Cost
+Kuwait,Middle East,Storage,Handwoven Jute Storage Basket Small,57,14.4053,0.192,0.144,0.7371,1.0511,0.28,0.1874,16.997,14.0692,97.66,1.1803,1.1,4.3,1.7,1654.51,Moderate Cost
+Kuwait,Middle East,Decor,Handmade Paper Photo Frame Set 3,47,14.483,0.144,0.1448,0.7386,1.0733,0.28,0.2335,17.0972,14.1941,98.0,1.1802,0.8,4.3,1.6,664.48,Moderate Cost
+New Zealand,Asia Pacific,Textiles,Block Print Cotton Napkin Set of 6,59,13.3736,0.1225,0.1337,0.6815,1.0035,0.25,0.216,15.7808,13.1173,98.08,1.1799,0.8,4.3,1.6,1131.0,Moderate Cost
+USA,North America,Decor,Handmade Paper Photo Frame Set 3,538,14.4454,0.216,0.1445,0.5922,1.0159,0.35,0.2731,17.0372,14.085,97.5,1.1797,1.3,3.5,2.1,12313.94,Moderate Cost
+Malaysia,Asia Pacific,Decor,Macrame Wall Hanging Large,115,24.9871,0.2275,0.2499,2.5465,1.061,0.25,0.1459,29.4678,24.5098,98.09,1.1795,0.8,8.6,0.9,1855.87,Moderate Cost
+Canada,North America,Rugs,Jute Braided Area Rug 2x3ft,273,28.7846,0.672,0.2878,2.5283,1.0214,0.35,0.2984,33.9426,27.8248,96.66,1.1794,2.0,7.5,1.0,6546.31,Moderate Cost
+Malaysia,Asia Pacific,Decor,Jute Rope Mirror Frame Round,89,24.1854,0.2975,0.2418,2.4725,1.0225,0.25,0.0492,28.5188,23.646,97.77,1.1793,1.0,8.7,0.9,410.6,Moderate Cost
+UAE,Middle East,Storage,Handwoven Jute Storage Basket Small,344,14.4964,0.192,0.145,0.7417,0.9997,0.28,0.2368,17.0915,14.1594,97.67,1.1791,1.1,4.4,1.6,6721.98,Moderate Cost
+UAE,Middle East,Kitchen,Bamboo Serving Tray Large,363,15.3785,0.24,0.1538,0.7886,0.9806,0.28,0.3097,18.1313,14.9847,97.44,1.179,1.3,4.4,1.6,9131.7,Moderate Cost
+UAE,Middle East,Decor,Handmade Paper Photo Frame Set 3,346,14.387,0.144,0.1439,0.7338,1.0042,0.28,0.2643,16.9571,14.0991,98.0,1.1788,0.9,4.3,1.7,7918.07,Moderate Cost
+USA,North America,Kitchen,Bamboo Cutting Board Set of 3,510,16.3537,0.432,0.1635,0.678,1.0279,0.35,0.2544,19.2595,15.7581,96.35,1.1777,2.3,3.5,1.8,12288.38,Moderate Cost
+Canada,North America,Kitchen,Copper Water Bottle 750ml,200,21.1871,0.1824,0.2119,1.8344,0.996,0.35,0.1906,24.9524,20.7928,98.14,1.1776,0.7,7.4,1.4,3064.96,Moderate Cost
+Malaysia,Asia Pacific,Rugs,Cotton Dhurrie Rug 3x5ft,113,33.7022,0.56,0.337,3.4599,1.11,0.25,0.271,39.6901,32.8052,97.34,1.1776,1.4,8.7,0.6,1990.34,Moderate Cost
+USA,North America,Decor,Hand Painted Wooden Bowl,485,15.3781,0.264,0.1538,0.6318,1.0109,0.35,0.3168,18.1054,14.9604,97.28,1.1775,1.5,3.5,1.9,12404.04,Moderate Cost
+Australia,Asia Pacific,Decor,Handmade Paper Photo Frame Set 3,173,14.3671,0.1575,0.1437,0.7334,1.0452,0.25,0.1998,16.8966,14.0658,97.9,1.1763,0.9,4.4,1.5,3836.57,Moderate Cost
+Kuwait,Middle East,Decor,Handmade Soy Candle Set of 3,62,15.3961,0.176,0.154,0.7863,1.0609,0.28,0.2564,18.1096,15.0662,97.85,1.1762,1.0,4.4,1.6,1360.64,Moderate Cost
+Malaysia,Asia Pacific,Kitchen,Teak Wood Salad Bowl Large,98,31.4005,0.42,0.314,3.2135,1.0013,0.25,0.3006,36.8999,30.6665,97.66,1.1753,1.1,8.7,0.7,2858.14,Moderate Cost
+Sweden,Europe,Bath,Bamboo Toothbrush Holder Set,43,11.3833,0.126,0.1138,0.0,1.0487,0.32,0.3838,13.3757,11.1434,97.89,1.1751,1.0,0.0,2.4,1021.31,Moderate Cost
+UAE,Middle East,Decor,Hand Painted Wooden Bowl,356,15.3321,0.176,0.1533,0.7831,1.0241,0.28,0.2609,18.0096,15.0028,97.85,1.1748,1.0,4.4,1.6,8131.26,Moderate Cost
+Australia,Asia Pacific,Decor,Handmade Soy Candle Set of 3,176,15.4236,0.1925,0.1542,0.7885,1.0786,0.25,0.222,18.1095,15.0769,97.75,1.1743,1.1,4.4,1.4,3391.74,Moderate Cost
+Saudi Arabia,Middle East,Decor,Macrame Plant Hanger Set of 3,143,15.3824,0.112,0.1538,0.8607,1.0169,0.28,0.2533,18.0591,15.1166,98.27,1.174,0.6,4.8,1.6,3359.79,Moderate Cost
+Canada,North America,Lighting,Rattan Pendant Lamp Shade,157,25.9406,0.384,0.2594,2.2596,1.0117,0.35,0.2337,30.4391,25.2972,97.52,1.1733,1.3,7.4,1.2,2570.42,Moderate Cost
+UAE,Middle East,Kitchen,Bamboo Cutting Board Set of 3,322,16.3797,0.288,0.1638,0.8416,1.019,0.28,0.2379,19.2099,15.9279,97.24,1.1732,1.5,4.4,1.5,7781.26,Moderate Cost
+Saudi Arabia,Middle East,Garden,Terracotta Planter Set of 3,112,19.3125,0.416,0.1931,1.0957,1.046,0.28,0.3149,22.6582,18.7034,96.84,1.1732,1.8,4.8,1.2,2652.91,Moderate Cost
+Canada,North America,Kitchen,Copper Water Bottle 1L,251,24.0687,0.216,0.2407,2.0847,1.0097,0.35,0.2566,28.2264,23.612,98.1,1.1731,0.8,7.4,1.2,5758.04,Moderate Cost
+Saudi Arabia,Middle East,Decor,Handmade Soy Candle Set of 3,129,15.3786,0.176,0.1538,0.864,1.0198,0.28,0.163,18.0351,15.0488,97.85,1.1727,1.0,4.8,1.6,1728.79,Moderate Cost
+Kuwait,Middle East,Kitchen,Bamboo Cutting Board Set of 3,55,16.3664,0.288,0.1637,0.8409,1.0229,0.28,0.2144,19.1762,15.9147,97.24,1.1725,1.5,4.4,1.5,1284.77,Moderate Cost
+New Zealand,Asia Pacific,Decor,Handmade Paper Photo Frame Set 3,63,14.4095,0.1575,0.1441,0.7356,1.0156,0.25,0.1714,16.8837,14.1079,97.9,1.1723,0.9,4.4,1.5,883.83,Moderate Cost
+UAE,Middle East,Garden,Terracotta Planter Set of 3,363,19.1532,0.416,0.1915,0.988,1.0026,0.28,0.4133,22.4446,18.5456,96.82,1.1721,1.9,4.4,1.3,11424.09,Moderate Cost
+USA,North America,Garden,Terracotta Planter Set of 3,545,19.1864,0.624,0.1919,0.8001,1.0353,0.35,0.295,22.4827,18.3706,95.74,1.172,2.8,3.6,1.6,13852.81,Moderate Cost
+Germany,Europe,Textiles,Block Print Cotton Table Runner,175,11.5893,0.1176,0.1159,0.0,1.0574,0.32,0.3729,13.5731,11.3558,97.98,1.1717,0.9,0.0,2.4,5106.04,Moderate Cost
+UAE,Middle East,Textiles,Handloom Cotton Throw Pillow Set 2,347,16.3734,0.176,0.1637,0.8357,1.0181,0.28,0.337,19.1839,16.0337,97.92,1.1716,0.9,4.4,1.5,9858.04,Moderate Cost
+Australia,Asia Pacific,Decor,Macrame Plant Hanger Set of 3,159,15.4164,0.1225,0.1542,0.7847,1.053,0.25,0.2834,18.0641,15.1397,98.2,1.1716,0.7,4.4,1.4,3495.19,Moderate Cost
+Saudi Arabia,Middle East,Storage,Jute Cotton Laundry Basket,138,17.3152,0.24,0.1732,0.9751,0.9992,0.28,0.2834,20.266,16.9021,97.61,1.1707,1.2,4.8,1.4,2704.91,Moderate Cost
+Australia,Asia Pacific,Decor,Hand Painted Wooden Bowl,143,15.4674,0.1925,0.1547,0.7907,1.0252,0.25,0.2196,18.1001,15.1203,97.75,1.1704,1.1,4.4,1.4,3448.39,Moderate Cost
+USA,North America,Textiles,Handloom Cotton Throw Pillow Set 2,534,16.3381,0.264,0.1634,0.6706,1.0199,0.35,0.3074,19.1135,15.9108,97.38,1.1702,1.4,3.5,1.8,14084.26,Moderate Cost
+Canada,North America,Rugs,Cotton Dhurrie Rug 3x5ft,263,33.6612,0.768,0.3366,2.9551,0.9838,0.35,0.3229,39.3777,32.5566,96.71,1.1701,2.0,7.5,0.9,7624.32,Moderate Cost
+Saudi Arabia,Middle East,Textiles,Hand Embroidered Cushion Cover Set 2,191,18.2937,0.144,0.1829,1.0241,1.0631,0.28,0.3981,21.3859,17.9668,98.21,1.1698,0.7,4.8,1.3,6091.03,Moderate Cost
+USA,North America,Decor,Handmade Soy Candle Set of 3,542,15.3287,0.264,0.1533,0.6298,0.9959,0.35,0.2019,17.9236,14.9114,97.27,1.1696,1.5,3.5,2.0,9132.71,Moderate Cost
+Kuwait,Middle East,Kitchen,Bamboo Serving Tray Large,48,15.39,0.24,0.1539,0.7892,1.0067,0.28,0.131,17.9908,14.9961,97.44,1.1693,1.3,4.4,1.6,1019.79,Moderate Cost
+New Zealand,Asia Pacific,Decor,Hand Painted Wooden Bowl,51,15.4384,0.1925,0.1544,0.7893,0.9632,0.25,0.2662,18.0539,15.0916,97.75,1.1692,1.1,4.4,1.4,1063.29,Moderate Cost
+Canada,North America,Kitchen,Teak Wood Salad Bowl Large,267,31.6874,0.576,0.3169,2.7693,1.0104,0.35,0.3248,37.0349,30.7945,97.18,1.1689,1.6,7.5,0.9,7254.96,Moderate Cost
+Japan,Asia Pacific,Decor,Handmade Soy Candle Large,45,12.5551,0.133,0.1255,0.0,1.0569,0.25,0.5477,14.6682,12.2966,97.94,1.1689,0.9,0.0,1.7,1630.51,Moderate Cost
+Saudi Arabia,Middle East,Textiles,Handloom Cotton Throw Pillow Set 2,139,16.3286,0.176,0.1633,0.9167,0.9943,0.28,0.2171,19.076,15.9893,97.92,1.1684,0.9,4.8,1.5,2462.12,Moderate Cost
+Malaysia,Asia Pacific,Lighting,Bamboo Table Lamp,86,30.7647,0.385,0.3076,3.1457,0.9802,0.25,0.1077,35.9409,30.072,97.75,1.1683,1.1,8.8,0.7,811.03,Moderate Cost
+USA,North America,Storage,Jute Cotton Laundry Basket,529,17.3106,0.36,0.1731,0.7137,1.0259,0.35,0.2854,20.2188,16.7775,96.92,1.1682,1.8,3.5,1.7,11056.36,Moderate Cost
+Australia,Asia Pacific,Kitchen,Bamboo Serving Tray Large,158,15.3894,0.2625,0.1539,0.7903,0.9743,0.25,0.1492,17.9695,14.973,97.29,1.1681,1.5,4.4,1.4,2034.82,Moderate Cost
+UAE,Middle East,Decor,Hand Painted Wooden Tray,380,17.2667,0.224,0.1727,0.8832,1.0211,0.28,0.3171,20.1648,16.8701,97.7,1.1679,1.1,4.4,1.4,9170.33,Moderate Cost
+New Zealand,Asia Pacific,Textiles,Handloom Cotton Throw Pillow Set 2,51,16.3467,0.1925,0.1635,0.8351,1.0019,0.25,0.2902,19.0799,15.9907,97.82,1.1678,1.0,4.4,1.3,1230.85,Moderate Cost
+UAE,Middle East,Decor,Handmade Soy Candle Set of 3,348,15.4018,0.176,0.154,0.7866,0.9867,0.28,0.1988,17.984,15.0718,97.86,1.1678,1.0,4.4,1.6,7646.04,Moderate Cost
+Sweden,Europe,Textiles,Block Print Cotton Table Runner,47,11.543,0.1176,0.1154,0.0,1.1015,0.32,0.2802,13.4777,11.31,97.98,1.1676,0.9,0.0,2.4,864.85,Moderate Cost
+Kuwait,Middle East,Storage,Jute Cotton Laundry Basket,54,17.3067,0.24,0.1731,0.886,1.0043,0.28,0.3237,20.2138,16.8936,97.61,1.1676,1.2,4.4,1.4,1347.82,Moderate Cost
+UAE,Middle East,Decor,Macrame Plant Hanger Set of 3,348,15.3163,0.112,0.1532,0.7791,0.9877,0.28,0.2492,17.8774,15.0512,98.27,1.1674,0.6,4.4,1.6,7370.61,Moderate Cost
+Italy,Europe,Bath,Bamboo Toothbrush Holder Set,43,11.4251,0.126,0.1143,0.0,1.0115,0.32,0.3337,13.3305,11.1849,97.9,1.1672,1.0,0.0,2.4,1100.29,Moderate Cost
+UK,Europe,Textiles,Block Print Cotton Table Runner,244,11.5367,0.1176,0.1154,0.0,1.0054,0.32,0.3609,13.456,11.3038,97.98,1.167,0.9,0.0,2.4,6973.21,Moderate Cost
+New Zealand,Asia Pacific,Decor,Handmade Soy Candle Set of 3,39,15.4954,0.1925,0.155,0.7921,0.9287,0.25,0.2686,18.0823,15.1479,97.76,1.1669,1.1,4.4,1.4,1356.73,Moderate Cost
+Portugal,Europe,Textiles,Block Print Cotton Table Runner,21,11.6457,0.1176,0.1165,0.0,1.0593,0.32,0.3167,13.5758,11.4117,97.99,1.1669,0.9,0.0,2.4,332.58,Moderate Cost
+Portugal,Europe,Bath,Bamboo Toothbrush Holder Set,26,11.5938,0.126,0.1159,0.0,1.0916,0.32,0.2587,13.506,11.3519,97.91,1.1667,0.9,0.0,2.4,498.18,Moderate Cost
+USA,North America,Decor,Hand Painted Wooden Tray,511,17.3233,0.336,0.1732,0.7133,1.0,0.35,0.3101,20.206,16.8141,97.06,1.1666,1.7,3.5,1.7,11998.28,Moderate Cost
+Kuwait,Middle East,Garden,Terracotta Planter Set of 3,62,19.1871,0.416,0.1919,0.9897,1.1195,0.28,0.1914,22.3757,18.5792,96.83,1.1665,1.9,4.4,1.3,1048.88,Moderate Cost
+New Zealand,Asia Pacific,Decor,Hand Painted Wooden Tray,52,17.2212,0.245,0.1722,0.8819,1.0257,0.25,0.2819,20.0779,16.804,97.57,1.1661,1.2,4.4,1.3,882.29,Moderate Cost
+UAE,Middle East,Storage,Jute Cotton Laundry Basket,394,17.2914,0.24,0.1729,0.8852,1.0079,0.28,0.2798,20.1573,16.8785,97.61,1.166,1.2,4.4,1.4,8443.09,Moderate Cost
+Australia,Asia Pacific,Garden,Terracotta Planter Set of 3,157,19.1019,0.455,0.191,0.9874,1.0306,0.25,0.2489,22.2648,18.4559,96.61,1.1659,2.1,4.4,1.1,2990.69,Moderate Cost
+Kuwait,Middle East,Decor,Macrame Plant Hanger Set of 3,50,15.2128,0.112,0.1521,0.7738,0.9561,0.28,0.2537,17.7406,14.9487,98.26,1.1657,0.6,4.4,1.6,970.22,Moderate Cost
+Kuwait,Middle East,Textiles,Handloom Cotton Throw Pillow Set 2,50,16.286,0.176,0.1629,0.8312,1.0101,0.28,0.2311,18.9773,15.9471,97.92,1.1654,0.9,4.4,1.5,969.23,Moderate Cost
+Canada,North America,Lighting,Bamboo Table Lamp,194,30.7662,0.528,0.3077,2.6862,0.9339,0.35,0.2724,35.8442,29.9305,97.28,1.1653,1.5,7.5,1.0,5009.17,Moderate Cost
+Netherlands,Europe,Textiles,Block Print Cotton Napkin Set of 6,73,13.3364,0.147,0.1334,0.0,1.0602,0.32,0.5207,15.5177,13.0561,97.9,1.1648,1.0,0.0,2.1,3082.58,Moderate Cost
+Saudi Arabia,Middle East,Decor,Macrame Wall Hanging Small,192,17.3081,0.128,0.1731,0.9685,1.0238,0.28,0.2737,20.1552,17.007,98.26,1.1648,0.6,4.8,1.4,3928.51,Moderate Cost
+Saudi Arabia,Middle East,Storage,Handwoven Jute Storage Basket Large,175,19.2594,0.288,0.1926,1.0857,1.0308,0.28,0.2934,22.4298,18.7788,97.5,1.1647,1.3,4.9,1.3,3981.61,Moderate Cost
+Netherlands,Europe,Textiles,Block Print Cotton Table Runner,80,11.5905,0.1176,0.1159,0.0,1.0461,0.32,0.313,13.5031,11.357,97.98,1.1647,0.9,0.0,2.4,1997.39,Moderate Cost
+New Zealand,Asia Pacific,Kitchen,Bamboo Cutting Board Set of 3,48,16.3413,0.315,0.1634,0.841,0.9278,0.25,0.1956,19.034,15.8628,97.07,1.1646,1.7,4.4,1.3,946.24,Moderate Cost
+Malaysia,Asia Pacific,Textiles,Hand Block Print Bedsheet Set,107,44.0783,0.63,0.4408,4.5149,1.1113,0.25,0.2859,51.3112,43.0075,97.57,1.1642,1.2,8.8,0.5,3035.92,Moderate Cost
+New Zealand,Asia Pacific,Textiles,Hand Embroidered Cushion Cover Set 2,82,18.3304,0.1575,0.1833,0.9336,1.0629,0.25,0.4183,21.3359,17.9895,98.14,1.1641,0.7,4.4,1.2,2733.24,Moderate Cost
+Malaysia,Asia Pacific,Textiles,Kantha Quilt Throw Blanket,105,36.5307,0.42,0.3653,3.7316,1.0109,0.25,0.2054,42.5138,35.7454,97.85,1.1638,1.0,8.8,0.6,2215.35,Moderate Cost
+USA,North America,Decor,Macrame Plant Hanger Set of 3,507,15.3452,0.168,0.1535,0.6267,0.9841,0.35,0.2215,17.8489,15.0237,97.9,1.1633,0.9,3.5,2.0,9934.82,Moderate Cost
+New Zealand,Asia Pacific,Decor,Macrame Wall Hanging Small,93,17.3052,0.14,0.1731,0.8809,0.9893,0.25,0.3921,20.1306,16.9921,98.19,1.1631,0.7,4.4,1.2,2957.91,Moderate Cost
+New Zealand,Asia Pacific,Garden,Terracotta Planter Set of 3,39,19.3795,0.455,0.1938,1.0014,1.1074,0.25,0.1465,22.5336,18.7307,96.65,1.1628,2.0,4.4,1.1,760.27,Moderate Cost
+Malaysia,Asia Pacific,Kitchen,Ceramic Dinner Set 12pc,101,46.1038,0.875,0.461,4.744,0.9465,0.25,0.2274,53.6076,44.7677,97.1,1.1628,1.6,8.9,0.5,1880.04,Moderate Cost
+Malaysia,Asia Pacific,Rugs,Jute Braided Area Rug 4x6ft,108,53.9259,1.12,0.5393,5.5585,1.0553,0.25,0.2356,62.6846,52.2667,96.92,1.1627,1.8,8.9,0.4,2277.54,Moderate Cost
+UAE,Middle East,Storage,Handwoven Jute Storage Basket Large,541,19.1394,0.288,0.1914,0.9809,1.0087,0.28,0.3546,22.243,18.66,97.49,1.1621,1.3,4.4,1.3,14322.61,Moderate Cost
+Kuwait,Middle East,Decor,Hand Painted Wooden Bowl,57,15.3375,0.176,0.1534,0.7834,0.9354,0.28,0.1415,17.8071,15.0082,97.85,1.1621,1.0,4.4,1.6,602.13,Moderate Cost
+Saudi Arabia,Middle East,Decor,Hand Painted Wooden Tray,124,17.4092,0.224,0.1741,0.9794,0.9527,0.28,0.206,20.2254,17.0111,97.71,1.1618,1.1,4.9,1.4,2167.05,Moderate Cost
+Saudi Arabia,Middle East,Garden,Terracotta Planter Large,133,23.0833,0.576,0.2308,1.3139,1.0237,0.28,0.2967,26.8045,22.2765,96.5,1.1617,2.2,4.9,1.0,2998.62,Moderate Cost
+USA,North America,Storage,Handwoven Jute Storage Basket Large,775,19.2361,0.432,0.1924,0.7944,1.025,0.35,0.3026,22.3325,18.6118,96.75,1.1612,1.9,3.6,1.6,20640.85,Moderate Cost
+Australia,Asia Pacific,Storage,Jute Cotton Laundry Basket,153,17.2718,0.2625,0.1727,0.8853,0.9934,0.25,0.2097,20.0454,16.8366,97.48,1.1605,1.3,4.4,1.3,2830.61,Moderate Cost
+Saudi Arabia,Middle East,Decor,Recycled Glass Vase Set of 2,138,20.1128,0.304,0.2011,1.134,1.0311,0.28,0.2759,23.3389,19.6077,97.49,1.1605,1.3,4.9,1.2,3786.96,Moderate Cost
+France,Europe,Textiles,Block Print Cotton Table Runner,82,11.5785,0.1176,0.1158,0.0,0.9917,0.32,0.3167,13.4403,11.3451,97.98,1.1604,0.9,0.0,2.4,1989.0,Moderate Cost
+USA,North America,Garden,Terracotta Planter Large,510,23.0889,0.864,0.2309,0.9673,1.0135,0.35,0.2663,26.7809,21.9941,95.25,1.1601,3.2,3.6,1.3,12488.4,Moderate Cost
+UK,Europe,Bath,Bamboo Toothbrush Holder Set,256,11.5088,0.126,0.1151,0.0,1.0159,0.32,0.2582,13.3439,11.2677,97.9,1.1599,1.0,0.0,2.4,4985.0,Moderate Cost
+New Zealand,Asia Pacific,Storage,Jute Cotton Laundry Basket,46,17.2252,0.2625,0.1722,0.883,1.026,0.25,0.1383,19.9573,16.7905,97.47,1.1592,1.3,4.4,1.3,318.11,Moderate Cost
+Canada,North America,Kitchen,Ceramic Dinner Set 12pc,273,46.298,1.2,0.463,4.0767,1.0017,0.35,0.2572,53.6466,44.635,96.4,1.1588,2.2,7.6,0.7,5005.06,Moderate Cost
+Australia,Asia Pacific,Textiles,Handloom Cotton Throw Pillow Set 2,148,16.3993,0.1925,0.164,0.8378,0.9526,0.25,0.2015,18.9977,16.0428,97.82,1.1587,1.0,4.4,1.3,2742.15,Moderate Cost
+USA,North America,Decor,Recycled Glass Vase Set of 2,516,20.1913,0.456,0.2019,0.834,1.0544,0.35,0.2925,23.3801,19.5334,96.74,1.1583,2.0,3.6,1.5,13393.16,Moderate Cost
+New Zealand,Asia Pacific,Decor,Recycled Glass Vase Set of 2,48,20.1688,0.3325,0.2017,1.0352,1.0577,0.25,0.3137,23.3595,19.6346,97.35,1.1583,1.4,4.4,1.1,1602.74,Moderate Cost
+Australia,Asia Pacific,Storage,Handwoven Jute Storage Basket Large,229,19.0987,0.315,0.191,0.9802,0.9809,0.25,0.2907,22.1065,18.5927,97.35,1.1579,1.4,4.4,1.1,5701.66,Moderate Cost
+Canada,North America,Textiles,Kantha Quilt Throw Blanket,278,36.4117,0.576,0.3641,3.1749,1.0102,0.35,0.2605,42.1474,35.4715,97.41,1.1575,1.4,7.5,0.8,5934.71,Moderate Cost
+Spain,Europe,Bath,Bamboo Toothbrush Holder Set,39,11.5846,0.126,0.1158,0.0,0.9445,0.32,0.3203,13.4113,11.3428,97.91,1.1574,0.9,0.0,2.4,706.87,Moderate Cost
+Saudi Arabia,Middle East,Storage,Woven Seagrass Floor Basket,108,22.0885,0.352,0.2209,1.2464,1.0179,0.28,0.3527,25.5584,21.5156,97.4,1.1574,1.4,4.9,1.1,3003.76,Moderate Cost
+Kuwait,Middle East,Decor,Macrame Wall Hanging Small,78,17.2454,0.128,0.1725,0.8773,1.0211,0.28,0.2232,19.9475,16.9449,98.26,1.1568,0.6,4.4,1.4,1914.67,Moderate Cost
+France,Europe,Bath,Bamboo Toothbrush Holder Set,112,11.5757,0.126,0.1158,0.0,1.0793,0.32,0.167,13.3837,11.334,97.91,1.1566,0.9,0.0,2.4,2347.22,Moderate Cost
+Germany,Europe,Bath,Bamboo Toothbrush Holder Set,164,11.4988,0.126,0.115,0.0,1.0074,0.32,0.232,13.2992,11.2578,97.9,1.1565,1.0,0.0,2.4,3850.63,Moderate Cost
+UAE,Middle East,Decor,Macrame Wall Hanging Small,544,17.3518,0.128,0.1735,0.8827,1.0154,0.28,0.2322,20.0636,17.0503,98.26,1.1565,0.6,4.4,1.4,11107.27,Moderate Cost
+Australia,Asia Pacific,Decor,Hand Painted Wooden Tray,150,17.3724,0.245,0.1737,0.8896,0.9714,0.25,0.1873,20.0893,16.9537,97.59,1.1565,1.2,4.4,1.2,2318.25,Moderate Cost
+USA,North America,Decor,Macrame Wall Hanging Small,750,17.286,0.192,0.1729,0.706,1.0131,0.35,0.2618,19.9818,16.9211,97.89,1.1563,1.0,3.5,1.8,17238.93,Moderate Cost
+New Zealand,Asia Pacific,Garden,Terracotta Planter Large,48,23.15,0.63,0.2315,1.2006,1.0108,0.25,0.281,26.7538,22.2885,96.27,1.1562,2.4,4.5,0.9,980.22,Moderate Cost
+Canada,North America,Rugs,Jute Braided Area Rug 4x6ft,280,53.88,1.536,0.5388,4.7562,0.9974,0.35,0.2225,62.2808,51.8052,96.14,1.156,2.5,7.6,0.6,4747.12,Moderate Cost
+UAE,Middle East,Textiles,Hand Embroidered Cushion Cover Set 2,529,18.2443,0.144,0.1824,0.9286,1.0362,0.28,0.2691,21.0846,17.9179,98.21,1.1559,0.7,4.4,1.3,11240.79,Moderate Cost
+Italy,Europe,Decor,Handmade Soy Candle Large,51,12.508,0.1596,0.1251,0.0,1.1163,0.32,0.2235,14.4525,12.2234,97.72,1.1558,1.1,0.0,2.2,1089.22,Moderate Cost
+Kuwait,Middle East,Garden,Terracotta Planter Large,49,22.8343,0.576,0.2283,1.1819,1.0241,0.28,0.2499,26.3745,22.0299,96.47,1.1554,2.2,4.5,1.1,822.94,Moderate Cost
+Malaysia,Asia Pacific,Furniture,Cane Rattan Side Table,87,65.4598,1.225,0.6546,6.7339,1.0003,0.25,0.2877,75.6113,63.5802,97.13,1.1552,1.6,8.9,0.3,1725.6,Moderate Cost
+Spain,Europe,Kitchen,Bamboo Cutting Board Set of 3,40,16.2903,0.378,0.1629,0.0,1.0823,0.32,0.5613,18.7947,15.7494,96.68,1.155,2.0,0.0,1.7,1462.32,Moderate Cost
+Canada,North America,Textiles,Hand Block Print Bedsheet Set,266,44.3139,0.864,0.4431,3.8778,1.0257,0.35,0.3001,51.1747,43.0068,97.05,1.1549,1.7,7.6,0.7,6229.15,Moderate Cost
+USA,North America,Textiles,Hand Embroidered Cushion Cover Set 2,769,18.2267,0.216,0.1823,0.745,1.0298,0.35,0.2921,21.0418,17.8284,97.81,1.1548,1.0,3.6,1.7,17927.24,Moderate Cost
+Ireland,Europe,Kitchen,Bamboo Serving Tray Large,24,15.46,0.315,0.1546,0.0,1.0612,0.32,0.5433,17.8541,14.9904,96.96,1.1547,1.8,0.0,1.8,747.81,Moderate Cost
+Netherlands,Europe,Bath,Bamboo Toothbrush Holder Set,77,11.5075,0.126,0.1151,0.0,1.0483,0.32,0.1681,13.285,11.2665,97.9,1.1546,1.0,0.0,2.4,919.12,Moderate Cost
+Germany,Europe,Decor,Handmade Soy Candle Large,176,12.4837,0.1596,0.1248,0.0,1.0168,0.32,0.3005,14.4054,12.1993,97.72,1.154,1.1,0.0,2.2,4343.03,Moderate Cost
+New Zealand,Asia Pacific,Kitchen,Ceramic Mug Set of 4,42,21.2352,0.2975,0.2124,1.0873,0.9518,0.25,0.4547,24.4889,20.7254,97.6,1.1538,1.2,4.5,1.0,1312.03,Moderate Cost
+Saudi Arabia,Middle East,Decor,Warli Art Wall Plate Set of 3,126,22.9638,0.288,0.2296,1.2915,1.039,0.28,0.4083,26.5002,22.4462,97.74,1.1536,1.1,4.9,1.1,3789.26,Moderate Cost
+UAE,Middle East,Kitchen,Ceramic Mug Set of 4,356,21.0903,0.272,0.2109,1.0787,1.0356,0.28,0.3609,24.3284,20.6074,97.71,1.1536,1.1,4.4,1.2,10701.84,Moderate Cost
+Australia,Asia Pacific,Decor,Macrame Wall Hanging Small,232,17.3103,0.14,0.1731,0.8812,0.9921,0.25,0.2185,19.9652,16.9972,98.19,1.1533,0.7,4.4,1.3,4264.74,Moderate Cost
+Australia,Asia Pacific,Decor,Recycled Glass Vase Set of 2,167,20.1663,0.3325,0.2017,1.035,1.0003,0.25,0.2706,23.2563,19.6322,97.35,1.1533,1.4,4.5,1.1,3790.43,Moderate Cost
+UAE,Middle East,Decor,Recycled Glass Vase Set of 2,365,20.1738,0.304,0.2017,1.034,0.9869,0.28,0.2781,23.2585,19.6681,97.49,1.1531,1.3,4.5,1.2,7964.0,Moderate Cost
+New Zealand,Asia Pacific,Decor,Macrame Plant Hanger Set of 3,48,15.3933,0.1225,0.1539,0.7835,1.0162,0.25,0.0238,17.7433,15.1169,98.2,1.153,0.7,4.4,1.4,57.12,Moderate Cost
+UAE,Middle East,Garden,Terracotta Planter Large,400,23.0988,0.576,0.231,1.1953,1.0052,0.28,0.2381,26.6243,22.2918,96.5,1.1528,2.2,4.5,1.1,8171.92,Moderate Cost
+New Zealand,Asia Pacific,Storage,Handwoven Jute Storage Basket Large,60,19.1933,0.315,0.1919,0.985,1.0309,0.25,0.1401,22.1063,18.6864,97.36,1.1519,1.4,4.5,1.1,971.15,Moderate Cost
+Portugal,Europe,Textiles,Block Print Cotton Napkin Set of 6,26,13.6608,0.147,0.1366,0.0,1.0244,0.32,0.4439,15.7327,13.3772,97.92,1.1519,0.9,0.0,2.1,773.67,Moderate Cost
+Kuwait,Middle East,Decor,Recycled Glass Vase Set of 2,58,20.1238,0.304,0.2012,1.0314,1.0442,0.28,0.1835,23.1681,19.6185,97.49,1.1515,1.3,4.5,1.2,732.7,Moderate Cost
+Italy,Europe,Textiles,Block Print Cotton Table Runner,49,11.5984,0.1176,0.116,0.0,0.9529,0.32,0.2452,13.3501,11.3648,97.98,1.1511,0.9,0.0,2.4,697.07,Moderate Cost
+Saudi Arabia,Middle East,Decor,Brass Tealight Holder Set of 4,132,21.065,0.208,0.2106,1.1816,1.0085,0.28,0.2928,24.2466,20.6463,98.01,1.1511,0.9,4.9,1.2,3455.41,Moderate Cost
+Singapore,Asia Pacific,Bath,Bamboo Toothbrush Holder Set,143,11.4462,0.105,0.1145,0.0,1.0144,0.25,0.2463,13.1764,11.2267,98.08,1.1511,0.8,0.0,1.9,3740.04,Moderate Cost
+Australia,Asia Pacific,Textiles,Hand Embroidered Cushion Cover Set 2,250,18.2651,0.1575,0.1827,0.9303,1.0389,0.25,0.1915,21.016,17.9249,98.14,1.1509,0.8,4.4,1.2,4168.24,Moderate Cost
+Kuwait,Middle East,Storage,Handwoven Jute Storage Basket Large,71,19.2113,0.288,0.1921,0.9846,1.0249,0.28,0.1223,22.1032,18.7312,97.5,1.1507,1.3,4.5,1.3,450.58,Moderate Cost
+New Zealand,Asia Pacific,Decor,Brass Tealight Holder Set of 4,50,21.1596,0.2275,0.2116,1.0799,1.0664,0.25,0.348,24.3431,20.7205,97.92,1.1505,0.9,4.5,1.0,1272.52,Moderate Cost
+Kuwait,Middle East,Kitchen,Copper Water Bottle 750ml,53,21.203,0.1216,0.212,1.0768,1.128,0.28,0.3584,24.3799,20.8694,98.43,1.1498,0.5,4.4,1.2,949.77,Efficient Route
+Saudi Arabia,Middle East,Kitchen,Ceramic Mug Set of 4,132,21.165,0.272,0.2116,1.1907,1.0197,0.28,0.185,24.3239,20.6814,97.71,1.1495,1.1,4.9,1.2,1843.68,Efficient Route
+Netherlands,Europe,Storage,Handwoven Jute Storage Basket Small,79,14.4873,0.252,0.1449,0.0,0.9895,0.32,0.4466,16.6403,14.0905,97.26,1.1492,1.5,0.0,1.9,2702.25,Efficient Route
+USA,North America,Kitchen,Ceramic Mug Set of 4,502,21.1459,0.408,0.2115,0.8706,1.0114,0.35,0.299,24.2963,20.5264,97.07,1.1491,1.7,3.6,1.4,12184.35,Efficient Route
+Kuwait,Middle East,Decor,Brass Tealight Holder Set of 4,51,21.1502,0.208,0.2115,1.0785,1.0138,0.28,0.3629,24.3048,20.7307,98.01,1.149,0.9,4.4,1.2,1555.71,Efficient Route
+Australia,Asia Pacific,Kitchen,Ceramic Mug Set of 4,157,21.2293,0.2975,0.2123,1.087,1.0336,0.25,0.278,24.3876,20.7195,97.6,1.1489,1.2,4.5,1.0,3031.65,Efficient Route
+Singapore,Asia Pacific,Textiles,Block Print Cotton Table Runner,154,11.4865,0.098,0.1149,0.0,1.0093,0.25,0.231,13.1897,11.2736,98.15,1.1484,0.7,0.0,1.9,3230.1,Efficient Route
+Australia,Asia Pacific,Storage,Woven Seagrass Floor Basket,180,22.1401,0.385,0.2214,1.1373,1.024,0.25,0.2668,25.4245,21.5337,97.26,1.1483,1.5,4.5,1.0,3687.15,Efficient Route
+Sweden,Europe,Textiles,Block Print Cotton Napkin Set of 6,56,13.425,0.147,0.1343,0.0,1.0087,0.32,0.386,15.4209,13.1437,97.9,1.1483,1.0,0.0,2.1,1497.17,Efficient Route
+Canada,North America,Furniture,Cane Rattan Side Table,198,65.3006,1.68,0.653,5.7489,1.0195,0.35,0.2169,74.9689,62.9676,96.42,1.1481,2.2,7.7,0.5,4042.26,Efficient Route
+USA,North America,Decor,Brass Tealight Holder Set of 4,546,21.1111,0.312,0.2111,0.8654,1.0404,0.35,0.344,24.234,20.588,97.52,1.148,1.3,3.6,1.5,14722.66,Efficient Route
+Australia,Asia Pacific,Garden,Terracotta Planter Large,158,23.1327,0.63,0.2313,1.1997,1.0115,0.25,0.0929,26.548,22.2713,96.27,1.1479,2.4,4.5,0.9,1555.49,Efficient Route
+Portugal,Europe,Storage,Handwoven Jute Storage Basket Small,40,14.3588,0.252,0.1436,0.0,1.0744,0.32,0.3226,16.4713,13.9632,97.24,1.1479,1.5,0.0,2.0,968.84,Efficient Route
+Spain,Europe,Textiles,Block Print Cotton Napkin Set of 6,64,13.5188,0.147,0.1352,0.0,1.0944,0.32,0.2983,15.5137,13.2366,97.91,1.1479,1.0,0.0,2.1,1316.72,Efficient Route
+Spain,Europe,Decor,Handmade Soy Candle Large,56,12.5032,0.1596,0.125,0.0,1.0297,0.32,0.2184,14.3559,12.2186,97.72,1.1478,1.1,0.0,2.2,1110.79,Efficient Route
+Kuwait,Middle East,Textiles,Hand Embroidered Cushion Cover Set 2,71,18.3577,0.144,0.1836,0.9343,0.9107,0.28,0.2455,21.0557,18.0302,98.21,1.1472,0.7,4.4,1.3,1766.52,Efficient Route
+UAE,Middle East,Storage,Woven Seagrass Floor Basket,346,22.1777,0.352,0.2218,1.1376,0.9986,0.28,0.2654,25.4331,21.6039,97.41,1.1469,1.4,4.5,1.1,7623.42,Efficient Route
+Australia,Asia Pacific,Decor,Jute Rope Mirror Frame Round,148,23.9797,0.2975,0.2398,1.2259,1.0621,0.25,0.4397,27.4947,23.4424,97.76,1.1467,1.1,4.5,0.9,4454.74,Efficient Route
+New Zealand,Asia Pacific,Decor,Jute Rope Mirror Frame Round,59,23.822,0.2975,0.2382,1.2179,1.0916,0.25,0.3902,27.3075,23.2863,97.75,1.1467,1.1,4.5,0.9,1888.6,Efficient Route
+Kuwait,Middle East,Storage,Woven Seagrass Floor Basket,56,22.2032,0.352,0.222,1.1389,1.0643,0.28,0.1672,25.4276,21.6292,97.41,1.1455,1.4,4.5,1.1,763.76,Efficient Route
+Kuwait,Middle East,Kitchen,Ceramic Mug Set of 4,65,21.2723,0.272,0.2127,1.0878,0.9291,0.28,0.3,24.354,20.7876,97.72,1.145,1.1,4.5,1.2,1333.38,Efficient Route
+USA,North America,Storage,Woven Seagrass Floor Basket,499,22.0975,0.528,0.221,0.9139,0.9763,0.35,0.2047,25.2913,21.3485,96.61,1.1447,2.1,3.6,1.4,8481.76,Efficient Route
+France,Europe,Decor,Handmade Soy Candle Large,111,12.562,0.1596,0.1256,0.0,0.9769,0.32,0.2324,14.3764,12.2768,97.73,1.1445,1.1,0.0,2.2,2327.32,Efficient Route
+Japan,Asia Pacific,Bath,Bamboo Toothbrush Holder Set,48,11.53,0.105,0.1153,0.0,1.0467,0.25,0.1439,13.1908,11.3097,98.09,1.1443,0.8,0.0,1.9,370.55,Efficient Route
+UK,Europe,Decor,Handmade Soy Candle Large,257,12.4421,0.1596,0.1244,0.0,0.9723,0.32,0.2122,14.2306,12.158,97.72,1.1442,1.1,0.0,2.3,4625.07,Efficient Route
+Sweden,Europe,Kitchen,Bamboo Serving Tray Large,56,15.3629,0.315,0.1536,0.0,1.1213,0.32,0.3043,17.5771,14.8942,96.95,1.144,1.8,0.0,1.8,1192.01,Efficient Route
+USA,North America,Decor,Warli Art Wall Plate Set of 3,528,23.0227,0.432,0.2302,0.9474,1.0146,0.35,0.3154,26.3124,22.3605,97.12,1.1431,1.6,3.6,1.3,15073.09,Efficient Route
+Saudi Arabia,Middle East,Decor,Madhubani Art Canvas Print Large,174,21.1326,0.112,0.2113,1.1801,0.986,0.28,0.2505,24.1524,20.8093,98.47,1.143,0.5,4.9,1.2,3839.93,Efficient Route
+UAE,Middle East,Decor,Madhubani Art Canvas Print Large,570,21.1775,0.112,0.2118,1.0751,1.0608,0.28,0.2843,24.2015,20.8537,98.47,1.1428,0.5,4.5,1.2,12110.72,Efficient Route
+Australia,Asia Pacific,Kitchen,Teak Wood Cheese Board,167,22.984,0.2975,0.2298,1.1756,1.0405,0.25,0.2805,26.2578,22.4566,97.7,1.1424,1.1,4.5,1.0,4782.79,Efficient Route
+Saudi Arabia,Middle East,Kitchen,Copper Water Bottle 750ml,132,21.0433,0.1216,0.2104,1.1757,1.0202,0.28,0.1793,24.0306,20.7113,98.42,1.142,0.5,4.9,1.2,1915.12,Efficient Route
+UAE,Middle East,Kitchen,Teak Wood Cheese Board,355,23.0305,0.272,0.2303,1.1766,1.0642,0.28,0.2462,26.2998,22.5282,97.82,1.142,1.0,4.5,1.1,8338.33,Efficient Route
+UAE,Middle East,Kitchen,Copper Water Bottle 750ml,397,21.1638,0.1216,0.2116,1.0748,1.028,0.28,0.2807,24.1605,20.8305,98.42,1.1415,0.5,4.5,1.2,8568.21,Efficient Route
+Singapore,Asia Pacific,Storage,Handwoven Jute Storage Basket Small,145,14.3648,0.21,0.1436,0.0,1.0796,0.25,0.3501,16.3982,14.0112,97.54,1.1415,1.3,0.0,1.5,4630.27,Efficient Route
+Italy,Europe,Storage,Handwoven Jute Storage Basket Small,52,14.3538,0.252,0.1435,0.0,1.0975,0.32,0.2261,16.3929,13.9583,97.24,1.1414,1.5,0.0,2.0,1357.78,Efficient Route
+Ireland,Europe,Textiles,Block Print Cotton Napkin Set of 6,17,13.3494,0.147,0.1335,0.0,1.0144,0.32,0.2652,15.2295,13.0689,97.9,1.1413,1.0,0.0,2.1,449.07,Efficient Route
+New Zealand,Asia Pacific,Rugs,Jute Braided Area Rug 2x3ft,75,28.672,0.49,0.2867,1.4724,1.1109,0.25,0.4422,32.7244,27.8953,97.29,1.1412,1.5,4.5,0.8,2089.25,Efficient Route
+New Zealand,Asia Pacific,Kitchen,Teak Wood Cheese Board,74,23.0984,0.2975,0.231,1.1813,1.0006,0.25,0.29,26.3489,22.5699,97.71,1.1411,1.1,4.5,1.0,1690.56,Efficient Route
+Spain,Europe,Kitchen,Bamboo Serving Tray Large,44,15.4291,0.315,0.1543,0.0,1.0471,0.32,0.3344,17.5999,14.9598,96.96,1.141,1.8,0.0,1.8,1507.39,Efficient Route
+Australia,Asia Pacific,Decor,Brass Tealight Holder Set of 4,139,21.1944,0.2275,0.2119,1.0817,0.9815,0.25,0.2269,24.1739,20.755,97.93,1.1406,0.9,4.5,1.0,2632.77,Efficient Route
+USA,North America,Kitchen,Teak Wood Cheese Board,524,23.0693,0.408,0.2307,0.9483,1.0035,0.35,0.2992,26.309,22.4306,97.23,1.1405,1.6,3.6,1.3,12703.76,Efficient Route
+Ireland,Europe,Decor,Handmade Paper Photo Frame Set 3,23,14.4196,0.189,0.1442,0.0,0.8975,0.32,0.4839,16.4542,14.0864,97.69,1.1405,1.2,0.0,2.0,1366.25,Efficient Route
+Saudi Arabia,Middle East,Kitchen,Teak Wood Cheese Board,141,23.0128,0.272,0.2301,1.2933,0.9769,0.28,0.1779,26.243,22.5106,97.82,1.1404,1.0,4.9,1.1,1919.85,Efficient Route
+UK,Europe,Decor,Handmade Soy Candle Set of 3,275,15.3303,0.231,0.1533,0.0,1.0649,0.32,0.3723,17.4718,14.946,97.49,1.1404,1.3,0.0,1.8,7090.7,Efficient Route
+Germany,Europe,Storage,Handwoven Jute Storage Basket Small,175,14.4763,0.252,0.1448,0.0,1.0532,0.32,0.2611,16.5073,14.0795,97.26,1.1402,1.5,0.0,1.9,3629.68,Efficient Route
+Netherlands,Europe,Decor,Handmade Soy Candle Large,67,12.4936,0.1596,0.1249,0.0,1.0422,0.32,0.096,14.2363,12.2091,97.72,1.1401,1.1,0.0,2.3,587.38,Efficient Route
+Kuwait,Middle East,Kitchen,Teak Wood Cheese Board,56,23.13,0.272,0.2313,1.1817,1.0296,0.28,0.253,26.3775,22.6267,97.82,1.1401,1.0,4.5,1.1,961.51,Efficient Route
+UAE,Middle East,Decor,Warli Art Wall Plate Set of 3,345,23.1033,0.288,0.231,1.1811,1.0094,0.28,0.2464,26.3393,22.5843,97.75,1.1401,1.1,4.5,1.1,6628.61,Efficient Route
+Ireland,Europe,Textiles,Block Print Cotton Table Runner,28,11.6657,0.1176,0.1167,0.0,0.9388,0.32,0.1326,13.2914,11.4315,97.99,1.14,0.9,0.0,2.4,342.82,Efficient Route
+Saudi Arabia,Middle East,Decor,Jute Rope Mirror Frame Round,115,24.137,0.272,0.2414,1.3558,0.9621,0.28,0.2561,27.5043,23.6236,97.87,1.1399,1.0,4.9,1.0,2705.13,Efficient Route
+Netherlands,Europe,Kitchen,Bamboo Cutting Board Set of 3,81,16.4081,0.378,0.1641,0.0,0.9571,0.32,0.4698,18.6972,15.8661,96.69,1.1399,2.0,0.0,1.7,3416.76,Efficient Route
+Italy,Europe,Decor,Handmade Paper Photo Frame Set 3,61,14.4443,0.189,0.1444,0.0,0.9858,0.32,0.3733,16.4567,14.1108,97.69,1.1399,1.2,0.0,2.0,1547.66,Efficient Route
+Japan,Asia Pacific,Textiles,Block Print Cotton Table Runner,48,11.685,0.098,0.1169,0.0,0.905,0.25,0.2619,13.3168,11.4701,98.16,1.1399,0.7,0.0,1.9,1095.21,Efficient Route
+UAE,Middle East,Decor,Brass Tealight Holder Set of 4,320,21.1661,0.208,0.2117,1.0793,0.9647,0.28,0.1989,24.1086,20.7464,98.02,1.1391,0.9,4.5,1.2,5069.23,Efficient Route
+Kuwait,Middle East,Decor,Madhubani Art Canvas Print Large,80,21.0485,0.112,0.2105,1.0685,1.0232,0.28,0.2342,23.9769,20.726,98.47,1.1391,0.5,4.5,1.2,1813.78,Efficient Route
+Portugal,Europe,Kitchen,Bamboo Serving Tray Large,25,15.392,0.315,0.1539,0.0,1.0667,0.32,0.2934,17.541,14.9231,96.95,1.1391,1.8,0.0,1.8,679.43,Efficient Route
+Australia,Asia Pacific,Decor,Madhubani Art Canvas Print Large,244,21.1281,0.1225,0.2113,1.0731,1.0167,0.25,0.2583,24.06,20.7944,98.42,1.1388,0.5,4.5,1.0,5874.1,Efficient Route
+USA,North America,Kitchen,Copper Water Bottle 750ml,505,21.1352,0.1824,0.2114,0.8612,1.025,0.35,0.296,24.0611,20.7415,98.14,1.1387,0.8,3.6,1.5,12463.37,Efficient Route
+Germany,Europe,Decor,Hand Painted Wooden Bowl,182,15.3864,0.231,0.1539,0.0,1.0659,0.32,0.345,17.5021,15.0015,97.5,1.1381,1.3,0.0,1.8,5113.68,Efficient Route
+Japan,Asia Pacific,Kitchen,Bamboo Cutting Board Set of 3,50,16.4186,0.315,0.1642,0.0,1.1513,0.25,0.367,18.6661,15.9394,97.08,1.1378,1.7,0.0,1.3,1023.71,Efficient Route
+Saudi Arabia,Middle East,Decor,Macrame Wall Hanging Large,210,25.0145,0.208,0.2501,1.401,1.0156,0.28,0.2869,28.4561,24.5563,98.17,1.1378,0.7,4.9,1.0,4774.56,Efficient Route
+Ireland,Europe,Decor,Handmade Soy Candle Large,41,12.4673,0.1596,0.1247,0.0,1.0067,0.32,0.1075,14.1858,12.183,97.72,1.1374,1.1,0.0,2.3,646.58,Efficient Route
+Netherlands,Europe,Kitchen,Bamboo Serving Tray Large,74,15.4292,0.315,0.1543,0.0,1.0314,0.32,0.2941,17.5439,14.9599,96.96,1.1373,1.8,0.0,1.8,1829.06,Efficient Route
+Kuwait,Middle East,Decor,Jute Rope Mirror Frame Round,51,24.1225,0.272,0.2412,1.2318,1.0314,0.28,0.2382,27.4172,23.6093,97.87,1.1373,1.0,4.5,1.0,1015.04,Efficient Route
+Italy,Europe,Decor,Macrame Plant Hanger Set of 3,55,15.3862,0.147,0.1539,0.0,0.9838,0.32,0.499,17.4899,15.0853,98.04,1.137,0.8,0.0,1.8,2357.9,Efficient Route
+Singapore,Asia Pacific,Textiles,Block Print Cotton Napkin Set of 6,171,13.4899,0.1225,0.1349,0.0,0.9808,0.25,0.3507,15.3288,13.2326,98.09,1.1369,0.8,0.0,1.6,4755.04,Efficient Route
+UAE,Middle East,Decor,Jute Rope Mirror Frame Round,348,24.0216,0.272,0.2402,1.2267,0.9876,0.28,0.2776,27.3056,23.5093,97.87,1.1368,1.0,4.5,1.0,9063.25,Efficient Route
+Germany,Europe,Kitchen,Bamboo Serving Tray Large,160,15.43,0.315,0.1543,0.0,1.0812,0.32,0.2363,17.5367,14.9607,96.96,1.1367,1.8,0.0,1.8,3378.17,Efficient Route
+Australia,Asia Pacific,Lighting,Rattan Pendant Lamp Shade,134,25.9079,0.28,0.2591,1.3224,0.993,0.25,0.4292,29.4415,25.3688,97.92,1.1367,1.0,4.5,0.9,4066.89,Efficient Route
+Saudi Arabia,Middle East,Rugs,Jute Braided Area Rug 2x3ft,202,28.9782,0.448,0.2898,1.6344,1.0432,0.28,0.2554,32.9289,28.2404,97.45,1.1367,1.4,5.0,0.9,3602.75,Efficient Route
+Singapore,Asia Pacific,Decor,Handmade Soy Candle Large,156,12.4892,0.133,0.1249,0.0,0.9932,0.25,0.2023,14.1926,12.2313,97.93,1.1364,0.9,0.0,1.8,2697.77,Efficient Route
+Ireland,Europe,Bath,Bamboo Toothbrush Holder Set,24,11.585,0.126,0.1159,0.0,1.0149,0.32,0.0,13.1618,11.3431,97.91,1.1359,1.0,0.0,2.4,0.0,Efficient Route
+New Zealand,Asia Pacific,Decor,Madhubani Art Canvas Print Large,63,21.12,0.1225,0.2112,1.0727,1.0052,0.25,0.2058,23.9874,20.7863,98.42,1.1359,0.5,4.5,1.0,1346.13,Efficient Route
+Australia,Asia Pacific,Decor,Warli Art Wall Plate Set of 3,136,23.1335,0.315,0.2313,1.184,1.0151,0.25,0.1371,26.266,22.5872,97.64,1.1358,1.2,4.5,1.0,1997.5,Efficient Route
+New Zealand,Asia Pacific,Storage,Woven Seagrass Floor Basket,57,22.2051,0.385,0.2221,1.1406,0.9547,0.25,0.0589,25.2164,21.598,97.26,1.1356,1.5,4.5,1.0,551.12,Efficient Route
+Saudi Arabia,Middle East,Kitchen,Copper Water Bottle 1L,167,24.1766,0.144,0.2418,1.3509,1.0397,0.28,0.2226,27.4557,23.7909,98.4,1.1356,0.5,4.9,1.0,2949.56,Efficient Route
+New Zealand,Asia Pacific,Decor,Warli Art Wall Plate Set of 3,55,22.9527,0.315,0.2295,1.1749,0.9817,0.25,0.153,26.0569,22.4082,97.63,1.1353,1.2,4.5,1.0,883.86,Efficient Route
+Germany,Europe,Textiles,Block Print Cotton Napkin Set of 6,160,13.4794,0.147,0.1348,0.0,1.0345,0.32,0.1806,15.2962,13.1976,97.91,1.135,1.0,0.0,2.1,2567.38,Efficient Route
+Australia,Asia Pacific,Kitchen,Copper Water Bottle 1L,258,24.0465,0.1575,0.2405,1.2222,1.0233,0.25,0.3506,27.2906,23.6485,98.34,1.1349,0.6,4.5,0.9,6909.18,Efficient Route
+France,Europe,Textiles,Block Print Cotton Napkin Set of 6,91,13.4123,0.147,0.1341,0.0,1.095,0.32,0.1053,15.2137,13.1312,97.9,1.1348,1.0,0.0,2.1,990.35,Efficient Route
+UK,Europe,Textiles,Block Print Cotton Napkin Set of 6,269,13.4738,0.147,0.1347,0.0,1.0524,0.32,0.1635,15.2915,13.1921,97.91,1.1348,1.0,0.0,2.1,3533.45,Efficient Route
+UK,Europe,Kitchen,Bamboo Serving Tray Large,269,15.3743,0.315,0.1537,0.0,1.0298,0.32,0.2445,17.4373,14.9055,96.95,1.1343,1.8,0.0,1.8,5290.08,Efficient Route
+Spain,Europe,Textiles,Block Print Cotton Table Runner,46,11.4913,0.1176,0.1149,0.0,0.8346,0.32,0.1583,13.0367,11.2588,97.97,1.1343,0.9,0.0,2.5,726.37,Efficient Route
+USA,North America,Decor,Madhubani Art Canvas Print Large,778,21.122,0.168,0.2112,0.8601,0.9983,0.35,0.2448,23.9544,20.7428,98.2,1.1343,0.7,3.6,1.5,16558.61,Efficient Route
+Germany,Europe,Decor,Handmade Paper Photo Frame Set 3,172,14.4602,0.189,0.1446,0.0,1.0266,0.32,0.2579,16.3983,14.1266,97.69,1.1342,1.2,0.0,2.0,4103.9,Efficient Route
+New Zealand,Asia Pacific,Kitchen,Copper Water Bottle 750ml,57,21.1161,0.133,0.2112,1.073,1.0177,0.25,0.1416,23.9426,20.772,98.37,1.1342,0.6,4.5,1.0,820.77,Efficient Route
+Kuwait,Middle East,Lighting,Bamboo Table Lamp,45,30.4853,0.352,0.3049,1.5571,1.0853,0.28,0.5303,34.5948,29.8285,97.84,1.1342,1.0,4.5,0.8,1347.22,Efficient Route
+UAE,Middle East,Lighting,Rattan Pendant Lamp Shade,369,25.9383,0.256,0.2594,1.3227,1.0202,0.28,0.3339,29.4105,25.4229,98.01,1.1341,0.9,4.5,1.0,9784.99,Efficient Route
+Portugal,Europe,Decor,Handmade Soy Candle Large,20,12.5515,0.1596,0.1255,0.0,0.89,0.32,0.1873,14.2339,12.2664,97.73,1.1339,1.1,0.0,2.3,206.08,Efficient Route
+Italy,Europe,Kitchen,Bamboo Serving Tray Large,63,15.3194,0.315,0.1532,0.0,1.0136,0.32,0.2491,17.3702,14.8512,96.94,1.1337,1.8,0.0,1.9,968.95,Efficient Route
+Portugal,Europe,Decor,Macrame Plant Hanger Set of 3,27,15.3067,0.147,0.1531,0.0,0.9289,0.32,0.4963,17.3519,15.0066,98.04,1.1334,0.9,0.0,1.9,1037.38,Efficient Route
+Ireland,Europe,Kitchen,Bamboo Cutting Board Set of 3,30,16.4277,0.378,0.1643,0.0,1.0138,0.32,0.3063,18.61,15.8854,96.7,1.1332,2.0,0.0,1.7,527.8,Efficient Route
+USA,North America,Rugs,Jute Braided Area Rug 2x3ft,827,28.8,0.672,0.288,1.1904,1.0438,0.35,0.2711,32.6153,27.84,96.66,1.1327,2.1,3.7,1.1,17459.44,Efficient Route
+Kuwait,Middle East,Lighting,Rattan Pendant Lamp Shade,50,26.1252,0.256,0.2613,1.3321,0.9844,0.28,0.3419,29.5808,25.608,98.02,1.1326,0.9,4.5,0.9,1350.87,Efficient Route
+UK,Europe,Storage,Handwoven Jute Storage Basket Small,277,14.4054,0.252,0.1441,0.0,0.9852,0.32,0.2006,16.3073,14.0094,97.25,1.1323,1.6,0.0,2.0,6400.44,Efficient Route
+France,Europe,Decor,Handmade Soy Candle Set of 3,94,15.4247,0.231,0.1542,0.0,0.9797,0.32,0.3503,17.4599,15.0394,97.5,1.1322,1.3,0.0,1.8,2868.57,Efficient Route
+Sweden,Europe,Kitchen,Bamboo Cutting Board Set of 3,63,16.3686,0.378,0.1637,0.0,1.0245,0.32,0.2743,18.5291,15.8269,96.69,1.1318,2.1,0.0,1.7,1661.76,Efficient Route
+UAE,Middle East,Rugs,Jute Braided Area Rug 2x3ft,540,28.8756,0.448,0.2888,1.4806,1.0,0.28,0.3031,32.6761,28.1388,97.45,1.1318,1.4,4.5,0.9,14575.67,Efficient Route
+USA,North America,Decor,Jute Rope Mirror Frame Round,511,24.0695,0.408,0.2407,0.9887,0.9704,0.35,0.2111,27.2385,23.4208,97.3,1.1318,1.5,3.6,1.3,10208.85,Efficient Route
+France,Europe,Kitchen,Bamboo Serving Tray Large,107,15.3136,0.315,0.1531,0.0,0.9917,0.32,0.2384,17.3319,14.8455,96.94,1.1318,1.8,0.0,1.9,2070.5,Efficient Route
+New Zealand,Asia Pacific,Kitchen,Copper Water Bottle 1L,86,24.064,0.1575,0.2406,1.2231,0.9732,0.25,0.3207,27.2291,23.6658,98.34,1.1317,0.6,4.5,0.9,2449.7,Efficient Route
+Saudi Arabia,Middle East,Kitchen,Teak Wood Salad Bowl Large,204,31.6493,0.384,0.3165,1.7792,0.9868,0.28,0.4196,35.8154,30.9488,97.78,1.1316,1.1,5.0,0.8,5600.89,Efficient Route
+France,Europe,Decor,Macrame Plant Hanger Set of 3,114,15.367,0.147,0.1537,0.0,1.0192,0.32,0.3811,17.388,15.0663,98.04,1.1316,0.9,0.0,1.9,3735.3,Efficient Route
+Germany,Europe,Storage,Jute Cotton Laundry Basket,162,17.3633,0.315,0.1736,0.0,1.0788,0.32,0.393,19.6438,16.8747,97.18,1.1315,1.6,0.0,1.6,5009.94,Efficient Route
+Netherlands,Europe,Decor,Handmade Paper Photo Frame Set 3,82,14.4293,0.189,0.1443,0.0,0.9329,0.32,0.2992,16.3147,14.096,97.69,1.1313,1.2,0.0,2.0,2004.83,Efficient Route
+New Zealand,Asia Pacific,Decor,Macrame Wall Hanging Large,77,24.8519,0.2275,0.2485,1.2664,1.0441,0.25,0.2224,28.1109,24.3759,98.08,1.1313,0.8,4.5,0.9,1454.7,Efficient Route
+France,Europe,Decor,Hand Painted Wooden Bowl,90,15.2018,0.231,0.152,0.0,1.0263,0.32,0.2593,17.1904,14.8188,97.48,1.1311,1.4,0.0,1.9,2122.81,Efficient Route
+Germany,Europe,Kitchen,Bamboo Cutting Board Set of 3,154,16.3531,0.378,0.1635,0.0,1.0738,0.32,0.2049,18.4933,15.8116,96.68,1.1311,2.1,0.0,1.7,2584.59,Efficient Route
+USA,North America,Decor,Macrame Wall Hanging Large,758,25.0077,0.312,0.2501,1.0228,1.0437,0.35,0.2882,28.2745,24.4456,97.75,1.1308,1.1,3.6,1.2,18077.99,Efficient Route
+Netherlands,Europe,Decor,Hand Painted Wooden Bowl,72,15.38,0.231,0.1538,0.0,1.0747,0.32,0.2358,17.3953,14.9952,97.5,1.1308,1.3,0.0,1.9,1266.66,Efficient Route
+Kuwait,Middle East,Rugs,Jute Braided Area Rug 2x3ft,61,28.7607,0.448,0.2876,1.4748,1.0161,0.28,0.2544,32.5216,28.025,97.44,1.1308,1.4,4.5,0.9,1063.25,Efficient Route
+UAE,Middle East,Kitchen,Copper Water Bottle 1L,566,24.0146,0.144,0.2401,1.2199,0.9917,0.28,0.2599,27.1502,23.6304,98.4,1.1307,0.5,4.5,1.0,11739.71,Efficient Route
+Singapore,Asia Pacific,Kitchen,Bamboo Cutting Board Set of 3,156,16.3647,0.315,0.1636,0.0,0.9672,0.25,0.4372,18.4978,15.886,97.07,1.1307,1.7,0.0,1.4,5696.12,Efficient Route
+Portugal,Europe,Garden,Terracotta Planter Set of 3,24,19.1917,0.546,0.1919,0.0,0.9718,0.32,0.4503,21.6717,18.4537,96.15,1.1305,2.5,0.0,1.5,540.39,Efficient Route
+Kuwait,Middle East,Decor,Warli Art Wall Plate Set of 3,47,23.1319,0.288,0.2313,1.1826,0.9596,0.28,0.0743,26.1477,22.6126,97.75,1.1303,1.1,4.5,1.1,718.42,Efficient Route
+Ireland,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,29,16.3493,0.231,0.1635,0.0,0.9826,0.32,0.4232,18.4696,15.9548,97.58,1.1303,1.3,0.0,1.7,1382.84,Efficient Route
+Australia,Asia Pacific,Rugs,Jute Braided Area Rug 2x3ft,235,28.7821,0.49,0.2878,1.478,1.039,0.25,0.1993,32.5263,28.0043,97.29,1.1302,1.5,4.5,0.8,3660.84,Efficient Route
+Saudi Arabia,Middle East,Lighting,Rattan Pendant Lamp Shade,130,26.0322,0.256,0.2603,1.4602,0.8832,0.28,0.2391,29.411,25.5158,98.02,1.1299,0.9,5.0,1.0,3818.07,Efficient Route
+Sweden,Europe,Decor,Handmade Soy Candle Large,47,12.3583,0.1596,0.1236,0.0,0.9597,0.32,0.0454,13.9666,12.0751,97.71,1.1299,1.1,0.0,2.3,245.6,Efficient Route
+UAE,Middle East,Decor,Macrame Wall Hanging Large,522,24.9366,0.208,0.2494,1.2697,1.0127,0.28,0.2138,28.1702,24.4792,98.16,1.1298,0.7,4.5,1.0,9280.56,Efficient Route
+Portugal,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,21,16.3281,0.231,0.1633,0.0,1.0467,0.32,0.3418,18.4308,15.9338,97.58,1.1298,1.3,0.0,1.7,579.51,Efficient Route
+UK,Europe,Decor,Handmade Paper Photo Frame Set 3,267,14.4393,0.189,0.1444,0.0,1.0602,0.32,0.1506,16.3035,14.1059,97.69,1.1292,1.2,0.0,2.0,3657.11,Efficient Route
+Kuwait,Middle East,Kitchen,Copper Water Bottle 1L,73,24.0137,0.144,0.2401,1.2199,1.0468,0.28,0.169,27.1135,23.6296,98.4,1.1288,0.5,4.5,1.0,906.21,Efficient Route
+France,Europe,Kitchen,Bamboo Cutting Board Set of 3,114,16.3275,0.378,0.1633,0.0,0.9933,0.32,0.2304,18.4125,15.7862,96.68,1.1285,2.1,0.0,1.7,2050.48,Efficient Route
+Italy,Europe,Decor,Hand Painted Wooden Bowl,50,15.2096,0.231,0.1521,0.0,1.0258,0.32,0.2183,17.1567,14.8265,97.48,1.1285,1.4,0.0,1.9,1058.88,Efficient Route
+Spain,Europe,Decor,Handmade Paper Photo Frame Set 3,51,14.5147,0.189,0.1451,0.0,1.0143,0.32,0.1855,16.3686,14.1806,97.7,1.1283,1.2,0.0,2.0,1060.07,Efficient Route
+Sweden,Europe,Decor,Handmade Soy Candle Set of 3,58,15.3159,0.231,0.1532,0.0,1.1256,0.32,0.1271,17.2727,14.9317,97.49,1.1282,1.3,0.0,1.9,368.63,Efficient Route
+Spain,Europe,Decor,Macrame Wall Hanging Small,76,17.3747,0.168,0.1738,0.0,0.9012,0.32,0.6511,19.5888,17.033,98.03,1.1281,0.9,0.0,1.6,4119.72,Efficient Route
+USA,North America,Kitchen,Copper Water Bottle 1L,845,24.008,0.216,0.2401,0.9786,1.0227,0.35,0.2677,27.0829,23.5519,98.1,1.1281,0.8,3.6,1.3,18973.58,Efficient Route
+Germany,Europe,Decor,Handmade Soy Candle Set of 3,127,15.3713,0.231,0.1537,0.0,0.9865,0.32,0.2747,17.3372,14.9866,97.49,1.1279,1.3,0.0,1.9,2896.49,Efficient Route
+UK,Europe,Kitchen,Bamboo Cutting Board Set of 3,239,16.3463,0.378,0.1635,0.0,0.9978,0.32,0.2251,18.4307,15.8049,96.68,1.1279,2.1,0.0,1.7,4677.85,Efficient Route
+Sweden,Europe,Decor,Hand Painted Wooden Bowl,59,15.2569,0.231,0.1526,0.0,0.9366,0.32,0.3123,17.2094,14.8734,97.48,1.1277,1.3,0.0,1.9,1712.7,Efficient Route
+Australia,Asia Pacific,Decor,Macrame Wall Hanging Large,193,24.9573,0.2275,0.2496,1.2717,0.981,0.25,0.2033,28.1404,24.4803,98.09,1.1277,0.8,4.5,0.9,2991.86,Efficient Route
+Ireland,Europe,Garden,Terracotta Planter Large,23,22.873,0.756,0.2287,0.0,0.9384,0.32,0.6933,25.8094,21.8883,95.69,1.1276,3.0,0.0,1.2,1326.65,Efficient Route
+Australia,Asia Pacific,Kitchen,Copper Water Bottle 750ml,136,20.9307,0.133,0.2093,1.0636,0.9503,0.25,0.067,23.604,20.5884,98.36,1.1276,0.6,4.5,1.1,947.33,Efficient Route
+Ireland,Europe,Storage,Jute Cotton Laundry Basket,27,17.2133,0.315,0.1721,0.0,0.9838,0.32,0.3929,19.3972,16.7262,97.17,1.1274,1.6,0.0,1.7,952.8,Efficient Route
+Italy,Europe,Textiles,Block Print Cotton Napkin Set of 6,58,13.4521,0.147,0.1345,0.0,1.0452,0.32,0.0618,15.1606,13.1705,97.91,1.1271,1.0,0.0,2.1,384.89,Efficient Route
+Saudi Arabia,Middle East,Rugs,Cotton Dhurrie Rug 3x5ft,203,33.7052,0.512,0.3371,1.9005,1.0152,0.28,0.2402,37.9901,32.8561,97.48,1.1271,1.4,5.0,0.7,3950.6,Efficient Route
+Saudi Arabia,Middle East,Lighting,Bamboo Table Lamp,144,30.6822,0.352,0.3068,1.7238,1.0033,0.28,0.2185,34.5666,30.0234,97.85,1.1267,1.0,5.0,0.8,3174.5,Efficient Route
+Sweden,Europe,Storage,Jute Cotton Laundry Basket,39,17.3631,0.315,0.1736,0.0,0.9543,0.32,0.4365,19.5625,16.8744,97.18,1.1266,1.6,0.0,1.6,1632.7,Efficient Route
+USA,North America,Lighting,Rattan Pendant Lamp Shade,509,26.0839,0.384,0.2608,1.0692,0.9945,0.35,0.2341,29.3765,25.4391,97.53,1.1265,1.3,3.6,1.2,9429.56,Efficient Route
+Germany,Europe,Garden,Terracotta Planter Set of 3,154,19.2182,0.546,0.1922,0.0,0.9934,0.32,0.3743,21.6441,18.48,96.15,1.1263,2.5,0.0,1.5,4935.16,Efficient Route
+Japan,Asia Pacific,Garden,Terracotta Planter Set of 3,36,19.4056,0.455,0.1941,0.0,0.9997,0.25,0.5613,21.8656,18.7565,96.65,1.1262,2.1,0.0,1.2,1664.53,Efficient Route
+Netherlands,Europe,Garden,Terracotta Planter Set of 3,84,19.0595,0.546,0.1906,0.0,1.0803,0.32,0.2586,21.455,18.3229,96.13,1.1261,2.6,0.0,1.5,1876.99,Efficient Route
+Sweden,Europe,Decor,Hand Painted Wooden Tray,42,16.9757,0.294,0.1698,0.0,1.0334,0.32,0.3249,19.1178,16.5119,97.26,1.1258,1.5,0.0,1.7,978.23,Efficient Route
+Australia,Asia Pacific,Kitchen,Teak Wood Salad Bowl Large,239,31.807,0.42,0.3181,1.6273,0.9913,0.25,0.3824,35.796,31.069,97.68,1.1256,1.2,4.6,0.7,6260.29,Efficient Route
+Netherlands,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,69,16.1845,0.231,0.1618,0.0,1.0213,0.32,0.2932,18.2118,15.7916,97.57,1.1255,1.3,0.0,1.8,1606.19,Efficient Route
+New Zealand,Asia Pacific,Kitchen,Teak Wood Salad Bowl Large,75,31.7328,0.42,0.3173,1.6235,1.06,0.25,0.3022,35.7058,30.9955,97.67,1.1254,1.2,4.6,0.7,1569.04,Efficient Route
+Netherlands,Europe,Decor,Macrame Plant Hanger Set of 3,70,15.3531,0.147,0.1535,0.0,1.0381,0.32,0.2656,17.2774,15.0526,98.04,1.1253,0.9,0.0,1.9,1473.86,Efficient Route
+New Zealand,Asia Pacific,Lighting,Rattan Pendant Lamp Shade,58,25.9945,0.28,0.2599,1.3267,0.9327,0.25,0.2011,29.2449,25.4545,97.92,1.1253,1.0,4.5,0.9,1372.84,Efficient Route
+Portugal,Europe,Storage,Jute Cotton Laundry Basket,21,17.3914,0.315,0.1739,0.0,1.0805,0.32,0.2833,19.5641,16.9025,97.19,1.125,1.6,0.0,1.6,362.91,Efficient Route
+Spain,Europe,Decor,Hand Painted Wooden Bowl,53,15.1396,0.231,0.1514,0.0,0.9379,0.32,0.2415,17.0214,14.7572,97.47,1.1249,1.4,0.0,1.9,1030.01,Efficient Route
+UK,Europe,Decor,Macrame Plant Hanger Set of 3,259,15.3717,0.147,0.1537,0.0,1.0465,0.32,0.2416,17.2805,15.071,98.04,1.1248,0.9,0.0,1.9,4794.09,Efficient Route
+France,Europe,Decor,Hand Painted Wooden Tray,85,17.3944,0.294,0.1739,0.0,1.0452,0.32,0.3312,19.5587,16.9264,97.31,1.1247,1.5,0.0,1.6,2505.51,Efficient Route
+France,Europe,Decor,Handmade Paper Photo Frame Set 3,96,14.5422,0.189,0.1454,0.0,0.9772,0.32,0.1691,16.343,14.2078,97.7,1.1245,1.2,0.0,2.0,1713.54,Efficient Route
+UK,Europe,Garden,Terracotta Planter Set of 3,262,19.2573,0.546,0.1926,0.0,0.9734,0.32,0.3601,21.6493,18.5187,96.16,1.1244,2.5,0.0,1.5,8612.17,Efficient Route
+Germany,Europe,Decor,Macrame Plant Hanger Set of 3,150,15.3312,0.147,0.1533,0.0,1.0244,0.32,0.2566,17.2325,15.0309,98.04,1.1243,0.9,0.0,1.9,2715.47,Efficient Route
+Australia,Asia Pacific,Rugs,Cotton Dhurrie Rug 3x5ft,235,33.4138,0.56,0.3341,1.7154,1.0156,0.25,0.2689,37.5579,32.5197,97.32,1.1243,1.5,4.6,0.7,5838.04,Efficient Route
+Portugal,Europe,Decor,Hand Painted Wooden Bowl,32,15.485,0.231,0.1549,0.0,0.9375,0.32,0.288,17.4164,15.0991,97.51,1.1243,1.3,0.0,1.8,655.84,Efficient Route
+Spain,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,59,16.3229,0.231,0.1632,0.0,0.9854,0.32,0.3222,18.3447,15.9287,97.58,1.1241,1.3,0.0,1.8,1672.28,Efficient Route
+Kuwait,Middle East,Decor,Macrame Wall Hanging Large,71,25.0186,0.208,0.2502,1.2738,0.9931,0.28,0.0887,28.1124,24.5604,98.17,1.1239,0.7,4.5,1.0,678.47,Efficient Route
+Portugal,Europe,Decor,Handmade Paper Photo Frame Set 3,24,14.5438,0.189,0.1454,0.0,0.956,0.32,0.1869,16.3411,14.2093,97.7,1.1239,1.2,0.0,2.0,629.26,Efficient Route
+UAE,Middle East,Rugs,Cotton Dhurrie Rug 3x5ft,524,33.7543,0.512,0.3375,1.7302,1.0376,0.28,0.2775,37.9291,32.9047,97.48,1.1238,1.4,4.6,0.7,11480.97,Efficient Route
+UAE,Middle East,Kitchen,Teak Wood Salad Bowl Large,548,31.6655,0.384,0.3167,1.6183,1.0215,0.28,0.2932,35.5792,30.9649,97.79,1.1237,1.1,4.6,0.8,12585.37,Efficient Route
+New Zealand,Asia Pacific,Rugs,Cotton Dhurrie Rug 3x5ft,84,33.6208,0.56,0.3362,1.7259,1.0452,0.25,0.2409,37.779,32.7246,97.33,1.1237,1.5,4.6,0.7,2070.04,Efficient Route
+Germany,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,142,16.3523,0.231,0.1635,0.0,0.949,0.32,0.3598,18.3756,15.9578,97.59,1.1235,1.3,0.0,1.8,3722.83,Efficient Route
+UK,Europe,Decor,Hand Painted Wooden Bowl,275,15.3553,0.231,0.1536,0.0,0.9931,0.32,0.1974,17.2503,14.9708,97.49,1.1234,1.3,0.0,1.9,5029.35,Efficient Route
+Ireland,Europe,Decor,Handmade Soy Candle Set of 3,19,15.3853,0.231,0.1538,0.0,1.0738,0.32,0.1121,17.276,15.0004,97.5,1.1231,1.3,0.0,1.9,276.84,Efficient Route
+Germany,Europe,Storage,Handwoven Jute Storage Basket Large,265,19.1698,0.378,0.1917,0.0,1.0572,0.32,0.4046,21.5213,18.6001,97.02,1.1229,1.8,0.0,1.5,8132.63,Efficient Route
+Kuwait,Middle East,Kitchen,Teak Wood Salad Bowl Large,73,31.4223,0.384,0.3142,1.606,1.1343,0.28,0.1312,35.2721,30.7241,97.78,1.1229,1.1,4.6,0.8,1010.28,Efficient Route
+Japan,Asia Pacific,Decor,Handmade Paper Photo Frame Set 3,52,14.2615,0.1575,0.1426,0.0,1.085,0.25,0.1149,16.0115,13.9614,97.89,1.1227,1.0,0.0,1.6,544.72,Efficient Route
+USA,North America,Kitchen,Teak Wood Salad Bowl Large,837,31.7565,0.576,0.3176,1.306,1.0305,0.35,0.3093,35.6459,30.8629,97.18,1.1226,1.6,3.7,1.0,21227.1,Efficient Route
+Singapore,Asia Pacific,Kitchen,Bamboo Serving Tray Large,152,15.3432,0.2625,0.1534,0.0,0.9973,0.25,0.2199,17.2262,14.9273,97.29,1.1225,1.5,0.0,1.5,2909.9,Efficient Route
+Kuwait,Middle East,Rugs,Cotton Dhurrie Rug 3x5ft,81,33.6951,0.512,0.337,1.7272,0.9384,0.28,0.327,37.8166,32.8461,97.48,1.1224,1.4,4.6,0.7,2270.12,Efficient Route
+Singapore,Asia Pacific,Decor,Hand Painted Wooden Bowl,162,15.3442,0.1925,0.1534,0.0,1.0053,0.25,0.279,17.2244,14.9983,97.74,1.1224,1.1,0.0,1.5,4218.88,Efficient Route
+Spain,Europe,Decor,Hand Painted Wooden Tray,63,17.3571,0.294,0.1736,0.0,0.9904,0.32,0.3474,19.4825,16.8896,97.3,1.1221,1.5,0.0,1.7,1634.81,Efficient Route
+Italy,Europe,Decor,Handmade Soy Candle Set of 3,51,15.3443,0.231,0.1534,0.0,0.9378,0.32,0.2167,17.2032,14.9599,97.49,1.122,1.3,0.0,1.9,904.63,Efficient Route
+Spain,Europe,Storage,Woven Seagrass Floor Basket,44,22.1061,0.462,0.2211,0.0,1.1179,0.32,0.557,24.7841,21.4231,96.91,1.122,1.9,0.0,1.3,1691.16,Efficient Route
+Singapore,Asia Pacific,Textiles,Handloom Cotton Throw Pillow Set 2,138,16.3323,0.1925,0.1633,0.0,1.0103,0.25,0.3703,18.3187,15.9765,97.82,1.1218,1.1,0.0,1.4,4632.0,Efficient Route
+Japan,Asia Pacific,Textiles,Block Print Cotton Napkin Set of 6,50,13.4316,0.1225,0.1343,0.0,0.9446,0.25,0.1783,15.0613,13.1748,98.09,1.1217,0.8,0.0,1.7,1055.05,Efficient Route
+Japan,Asia Pacific,Storage,Handwoven Jute Storage Basket Small,47,14.3681,0.21,0.1437,0.0,1.0343,0.25,0.1147,16.1207,14.0144,97.54,1.1217,1.3,0.0,1.6,609.79,Efficient Route
+France,Europe,Storage,Handwoven Jute Storage Basket Small,107,14.3565,0.252,0.1436,0.0,0.9447,0.32,0.0832,16.1,13.961,97.24,1.1216,1.6,0.0,2.0,1001.23,Efficient Route
+Ireland,Europe,Storage,Handwoven Jute Storage Basket Small,28,14.5018,0.252,0.145,0.0,0.8441,0.32,0.2057,16.2686,14.1048,97.26,1.1214,1.6,0.0,2.0,446.42,Efficient Route
+France,Europe,Garden,Terracotta Planter Set of 3,107,19.1607,0.546,0.1916,0.0,1.0498,0.32,0.2104,21.4786,18.4231,96.15,1.1213,2.5,0.0,1.5,2232.99,Efficient Route
+USA,North America,Lighting,Bamboo Table Lamp,495,30.7407,0.528,0.3074,1.263,0.9951,0.35,0.2752,34.4594,29.9053,97.28,1.1211,1.5,3.7,1.0,11705.65,Efficient Route
+Sweden,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,57,16.3767,0.231,0.1638,0.0,1.0058,0.32,0.2515,18.3487,15.9819,97.59,1.1211,1.3,0.0,1.8,885.3,Efficient Route
+USA,North America,Rugs,Cotton Dhurrie Rug 3x5ft,738,33.5711,0.768,0.3357,1.387,1.0054,0.35,0.2126,37.6298,32.4674,96.71,1.121,2.0,3.7,0.9,16590.32,Efficient Route
+UK,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,277,16.2684,0.231,0.1627,0.0,1.0075,0.32,0.2432,18.2328,15.8748,97.58,1.1209,1.3,0.0,1.8,5567.48,Efficient Route
+UAE,Middle East,Lighting,Bamboo Table Lamp,366,30.7917,0.352,0.3079,1.5726,0.9598,0.28,0.2364,34.5004,30.1318,97.86,1.1205,1.0,4.6,0.8,8733.94,Efficient Route
+Singapore,Asia Pacific,Decor,Macrame Plant Hanger Set of 3,142,15.3927,0.1225,0.1539,0.0,1.0662,0.25,0.2593,17.2446,15.1163,98.2,1.1204,0.7,0.0,1.5,3226.44,Efficient Route
+Australia,Asia Pacific,Lighting,Bamboo Table Lamp,136,30.9435,0.385,0.3094,1.5819,1.0016,0.25,0.1997,34.6711,30.2491,97.75,1.1204,1.1,4.6,0.7,2266.94,Efficient Route
+Netherlands,Europe,Decor,Hand Painted Wooden Tray,76,17.3605,0.294,0.1736,0.0,0.9745,0.32,0.3105,19.433,16.8929,97.3,1.1203,1.5,0.0,1.7,2187.48,Efficient Route
+Spain,Europe,Decor,Handmade Soy Candle Set of 3,54,15.4489,0.231,0.1545,0.0,1.0806,0.32,0.0685,17.3035,15.0634,97.5,1.1201,1.3,0.0,1.9,436.16,Efficient Route
+Netherlands,Europe,Storage,Jute Cotton Laundry Basket,80,17.3115,0.315,0.1731,0.0,1.0441,0.32,0.2191,19.3828,16.8234,97.18,1.12,1.6,0.0,1.7,1160.61,Efficient Route
+Singapore,Asia Pacific,Decor,Handmade Soy Candle Set of 3,147,15.3176,0.1925,0.1532,0.0,0.9975,0.25,0.2393,17.15,14.9719,97.74,1.1194,1.1,0.0,1.5,2713.37,Efficient Route
+France,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,81,16.278,0.231,0.1628,0.0,1.0234,0.32,0.1986,18.2138,15.8842,97.58,1.119,1.3,0.0,1.8,1594.42,Efficient Route
+Singapore,Asia Pacific,Storage,Jute Cotton Laundry Basket,137,17.2813,0.2625,0.1728,0.0,1.0711,0.25,0.298,19.3357,16.846,97.48,1.1189,1.4,0.0,1.3,3105.12,Efficient Route
+Italy,Europe,Decor,Hand Painted Wooden Tray,65,17.1222,0.294,0.1712,0.0,1.0669,0.32,0.1759,19.1502,16.6569,97.28,1.1188,1.5,0.0,1.7,842.51,Efficient Route
+France,Europe,Storage,Jute Cotton Laundry Basket,109,17.3114,0.315,0.1731,0.0,0.9481,0.32,0.2943,19.3619,16.8233,97.18,1.1187,1.6,0.0,1.7,3470.96,Efficient Route
+Spain,Europe,Decor,Macrame Plant Hanger Set of 3,48,15.3833,0.147,0.1538,0.0,0.9849,0.32,0.2121,17.2012,15.0825,98.04,1.1186,0.9,0.0,1.9,731.58,Efficient Route
+Italy,Europe,Garden,Terracotta Planter Set of 3,64,19.2063,0.546,0.1921,0.0,1.0259,0.32,0.1954,21.4856,18.4682,96.15,1.1185,2.5,0.0,1.5,1257.1,Efficient Route
+Italy,Europe,Garden,Terracotta Planter Large,62,23.0206,0.756,0.2302,0.0,1.0521,0.32,0.3644,25.7433,22.0344,95.71,1.1183,2.9,0.0,1.2,1569.97,Efficient Route
+Portugal,Europe,Decor,Handmade Soy Candle Set of 3,28,15.4114,0.231,0.1541,0.0,0.9546,0.32,0.1639,17.235,15.0263,97.5,1.1182,1.3,0.0,1.9,489.98,Efficient Route
+Spain,Europe,Storage,Handwoven Jute Storage Basket Small,62,14.5524,0.252,0.1455,0.0,0.8563,0.32,0.1453,16.2715,14.1549,97.27,1.118,1.6,0.0,2.0,1498.27,Efficient Route
+Spain,Europe,Garden,Terracotta Planter Large,44,23.2691,0.756,0.2327,0.0,1.1269,0.32,0.3153,26.02,22.2804,95.75,1.1179,2.9,0.0,1.2,927.73,Efficient Route
+Saudi Arabia,Middle East,Kitchen,Ceramic Dinner Set 12pc,203,46.0776,0.8,0.4608,2.6036,1.0284,0.28,0.2542,51.5046,44.8169,97.26,1.1178,1.6,5.1,0.5,5127.06,Efficient Route
+Japan,Asia Pacific,Decor,Hand Painted Wooden Tray,47,17.2953,0.245,0.1729,0.0,1.0147,0.25,0.346,19.324,16.8774,97.58,1.1177,1.3,0.0,1.3,1316.48,Efficient Route
+Japan,Asia Pacific,Decor,Hand Painted Wooden Bowl,55,15.4095,0.1925,0.1541,0.0,1.0333,0.25,0.1744,17.2137,15.0629,97.75,1.1174,1.1,0.0,1.5,843.19,Efficient Route
+Saudi Arabia,Middle East,Textiles,Kantha Quilt Throw Blanket,221,36.4886,0.384,0.3649,2.0481,1.0458,0.28,0.1584,40.7698,35.7397,97.95,1.1174,0.9,5.0,0.7,2720.97,Efficient Route
+Germany,Europe,Decor,Hand Painted Wooden Tray,178,17.2082,0.294,0.1721,0.0,1.0271,0.32,0.1988,19.2202,16.7421,97.29,1.1172,1.5,0.0,1.7,3146.62,Efficient Route
+Japan,Asia Pacific,Decor,Macrame Plant Hanger Set of 3,72,15.3667,0.1225,0.1537,0.0,1.0682,0.25,0.208,17.169,15.0905,98.2,1.1172,0.7,0.0,1.5,1282.84,Efficient Route
+UK,Europe,Garden,Terracotta Planter Large,248,23.0768,0.756,0.2308,0.0,1.0371,0.32,0.3523,25.773,22.09,95.72,1.117,2.9,0.0,1.2,6562.78,Efficient Route
+Spain,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,80,18.4395,0.189,0.1844,0.0,1.1348,0.32,0.3268,20.5945,18.0661,97.97,1.1169,0.9,0.0,1.6,1939.84,Efficient Route
+New Zealand,Asia Pacific,Lighting,Bamboo Table Lamp,41,30.8371,0.385,0.3084,1.5765,0.8566,0.25,0.2126,34.4263,30.1437,97.75,1.1168,1.1,4.6,0.7,901.29,Efficient Route
+Portugal,Europe,Decor,Hand Painted Wooden Tray,37,17.2459,0.294,0.1725,0.0,1.0837,0.32,0.1417,19.2577,16.7795,97.29,1.1166,1.5,0.0,1.7,267.31,Efficient Route
+Portugal,Europe,Decor,Macrame Wall Hanging Small,47,17.2187,0.168,0.1722,0.0,1.0062,0.32,0.3366,19.2217,16.8785,98.02,1.1163,0.9,0.0,1.7,862.87,Efficient Route
+Australia,Asia Pacific,Textiles,Kantha Quilt Throw Blanket,247,36.6,0.42,0.366,1.8693,1.0504,0.25,0.2949,40.8506,35.814,97.85,1.1162,1.0,4.6,0.6,5872.75,Efficient Route
+Netherlands,Europe,Storage,Handwoven Jute Storage Basket Large,117,19.1299,0.378,0.1913,0.0,1.0653,0.32,0.2658,21.3503,18.5606,97.02,1.1162,1.8,0.0,1.5,3072.24,Efficient Route
+Netherlands,Europe,Decor,Handmade Soy Candle Set of 3,71,15.2766,0.231,0.1528,0.0,0.8807,0.32,0.1884,17.0495,14.8929,97.49,1.1159,1.4,0.0,1.9,1390.74,Efficient Route
+Sweden,Europe,Decor,Handmade Paper Photo Frame Set 3,60,14.37,0.189,0.1437,0.0,0.9602,0.32,0.0491,16.032,14.0373,97.68,1.1159,1.2,0.0,2.0,487.58,Efficient Route
+UK,Europe,Storage,Jute Cotton Laundry Basket,268,17.3049,0.315,0.173,0.0,0.9857,0.32,0.2066,19.3053,16.8168,97.18,1.1158,1.6,0.0,1.7,4415.52,Efficient Route
+Singapore,Asia Pacific,Decor,Handmade Paper Photo Frame Set 3,142,14.3926,0.1575,0.1439,0.0,0.9488,0.25,0.1614,16.0543,14.0912,97.9,1.1156,1.0,0.0,1.6,2388.21,Efficient Route
+UK,Europe,Storage,Handwoven Jute Storage Basket Large,391,19.1668,0.378,0.1917,0.0,0.9963,0.32,0.3262,21.3789,18.5971,97.02,1.1156,1.8,0.0,1.5,11238.07,Efficient Route
+Kuwait,Middle East,Textiles,Kantha Quilt Throw Blanket,64,36.48,0.384,0.3648,1.8614,0.996,0.28,0.3146,40.6808,35.7312,97.95,1.1154,0.9,4.6,0.7,1514.45,Efficient Route
+UAE,Middle East,Textiles,Kantha Quilt Throw Blanket,572,36.6374,0.384,0.3664,1.8694,1.0175,0.28,0.3026,40.8573,35.8871,97.95,1.1153,0.9,4.6,0.7,14103.37,Efficient Route
+Sweden,Europe,Storage,Handwoven Jute Storage Basket Small,34,14.5456,0.252,0.1454,0.0,0.8996,0.32,0.0584,16.2211,14.1481,97.27,1.1152,1.6,0.0,2.0,432.38,Efficient Route
+Italy,Europe,Kitchen,Bamboo Cutting Board Set of 3,52,16.4246,0.378,0.1643,0.0,0.947,0.32,0.0729,18.3068,15.8824,96.7,1.1148,2.1,0.0,1.8,462.12,Efficient Route
+Saudi Arabia,Middle East,Rugs,Jute Braided Area Rug 4x6ft,189,53.8578,1.024,0.5386,3.0481,0.9822,0.28,0.2908,60.0215,52.2952,97.09,1.1146,1.7,5.1,0.5,4865.02,Efficient Route
+Japan,Asia Pacific,Garden,Terracotta Planter Large,50,23.1648,0.63,0.2316,0.0,1.0628,0.25,0.4795,25.8187,22.3032,96.28,1.1146,2.5,0.0,1.0,1421.73,Efficient Route
+UK,Europe,Decor,Hand Painted Wooden Tray,255,17.3167,0.294,0.1732,0.0,1.0024,0.32,0.1896,19.2959,16.8495,97.3,1.1144,1.5,0.0,1.7,4333.71,Efficient Route
+Italy,Europe,Storage,Jute Cotton Laundry Basket,50,17.244,0.315,0.1724,0.0,1.0412,0.32,0.11,19.2026,16.7566,97.17,1.1142,1.6,0.0,1.7,547.34,Efficient Route
+Italy,Europe,Decor,Macrame Wall Hanging Small,85,17.3711,0.168,0.1737,0.0,1.0989,0.32,0.225,19.3567,17.0293,98.03,1.114,0.9,0.0,1.7,1815.94,Efficient Route
+Portugal,Europe,Decor,Brass Tealight Holder Set of 4,29,21.2793,0.273,0.2128,0.0,1.0103,0.32,0.6033,23.6987,20.7935,97.72,1.114,1.2,0.0,1.4,1457.66,Efficient Route
+Japan,Asia Pacific,Decor,Brass Tealight Holder Set of 4,52,20.9,0.2275,0.209,0.0,1.0029,0.25,0.6812,23.2706,20.4635,97.91,1.1138,1.0,0.0,1.1,2478.74,Efficient Route
+Saudi Arabia,Middle East,Textiles,Hand Block Print Bedsheet Set,211,44.3344,0.576,0.4433,2.4945,1.0222,0.28,0.2167,49.3671,43.3151,97.7,1.1136,1.2,5.1,0.6,3393.62,Efficient Route
+Ireland,Europe,Garden,Terracotta Planter Set of 3,27,19.1556,0.546,0.1916,0.0,0.9649,0.32,0.1545,21.3325,18.418,96.15,1.1136,2.6,0.0,1.5,208.55,Efficient Route
+Germany,Europe,Storage,Woven Seagrass Floor Basket,158,22.0072,0.462,0.2201,0.0,1.0702,0.32,0.4204,24.4998,21.3251,96.9,1.1136,1.9,0.0,1.3,5600.0,Efficient Route
+USA,North America,Kitchen,Ceramic Dinner Set 12pc,819,46.1415,1.2,0.4614,1.9121,1.0223,0.35,0.2878,51.3752,44.4801,96.39,1.1135,2.3,3.7,0.7,19163.38,Efficient Route
+UK,Europe,Decor,Macrame Wall Hanging Small,394,17.3019,0.168,0.173,0.0,1.0354,0.32,0.2628,19.2612,16.9609,98.03,1.1135,0.9,0.0,1.7,8590.47,Efficient Route
+Portugal,Europe,Storage,Handwoven Jute Storage Basket Large,35,19.04,0.378,0.1904,0.0,1.0867,0.32,0.1879,21.2031,18.4716,97.01,1.1133,1.8,0.0,1.5,684.61,Efficient Route
+France,Europe,Decor,Recycled Glass Vase Set of 2,95,20.1534,0.399,0.2015,0.0,1.0267,0.32,0.3234,22.424,19.5528,97.02,1.1132,1.8,0.0,1.4,2216.41,Efficient Route
+UAE,Middle East,Kitchen,Ceramic Dinner Set 12pc,522,46.1297,0.8,0.4613,2.3696,1.0261,0.28,0.2543,51.3209,44.8684,97.26,1.1126,1.6,4.6,0.5,11841.34,Efficient Route
+Germany,Europe,Garden,Terracotta Planter Large,173,22.9193,0.756,0.2292,0.0,0.9845,0.32,0.2905,25.4995,21.9341,95.7,1.1126,3.0,0.0,1.3,4339.56,Efficient Route
+France,Europe,Decor,Macrame Wall Hanging Small,168,17.4139,0.168,0.1741,0.0,1.089,0.32,0.2089,19.374,17.0718,98.03,1.1125,0.9,0.0,1.7,2707.29,Efficient Route
+USA,North America,Textiles,Kantha Quilt Throw Blanket,795,36.4977,0.576,0.365,1.4975,1.0172,0.35,0.2991,40.6025,35.5567,97.42,1.1125,1.4,3.7,0.9,20512.87,Efficient Route
+New Zealand,Asia Pacific,Textiles,Kantha Quilt Throw Blanket,76,36.63,0.42,0.3663,1.8708,0.9724,0.25,0.2309,40.7403,35.8437,97.85,1.1124,1.0,4.6,0.6,1414.12,Efficient Route
+Japan,Asia Pacific,Storage,Jute Cotton Laundry Basket,43,17.4223,0.2625,0.1742,0.0,1.008,0.25,0.2643,19.3813,16.9856,97.49,1.1123,1.4,0.0,1.3,842.08,Efficient Route
+Singapore,Asia Pacific,Decor,Macrame Wall Hanging Small,230,17.3176,0.14,0.1732,0.0,1.0564,0.25,0.3205,19.2577,17.0044,98.19,1.1123,0.7,0.0,1.3,5654.32,Efficient Route
+France,Europe,Storage,Handwoven Jute Storage Basket Large,159,19.2516,0.378,0.1925,0.0,0.9746,0.32,0.2844,21.4011,18.6811,97.03,1.1122,1.8,0.0,1.5,3949.58,Efficient Route
+Sweden,Europe,Garden,Terracotta Planter Set of 3,46,19.3565,0.546,0.1936,0.0,1.0037,0.32,0.0989,21.5187,18.617,96.18,1.112,2.5,0.0,1.5,357.96,Efficient Route
+Ireland,Europe,Decor,Hand Painted Wooden Bowl,23,15.4296,0.231,0.1543,0.0,0.9471,0.32,0.0644,17.1464,15.0442,97.5,1.1119,1.3,0.0,1.9,191.16,Efficient Route
+Sweden,Europe,Decor,Macrame Plant Hanger Set of 3,53,15.3872,0.147,0.1539,0.0,0.9902,0.32,0.1064,17.1046,15.0863,98.04,1.1118,0.9,0.0,1.9,429.74,Efficient Route
+Kuwait,Middle East,Kitchen,Ceramic Dinner Set 12pc,70,46.5189,0.8,0.4652,2.3892,0.9853,0.28,0.2716,51.7102,45.2537,97.28,1.1118,1.5,4.6,0.5,1703.64,Efficient Route
+Kuwait,Middle East,Textiles,Hand Block Print Bedsheet Set,92,44.205,0.576,0.4421,2.2612,1.0687,0.28,0.3021,49.135,43.1869,97.69,1.1115,1.2,4.6,0.6,1909.53,Efficient Route
+Netherlands,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,113,18.245,0.189,0.1825,0.0,1.0498,0.32,0.2824,20.2687,17.8736,97.96,1.1114,0.9,0.0,1.6,2945.59,Efficient Route
+USA,North America,Rugs,Jute Braided Area Rug 4x6ft,782,53.8832,1.536,0.5388,2.2383,1.0214,0.35,0.2846,59.8523,51.8083,96.14,1.1109,2.6,3.7,0.6,18074.18,Efficient Route
+Ireland,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,40,18.3873,0.189,0.1839,0.0,1.0681,0.32,0.2729,20.4211,18.0144,97.97,1.1109,0.9,0.0,1.6,642.09,Efficient Route
+Australia,Asia Pacific,Kitchen,Ceramic Dinner Set 12pc,241,46.1417,0.875,0.4614,2.3739,0.9377,0.25,0.206,51.2458,44.8053,97.1,1.1108,1.7,4.6,0.5,4547.19,Efficient Route
+Spain,Europe,Storage,Handwoven Jute Storage Basket Large,67,19.2,0.378,0.192,0.0,0.9026,0.32,0.3267,21.3193,18.63,97.03,1.1105,1.8,0.0,1.5,2250.68,Efficient Route
+Singapore,Asia Pacific,Garden,Terracotta Planter Set of 3,145,19.1697,0.455,0.1917,0.0,1.0287,0.25,0.1805,21.2755,18.523,96.62,1.1102,2.1,0.0,1.2,2221.32,Efficient Route
+Portugal,Europe,Decor,Recycled Glass Vase Set of 2,29,20.3555,0.399,0.2035,0.0,0.9631,0.32,0.3429,22.5841,19.753,97.04,1.1102,1.8,0.0,1.4,701.8,Efficient Route
+Japan,Asia Pacific,Textiles,Handloom Cotton Throw Pillow Set 2,44,16.3239,0.1925,0.1632,0.0,0.9127,0.25,0.2675,18.1099,15.9682,97.82,1.1101,1.1,0.0,1.4,859.6,Efficient Route
+Australia,Asia Pacific,Textiles,Hand Block Print Bedsheet Set,232,44.2948,0.63,0.4429,2.2684,1.0017,0.25,0.2737,49.1616,43.2219,97.58,1.11,1.3,4.6,0.5,5294.06,Efficient Route
+Sweden,Europe,Decor,Recycled Glass Vase Set of 2,54,20.3856,0.399,0.2038,0.0,0.944,0.32,0.3724,22.6248,19.7827,97.04,1.1099,1.8,0.0,1.4,1633.02,Efficient Route
+Portugal,Europe,Kitchen,Ceramic Mug Set of 4,18,21.6211,0.357,0.2162,0.0,1.0035,0.32,0.4853,24.003,21.0479,97.35,1.1099,1.5,0.0,1.3,562.05,Efficient Route
+Australia,Asia Pacific,Rugs,Jute Braided Area Rug 4x6ft,239,53.9967,1.12,0.54,2.7828,1.0427,0.25,0.1909,59.9231,52.3367,96.92,1.1099,1.9,4.6,0.4,4338.39,Efficient Route
+Singapore,Asia Pacific,Decor,Hand Painted Wooden Tray,141,17.2991,0.245,0.173,0.0,1.0118,0.25,0.214,19.1929,16.8812,97.58,1.1098,1.3,0.0,1.3,2631.51,Efficient Route
+Germany,Europe,Decor,Recycled Glass Vase Set of 2,175,20.2584,0.399,0.2026,0.0,1.0084,0.32,0.2857,22.4741,19.6568,97.03,1.1097,1.8,0.0,1.4,3801.14,Efficient Route
+Spain,Europe,Storage,Jute Cotton Laundry Basket,43,17.3553,0.315,0.1736,0.0,1.0087,0.32,0.0817,19.2543,16.8668,97.18,1.1094,1.6,0.0,1.7,232.94,Efficient Route
+Netherlands,Europe,Garden,Terracotta Planter Large,87,22.9821,0.756,0.2298,0.0,1.0191,0.32,0.1897,25.4966,21.9963,95.71,1.1094,3.0,0.0,1.3,1932.51,Efficient Route
+UK,Europe,Decor,Recycled Glass Vase Set of 2,260,20.2149,0.399,0.2022,0.0,0.9541,0.32,0.3372,22.4274,19.6138,97.02,1.1093,1.8,0.0,1.4,7561.07,Efficient Route
+New Zealand,Asia Pacific,Textiles,Hand Block Print Bedsheet Set,86,44.0691,0.63,0.4407,2.257,0.9405,0.25,0.2947,48.8819,42.9984,97.57,1.1092,1.3,4.6,0.5,2169.94,Efficient Route
+Netherlands,Europe,Kitchen,Teak Wood Cheese Board,71,22.8777,0.357,0.2288,0.0,1.0806,0.32,0.5117,25.3757,22.292,97.44,1.1089,1.4,0.0,1.3,2862.88,Efficient Route
+Ireland,Europe,Decor,Macrame Wall Hanging Small,34,17.2535,0.168,0.1725,0.0,1.0247,0.32,0.1835,19.1222,16.913,98.03,1.1089,0.9,0.0,1.7,593.34,Efficient Route
+Sweden,Europe,Decor,Brass Tealight Holder Set of 4,49,21.3535,0.273,0.2135,0.0,1.1352,0.32,0.3716,23.6668,20.8669,97.72,1.1088,1.2,0.0,1.4,2263.92,Efficient Route
+New Zealand,Asia Pacific,Kitchen,Ceramic Dinner Set 12pc,75,46.2976,0.875,0.463,2.3818,0.987,0.25,0.082,51.3364,44.9596,97.11,1.1088,1.7,4.6,0.5,411.6,Efficient Route
+Kuwait,Middle East,Rugs,Jute Braided Area Rug 4x6ft,68,53.5706,1.024,0.5357,2.7565,1.0276,0.28,0.1898,59.3842,52.0109,97.09,1.1087,1.7,4.6,0.5,892.7,Efficient Route
+Italy,Europe,Kitchen,Ceramic Mug Set of 4,38,21.3632,0.357,0.2136,0.0,1.0494,0.32,0.3691,23.6723,20.7925,97.33,1.1086,1.5,0.0,1.4,1398.4,Efficient Route
+UAE,Middle East,Rugs,Jute Braided Area Rug 4x6ft,540,53.8596,1.024,0.5386,2.7711,1.0181,0.28,0.2107,59.7021,52.297,97.1,1.1086,1.7,4.6,0.5,9393.74,Efficient Route
+UAE,Middle East,Textiles,Hand Block Print Bedsheet Set,564,44.1861,0.576,0.4419,2.2602,1.0,0.28,0.2324,48.9765,43.1682,97.69,1.1085,1.2,4.6,0.6,10821.5,Efficient Route
+Italy,Europe,Textiles,Handloom Cotton Throw Pillow Set 2,54,16.298,0.231,0.163,0.0,0.9331,0.32,0.1111,18.0562,15.904,97.58,1.1082,1.3,0.0,1.8,547.52,Efficient Route
+Japan,Asia Pacific,Decor,Macrame Wall Hanging Small,72,17.2225,0.14,0.1722,0.0,1.0323,0.25,0.2671,19.0842,16.9103,98.19,1.1081,0.7,0.0,1.3,1665.15,Efficient Route
+Singapore,Asia Pacific,Decor,Recycled Glass Vase Set of 2,165,20.132,0.3325,0.2013,0.0,1.1011,0.25,0.2839,22.3008,19.5982,97.35,1.108,1.5,0.0,1.1,3663.06,Efficient Route
+Germany,Europe,Decor,Macrame Wall Hanging Small,241,17.3734,0.168,0.1737,0.0,1.0074,0.32,0.2053,19.2478,17.0316,98.03,1.108,0.9,0.0,1.7,4826.63,Efficient Route
+USA,North America,Textiles,Hand Block Print Bedsheet Set,764,44.1558,0.864,0.4416,1.8185,1.0056,0.35,0.279,48.9143,42.8502,97.04,1.1079,1.8,3.7,0.7,17697.43,Efficient Route
+Japan,Asia Pacific,Decor,Handmade Soy Candle Set of 3,52,15.3385,0.1925,0.1534,0.0,1.0276,0.25,0.0234,16.9853,14.9926,97.74,1.1078,1.1,0.0,1.5,197.03,Efficient Route
+France,Europe,Garden,Terracotta Planter Large,103,23.0377,0.756,0.2304,0.0,0.9949,0.32,0.177,25.5159,22.0513,95.71,1.1078,3.0,0.0,1.3,1875.03,Efficient Route
+Ireland,Europe,Decor,Hand Painted Wooden Tray,23,17.3348,0.294,0.1733,0.0,1.0734,0.32,0.0,19.1955,16.8674,97.3,1.1077,1.5,0.0,1.7,0.0,Efficient Route
+New Zealand,Asia Pacific,Rugs,Jute Braided Area Rug 4x6ft,69,54.0603,1.12,0.5406,2.786,0.9799,0.25,0.1295,59.8663,52.3997,96.93,1.1074,1.9,4.7,0.4,1299.21,Efficient Route
+Japan,Asia Pacific,Kitchen,Bamboo Serving Tray Large,37,15.4854,0.2625,0.1549,0.0,0.9301,0.25,0.0657,17.1485,15.0681,97.3,1.1073,1.5,0.0,1.5,231.03,Efficient Route
+Saudi Arabia,Middle East,Furniture,Cane Rattan Side Table,125,65.416,1.12,0.6542,3.6955,1.0079,0.28,0.2513,72.4249,63.6418,97.29,1.1072,1.5,5.1,0.4,2458.04,Efficient Route
+Sweden,Europe,Storage,Handwoven Jute Storage Basket Large,65,19.1754,0.378,0.1918,0.0,0.9847,0.32,0.1759,21.2257,18.6056,97.02,1.1071,1.8,0.0,1.5,1283.97,Efficient Route
+Singapore,Asia Pacific,Storage,Handwoven Jute Storage Basket Large,221,19.2072,0.315,0.1921,0.0,1.0253,0.25,0.2619,21.2515,18.7002,97.36,1.107,1.5,0.0,1.2,4386.85,Efficient Route
+UK,Europe,Storage,Woven Seagrass Floor Basket,264,22.148,0.462,0.2215,0.0,1.0704,0.32,0.2885,24.5104,21.4645,96.91,1.1067,1.9,0.0,1.3,5188.92,Efficient Route
+Sweden,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,68,18.1897,0.189,0.1819,0.0,0.9806,0.32,0.2599,20.121,17.8188,97.96,1.1067,0.9,0.0,1.6,2009.31,Efficient Route
+Netherlands,Europe,Decor,Brass Tealight Holder Set of 4,79,21.159,0.273,0.2116,0.0,1.0476,0.32,0.3983,23.4095,20.6744,97.71,1.1065,1.2,0.0,1.4,2792.05,Efficient Route
+Italy,Europe,Storage,Handwoven Jute Storage Basket Large,69,19.2348,0.378,0.1923,0.0,0.9644,0.32,0.1831,21.2726,18.6644,97.03,1.1064,1.8,0.0,1.5,872.57,Efficient Route
+Australia,Asia Pacific,Furniture,Cane Rattan Side Table,166,65.3414,1.225,0.6534,3.361,1.0053,0.25,0.4457,72.2818,63.463,97.12,1.1063,1.7,4.7,0.3,4951.0,Efficient Route
+Singapore,Asia Pacific,Kitchen,Ceramic Mug Set of 4,149,21.1259,0.2975,0.2113,0.0,1.0509,0.25,0.431,23.3665,20.6171,97.59,1.1062,1.3,0.0,1.1,4981.01,Efficient Route
+Germany,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,225,18.2282,0.189,0.1823,0.0,1.0186,0.32,0.2215,20.1596,17.8569,97.96,1.106,0.9,0.0,1.6,4948.32,Efficient Route
+Ireland,Europe,Storage,Handwoven Jute Storage Basket Large,31,19.0387,0.378,0.1904,0.0,1.0683,0.32,0.0506,21.046,18.4703,97.01,1.1059,1.8,0.0,1.5,193.0,Efficient Route
+Ireland,Europe,Decor,Macrame Plant Hanger Set of 3,18,15.1822,0.147,0.1518,0.0,0.9896,0.32,0.0,16.7906,14.8834,98.03,1.1058,0.9,0.0,1.9,0.0,Efficient Route
+France,Europe,Storage,Woven Seagrass Floor Basket,99,22.1358,0.462,0.2214,0.0,1.084,0.32,0.2417,24.4649,21.4524,96.91,1.1053,1.9,0.0,1.3,1434.33,Efficient Route
+France,Europe,Kitchen,Ceramic Mug Set of 4,82,21.1629,0.357,0.2116,0.0,0.9368,0.32,0.4001,23.3885,20.5943,97.31,1.1053,1.5,0.0,1.4,2815.87,Efficient Route
+Sweden,Europe,Decor,Macrame Wall Hanging Small,58,17.1341,0.168,0.1713,0.0,0.9555,0.32,0.1888,18.9378,16.7948,98.02,1.1052,0.9,0.0,1.7,858.51,Efficient Route
+Spain,Europe,Decor,Brass Tealight Holder Set of 4,50,21.1552,0.273,0.2116,0.0,1.001,0.32,0.4165,23.3773,20.6707,97.71,1.1051,1.2,0.0,1.4,1727.5,Efficient Route
+UK,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,397,18.2079,0.189,0.1821,0.0,0.9957,0.32,0.2193,20.1141,17.8369,97.96,1.1047,0.9,0.0,1.6,7632.47,Efficient Route
+Italy,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,69,18.4107,0.189,0.1841,0.0,0.9667,0.32,0.2601,20.3307,18.0376,97.97,1.1047,0.9,0.0,1.6,1780.96,Efficient Route
+Portugal,Europe,Kitchen,Bamboo Cutting Board Set of 3,16,16.4688,0.378,0.1647,0.0,0.8574,0.32,0.0,18.1888,15.926,96.7,1.1045,2.1,0.0,1.8,0.0,Efficient Route
+France,Europe,Decor,Brass Tealight Holder Set of 4,111,21.0546,0.273,0.2106,0.0,1.0741,0.32,0.3206,23.2528,20.571,97.7,1.1044,1.2,0.0,1.4,2484.36,Efficient Route
+Spain,Europe,Garden,Terracotta Planter Set of 3,44,19.1682,0.546,0.1917,0.0,0.8402,0.32,0.1036,21.1697,18.4305,96.15,1.1043,2.6,0.0,1.5,490.49,Efficient Route
+Portugal,Europe,Garden,Terracotta Planter Large,27,23.0667,0.756,0.2307,0.0,0.9888,0.32,0.1008,25.4629,22.08,95.71,1.1042,3.0,0.0,1.3,149.75,Efficient Route
+Kuwait,Middle East,Furniture,Cane Rattan Side Table,53,65.5623,1.12,0.6556,3.3669,1.0519,0.28,0.3344,72.371,63.7866,97.29,1.104,1.6,4.7,0.4,1673.68,Efficient Route
+Singapore,Asia Pacific,Garden,Terracotta Planter Large,160,23.1225,0.63,0.2312,0.0,1.012,0.25,0.2697,25.5154,22.2613,96.27,1.1039,2.5,0.0,1.0,3591.4,Efficient Route
+Netherlands,Europe,Decor,Recycled Glass Vase Set of 2,67,20.0534,0.399,0.2005,0.0,0.9551,0.32,0.2011,22.1292,19.4539,97.01,1.1034,1.8,0.0,1.5,673.72,Efficient Route
+Ireland,Europe,Kitchen,Ceramic Mug Set of 4,29,20.9228,0.357,0.2092,0.0,0.958,0.32,0.3214,23.0884,20.3565,97.29,1.1032,1.6,0.0,1.4,627.92,Efficient Route
+Japan,Asia Pacific,Decor,Recycled Glass Vase Set of 2,46,20.2011,0.3325,0.202,0.0,0.9072,0.25,0.375,22.2678,19.6666,97.35,1.103,1.5,0.0,1.1,1916.17,Efficient Route
+UAE,Middle East,Furniture,Cane Rattan Side Table,395,65.2972,1.12,0.653,3.3535,1.0342,0.28,0.2782,72.0161,63.5242,97.28,1.1029,1.6,4.7,0.4,9595.3,Efficient Route
+Netherlands,Europe,Storage,Woven Seagrass Floor Basket,82,22.108,0.462,0.2211,0.0,1.045,0.32,0.2176,24.3737,21.425,96.91,1.1026,1.9,0.0,1.3,1514.89,Efficient Route
+Italy,Europe,Kitchen,Teak Wood Cheese Board,52,22.7492,0.357,0.2275,0.0,1.0715,0.32,0.3493,25.0745,22.1647,97.43,1.1025,1.4,0.0,1.3,1575.8,Efficient Route
+Ireland,Europe,Kitchen,Copper Water Bottle 750ml,31,20.9639,0.1596,0.2096,0.0,1.182,0.32,0.2699,23.1051,20.5946,98.24,1.1025,0.7,0.0,1.4,625.89,Efficient Route
+New Zealand,Asia Pacific,Furniture,Cane Rattan Side Table,48,64.5717,1.225,0.6457,3.3221,1.0446,0.25,0.1134,71.1725,62.701,97.1,1.1021,1.7,4.7,0.4,596.38,Efficient Route
+USA,North America,Furniture,Cane Rattan Side Table,517,65.451,1.68,0.6545,2.7114,1.0087,0.35,0.2725,72.1281,63.1165,96.43,1.1021,2.3,3.8,0.5,12457.27,Efficient Route
+Italy,Europe,Decor,Recycled Glass Vase Set of 2,48,20.0725,0.399,0.2007,0.0,0.9823,0.32,0.1472,22.1216,19.4728,97.01,1.1019,1.8,0.0,1.5,602.97,Efficient Route
+Japan,Asia Pacific,Storage,Handwoven Jute Storage Basket Large,81,19.3086,0.315,0.1931,0.0,0.9731,0.25,0.2347,21.2745,18.8006,97.37,1.1019,1.5,0.0,1.2,2500.35,Efficient Route
+Netherlands,Europe,Decor,Warli Art Wall Plate Set of 3,66,23.1527,0.378,0.2315,0.0,1.0961,0.32,0.3317,25.51,22.5432,97.37,1.1018,1.5,0.0,1.3,1360.39,Efficient Route
+Spain,Europe,Decor,Warli Art Wall Plate Set of 3,48,22.8,0.378,0.228,0.0,0.9965,0.32,0.3942,25.1167,22.194,97.34,1.1014,1.5,0.0,1.3,1268.62,Efficient Route
+Sweden,Europe,Kitchen,Copper Water Bottle 750ml,51,21.2322,0.1596,0.2123,0.0,1.006,0.32,0.4579,23.388,20.8602,98.25,1.1013,0.7,0.0,1.4,1949.0,Efficient Route
+Italy,Europe,Decor,Madhubani Art Canvas Print Large,65,21.1302,0.147,0.2113,0.0,1.1177,0.32,0.3309,23.257,20.7719,98.3,1.1007,0.6,0.0,1.4,1874.55,Efficient Route
+Ireland,Europe,Storage,Woven Seagrass Floor Basket,25,22.172,0.462,0.2217,0.0,1.0183,0.32,0.204,24.398,21.4883,96.91,1.1007,1.9,0.0,1.3,644.57,Efficient Route
+France,Europe,Decor,Jute Rope Mirror Frame Round,82,24.0488,0.357,0.2405,0.0,1.0641,0.32,0.4318,26.4621,23.4513,97.51,1.1005,1.4,0.0,1.2,2498.91,Efficient Route
+Italy,Europe,Decor,Warli Art Wall Plate Set of 3,57,23.04,0.378,0.2304,0.0,1.1374,0.32,0.2486,25.3544,22.4316,97.36,1.1004,1.5,0.0,1.3,1064.96,Efficient Route
+Netherlands,Europe,Kitchen,Ceramic Mug Set of 4,78,21.1369,0.357,0.2114,0.0,1.0372,0.32,0.1963,23.2588,20.5686,97.31,1.1002,1.5,0.0,1.4,1741.81,Efficient Route
+Germany,Europe,Kitchen,Teak Wood Cheese Board,149,23.0851,0.357,0.2308,0.0,1.0316,0.32,0.3686,25.3931,22.4973,97.45,1.1001,1.4,0.0,1.3,4121.68,Efficient Route
+Japan,Asia Pacific,Decor,Warli Art Wall Plate Set of 3,57,22.9263,0.315,0.2293,0.0,1.0068,0.25,0.4877,25.2151,22.3821,97.62,1.1001,1.3,0.0,1.0,1742.62,Efficient Route
+Netherlands,Europe,Decor,Macrame Wall Hanging Small,91,17.2404,0.168,0.1724,0.0,0.9523,0.32,0.1071,18.9603,16.9,98.02,1.0999,0.9,0.0,1.7,819.35,Efficient Route
+Germany,Europe,Decor,Madhubani Art Canvas Print Large,245,21.2026,0.147,0.212,0.0,1.0164,0.32,0.4218,23.3199,20.8436,98.31,1.0999,0.6,0.0,1.4,7931.86,Efficient Route
+Germany,Europe,Kitchen,Ceramic Mug Set of 4,140,21.1561,0.357,0.2116,0.0,1.0042,0.32,0.2068,23.2557,20.5876,97.31,1.0998,1.5,0.0,1.4,3494.53,Efficient Route
+UK,Europe,Kitchen,Ceramic Mug Set of 4,253,21.213,0.357,0.2121,0.0,1.0166,0.32,0.2015,23.3203,20.6439,97.31,1.0995,1.5,0.0,1.4,4443.66,Efficient Route
+Sweden,Europe,Garden,Terracotta Planter Large,50,23.0688,0.756,0.2307,0.0,0.8796,0.32,0.0957,25.3508,22.0821,95.72,1.0992,3.0,0.0,1.3,375.72,Efficient Route
+Ireland,Europe,Decor,Recycled Glass Vase Set of 2,24,20.1075,0.399,0.2011,0.0,0.8957,0.32,0.165,22.0883,19.5074,97.01,1.0989,1.8,0.0,1.5,452.72,Efficient Route
+Ireland,Europe,Lighting,Rattan Pendant Lamp Shade,30,25.956,0.336,0.2596,0.0,1.0531,0.32,0.5952,28.5199,25.3604,97.7,1.0986,1.2,0.0,1.1,1207.18,Efficient Route
+Netherlands,Europe,Kitchen,Copper Water Bottle 750ml,67,20.9263,0.1596,0.2093,0.0,1.1024,0.32,0.2613,22.9788,20.5574,98.24,1.0983,0.7,0.0,1.4,1373.28,Efficient Route
+Spain,Europe,Kitchen,Teak Wood Cheese Board,46,23.2852,0.357,0.2329,0.0,1.1345,0.32,0.2356,25.5651,22.6954,97.47,1.0981,1.4,0.0,1.3,864.45,Efficient Route
+Spain,Europe,Decor,Recycled Glass Vase Set of 2,57,20.0753,0.399,0.2007,0.0,0.9378,0.32,0.1119,22.0447,19.4755,97.01,1.0981,1.8,0.0,1.5,681.93,Efficient Route
+France,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,153,18.1941,0.189,0.1819,0.0,1.0409,0.32,0.0478,19.9736,17.8231,97.96,1.098,0.9,0.0,1.6,714.63,Efficient Route
+UK,Europe,Decor,Warli Art Wall Plate Set of 3,262,23.0217,0.378,0.2302,0.0,1.0214,0.32,0.3052,25.2765,22.4135,97.36,1.098,1.5,0.0,1.3,6626.9,Efficient Route
+Singapore,Asia Pacific,Textiles,Hand Embroidered Cushion Cover Set 2,209,18.2327,0.1575,0.1823,0.0,1.0409,0.25,0.1521,20.0155,17.8929,98.13,1.0977,0.8,0.0,1.3,2607.38,Efficient Route
+Ireland,Europe,Decor,Warli Art Wall Plate Set of 3,26,23.1323,0.378,0.2313,0.0,0.957,0.32,0.3816,25.4003,22.523,97.36,1.0977,1.5,0.0,1.3,503.8,Efficient Route
+Germany,Europe,Decor,Brass Tealight Holder Set of 4,146,21.221,0.273,0.2122,0.0,0.9862,0.32,0.2711,23.2834,20.7358,97.71,1.0973,1.2,0.0,1.4,3065.49,Efficient Route
+Ireland,Europe,Decor,Brass Tealight Holder Set of 4,26,21.1115,0.273,0.2111,0.0,1.0884,0.32,0.1658,23.1699,20.6274,97.7,1.0973,1.2,0.0,1.4,370.31,Efficient Route
+France,Europe,Decor,Warli Art Wall Plate Set of 3,99,23.1006,0.378,0.231,0.0,1.0013,0.32,0.3121,25.343,22.4916,97.36,1.097,1.5,0.0,1.3,2791.38,Efficient Route
+UK,Europe,Kitchen,Copper Water Bottle 750ml,260,21.1471,0.1596,0.2115,0.0,1.0548,0.32,0.3033,23.1962,20.776,98.24,1.097,0.7,0.0,1.4,6237.02,Efficient Route
+Portugal,Europe,Textiles,Hand Embroidered Cushion Cover Set 2,28,18.3011,0.189,0.183,0.0,0.8994,0.32,0.186,20.0786,17.9291,97.97,1.097,0.9,0.0,1.6,572.98,Efficient Route
+Sweden,Europe,Storage,Woven Seagrass Floor Basket,60,22.1758,0.462,0.2218,0.0,1.0299,0.32,0.1124,24.322,21.4921,96.91,1.0969,1.9,0.0,1.3,1224.2,Efficient Route
+Portugal,Europe,Storage,Woven Seagrass Floor Basket,34,21.9447,0.462,0.2194,0.0,1.0079,0.32,0.1074,24.0614,21.2633,96.89,1.0968,1.9,0.0,1.3,498.19,Efficient Route
+Sweden,Europe,Kitchen,Teak Wood Cheese Board,50,22.8672,0.357,0.2287,0.0,0.9836,0.32,0.2916,25.0481,22.2815,97.44,1.0962,1.4,0.0,1.3,1802.08,Efficient Route
+Spain,Europe,Kitchen,Copper Water Bottle 750ml,44,21.185,0.1596,0.2119,0.0,0.9991,0.32,0.3463,23.2218,20.8136,98.25,1.0962,0.7,0.0,1.4,1403.72,Efficient Route
+Japan,Asia Pacific,Textiles,Hand Embroidered Cushion Cover Set 2,79,18.2376,0.1575,0.1824,0.0,1.0472,0.25,0.0973,19.972,17.8977,98.13,1.0955,0.8,0.0,1.3,437.02,Efficient Route
+UK,Europe,Decor,Jute Rope Mirror Frame Round,239,24.0785,0.357,0.2408,0.0,1.016,0.32,0.3558,26.3681,23.4807,97.52,1.0953,1.4,0.0,1.2,7285.46,Efficient Route
+Germany,Europe,Decor,Warli Art Wall Plate Set of 3,176,23.1464,0.378,0.2315,0.0,0.9648,0.32,0.3016,25.3422,22.5369,97.36,1.0952,1.5,0.0,1.3,4814.41,Efficient Route
+Ireland,Europe,Decor,Madhubani Art Canvas Print Large,39,21.1708,0.147,0.2117,0.0,1.0233,0.32,0.32,23.1928,20.812,98.3,1.0951,0.6,0.0,1.4,844.55,Efficient Route
+Spain,Europe,Decor,Jute Rope Mirror Frame Round,48,23.9896,0.357,0.2399,0.0,1.1142,0.32,0.2481,26.2688,23.3927,97.51,1.095,1.4,0.0,1.2,951.71,Efficient Route
+Ireland,Europe,Kitchen,Teak Wood Cheese Board,26,23.1692,0.357,0.2317,0.0,1.0222,0.32,0.2775,25.3777,22.5806,97.46,1.0948,1.4,0.0,1.3,405.16,Efficient Route
+Italy,Europe,Decor,Brass Tealight Holder Set of 4,52,21.1538,0.273,0.2115,0.0,0.9821,0.32,0.2123,23.1528,20.6693,97.71,1.0945,1.2,0.0,1.4,668.42,Efficient Route
+Sweden,Europe,Kitchen,Ceramic Mug Set of 4,48,21.2621,0.357,0.2126,0.0,0.9085,0.32,0.2039,23.2641,20.6925,97.32,1.0941,1.5,0.0,1.4,1234.75,Efficient Route
+France,Europe,Kitchen,Teak Wood Cheese Board,107,23.2307,0.357,0.2323,0.0,1.0433,0.32,0.233,25.4163,22.6414,97.46,1.094,1.4,0.0,1.3,2211.8,Efficient Route
+Japan,Asia Pacific,Kitchen,Teak Wood Cheese Board,50,22.7424,0.2975,0.2274,0.0,0.9919,0.25,0.3531,24.8622,22.2175,97.69,1.0934,1.2,0.0,1.0,1096.55,Efficient Route
+UK,Europe,Kitchen,Teak Wood Cheese Board,267,23.2216,0.357,0.2322,0.0,1.0218,0.32,0.2203,25.3728,22.6324,97.46,1.0928,1.4,0.0,1.3,4940.79,Efficient Route
+UK,Europe,Decor,Brass Tealight Holder Set of 4,248,21.1706,0.273,0.2117,0.0,0.9673,0.32,0.1894,23.132,20.6859,97.71,1.0928,1.2,0.0,1.4,4329.86,Efficient Route
+Portugal,Europe,Decor,Macrame Wall Hanging Large,38,25.0147,0.273,0.2501,0.0,1.1488,0.32,0.3298,27.3365,24.4916,97.91,1.0927,1.0,0.0,1.2,1370.44,Efficient Route
+Singapore,Asia Pacific,Decor,Madhubani Art Canvas Print Large,264,21.1492,0.1225,0.2115,0.0,1.0379,0.25,0.3365,23.1076,20.8152,98.42,1.0927,0.5,0.0,1.1,7456.34,Efficient Route
+Portugal,Europe,Kitchen,Copper Water Bottle 750ml,30,21.2227,0.1596,0.2122,0.0,1.0176,0.32,0.259,23.1911,20.8508,98.25,1.0923,0.7,0.0,1.4,1080.81,Efficient Route
+Netherlands,Europe,Decor,Jute Rope Mirror Frame Round,91,23.9588,0.357,0.2396,0.0,1.0251,0.32,0.2684,26.1688,23.3622,97.51,1.0922,1.4,0.0,1.2,2007.92,Efficient Route
+Germany,Europe,Kitchen,Copper Water Bottle 750ml,162,21.1336,0.1596,0.2113,0.0,1.0168,0.32,0.2366,23.0779,20.7626,98.24,1.0921,0.7,0.0,1.4,2998.21,Efficient Route
+Japan,Asia Pacific,Storage,Woven Seagrass Floor Basket,48,22.3052,0.385,0.2231,0.0,0.9005,0.25,0.2791,24.343,21.6971,97.27,1.0919,1.6,0.0,1.0,1076.32,Efficient Route
+Italy,Europe,Storage,Woven Seagrass Floor Basket,51,22.089,0.462,0.2209,0.0,0.9135,0.32,0.1014,24.1067,21.4061,96.91,1.0915,1.9,0.0,1.3,726.48,Efficient Route
+Ireland,Europe,Rugs,Jute Braided Area Rug 2x3ft,36,28.9167,0.588,0.2892,0.0,1.2422,0.32,0.212,31.568,28.0395,96.96,1.0915,1.9,0.0,1.0,381.63,Efficient Route
+France,Europe,Kitchen,Copper Water Bottle 750ml,84,21.1698,0.1596,0.2117,0.0,1.0163,0.32,0.21,23.0874,20.7985,98.24,1.0913,0.7,0.0,1.4,1198.78,Efficient Route
+Singapore,Asia Pacific,Decor,Warli Art Wall Plate Set of 3,174,23.0303,0.315,0.2303,0.0,1.0104,0.25,0.2865,25.1225,22.485,97.63,1.091,1.3,0.0,1.0,4564.98,Efficient Route
+UK,Europe,Lighting,Rattan Pendant Lamp Shade,252,26.0121,0.336,0.2601,0.0,0.9881,0.32,0.4428,28.3592,25.416,97.71,1.0904,1.2,0.0,1.1,8993.17,Efficient Route
+Japan,Asia Pacific,Kitchen,Ceramic Mug Set of 4,52,21.2215,0.2975,0.2122,0.0,1.0335,0.25,0.1215,23.1362,20.7118,97.6,1.0903,1.3,0.0,1.1,555.9,Efficient Route
+Ireland,Europe,Decor,Jute Rope Mirror Frame Round,20,23.925,0.357,0.2392,0.0,0.9846,0.32,0.2265,26.0523,23.3288,97.5,1.0901,1.4,0.0,1.2,226.5,Efficient Route
+UK,Europe,Decor,Madhubani Art Canvas Print Large,374,21.0553,0.147,0.2106,0.0,0.9609,0.32,0.2504,22.9442,20.6977,98.3,1.0898,0.6,0.0,1.4,8024.26,Efficient Route
+Singapore,Asia Pacific,Decor,Brass Tealight Holder Set of 4,159,21.0771,0.2275,0.2108,0.0,1.046,0.25,0.1527,22.9641,20.6389,97.92,1.0898,1.0,0.0,1.1,2993.61,Efficient Route
+Portugal,Europe,Kitchen,Teak Wood Cheese Board,25,23.3088,0.357,0.2331,0.0,1.013,0.32,0.1664,25.3983,22.7187,97.47,1.0896,1.4,0.0,1.3,435.8,Efficient Route
+Spain,Europe,Lighting,Rattan Pendant Lamp Shade,56,26.1032,0.336,0.261,0.0,1.1272,0.32,0.2881,28.4355,25.5062,97.71,1.0895,1.2,0.0,1.1,1194.33,Efficient Route
+Spain,Europe,Decor,Macrame Wall Hanging Large,80,25.0868,0.273,0.2509,0.0,1.0564,0.32,0.3346,27.3216,24.5629,97.91,1.0894,1.0,0.0,1.2,3086.04,Efficient Route
+Singapore,Asia Pacific,Storage,Woven Seagrass Floor Basket,182,22.037,0.385,0.2204,0.0,0.9869,0.25,0.125,24.0043,21.4317,97.25,1.0893,1.6,0.0,1.0,1806.4,Efficient Route
+Portugal,Europe,Decor,Madhubani Art Canvas Print Large,44,21.055,0.147,0.2106,0.0,0.9498,0.32,0.2417,22.9241,20.6974,98.3,1.0888,0.6,0.0,1.4,1540.85,Efficient Route
+Spain,Europe,Decor,Madhubani Art Canvas Print Large,66,21.1733,0.147,0.2117,0.0,1.0641,0.32,0.1328,23.049,20.8146,98.3,1.0886,0.6,0.0,1.4,1170.27,Efficient Route
+Netherlands,Europe,Decor,Madhubani Art Canvas Print Large,105,21.1829,0.147,0.2118,0.0,0.9731,0.32,0.2206,23.0554,20.824,98.31,1.0883,0.6,0.0,1.4,2464.56,Efficient Route
+Germany,Europe,Decor,Jute Rope Mirror Frame Round,144,24.1181,0.357,0.2412,0.0,0.9565,0.32,0.2544,26.2471,23.5199,97.52,1.0883,1.4,0.0,1.2,3492.08,Efficient Route
+Singapore,Asia Pacific,Decor,Jute Rope Mirror Frame Round,148,23.9527,0.2975,0.2395,0.0,0.9709,0.25,0.3487,26.0593,23.4157,97.76,1.0883,1.1,0.0,1.0,4163.95,Efficient Route
+Portugal,Europe,Decor,Jute Rope Mirror Frame Round,21,23.7262,0.357,0.2373,0.0,0.9666,0.32,0.2053,25.8124,23.1319,97.49,1.0882,1.4,0.0,1.2,501.48,Efficient Route
+Singapore,Asia Pacific,Kitchen,Teak Wood Cheese Board,158,23.119,0.2975,0.2312,0.0,1.0288,0.25,0.2281,25.1545,22.5903,97.71,1.0882,1.2,0.0,1.0,3145.77,Efficient Route
+Germany,Europe,Rugs,Jute Braided Area Rug 2x3ft,239,28.8126,0.588,0.2881,0.0,1.0333,0.32,0.2998,31.3417,27.9364,96.96,1.088,1.9,0.0,1.0,6073.46,Efficient Route
+Germany,Europe,Lighting,Rattan Pendant Lamp Shade,159,25.9098,0.336,0.2591,0.0,0.9728,0.32,0.3875,28.1852,25.3147,97.7,1.0879,1.2,0.0,1.1,5012.78,Efficient Route
+Japan,Asia Pacific,Decor,Madhubani Art Canvas Print Large,61,21.2498,0.1225,0.2125,0.0,0.9911,0.25,0.2882,23.1142,20.9149,98.42,1.0879,0.5,0.0,1.1,1239.41,Efficient Route
+Sweden,Europe,Decor,Warli Art Wall Plate Set of 3,51,23.2518,0.378,0.2325,0.0,0.9877,0.32,0.1138,25.2838,22.6413,97.37,1.0877,1.5,0.0,1.3,535.34,Efficient Route
+France,Europe,Rugs,Jute Braided Area Rug 2x3ft,134,28.603,0.588,0.286,0.0,0.995,0.32,0.3133,31.1053,27.729,96.94,1.0876,1.9,0.0,1.0,3493.27,Efficient Route
+Portugal,Europe,Kitchen,Copper Water Bottle 1L,40,23.9625,0.189,0.2396,0.0,1.0527,0.32,0.2935,26.0573,23.5339,98.21,1.0873,0.7,0.0,1.2,1536.67,Efficient Route
+Sweden,Europe,Decor,Jute Rope Mirror Frame Round,56,24.1607,0.357,0.2416,0.0,0.9178,0.32,0.2739,26.2711,23.5621,97.52,1.0873,1.4,0.0,1.2,902.86,Efficient Route
+Italy,Europe,Decor,Macrame Wall Hanging Large,75,25.0744,0.273,0.2507,0.0,1.0078,0.32,0.3426,27.2685,24.5506,97.91,1.0873,1.0,0.0,1.2,1638.73,Efficient Route
+Netherlands,Europe,Decor,Macrame Wall Hanging Large,110,24.8725,0.273,0.2487,0.0,1.0464,0.32,0.2785,27.0391,24.3508,97.9,1.0873,1.0,0.0,1.2,2438.7,Efficient Route
+Japan,Asia Pacific,Decor,Jute Rope Mirror Frame Round,51,23.9461,0.2975,0.2395,0.0,1.0539,0.25,0.2512,26.0382,23.4091,97.76,1.0872,1.1,0.0,1.0,851.91,Efficient Route
+Italy,Europe,Rugs,Jute Braided Area Rug 2x3ft,78,28.7192,0.588,0.2872,0.0,0.9669,0.32,0.3377,31.219,27.844,96.95,1.087,1.9,0.0,1.0,2322.46,Efficient Route
+Spain,Europe,Rugs,Jute Braided Area Rug 2x3ft,74,28.7716,0.588,0.2877,0.0,0.9608,0.32,0.3342,31.2623,27.8959,96.95,1.0866,1.9,0.0,1.0,2281.79,Efficient Route
+Italy,Europe,Kitchen,Copper Water Bottle 750ml,59,21.2058,0.1596,0.2121,0.0,0.9313,0.32,0.2039,23.0326,20.8341,98.25,1.0866,0.7,0.0,1.4,1266.42,Efficient Route
+France,Europe,Kitchen,Copper Water Bottle 1L,181,23.9751,0.189,0.2397,0.0,1.0437,0.32,0.2768,26.0444,23.5464,98.21,1.0864,0.7,0.0,1.2,3866.07,Efficient Route
+UK,Europe,Kitchen,Copper Water Bottle 1L,352,23.9716,0.189,0.2397,0.0,1.0371,0.32,0.28,26.0374,23.5429,98.21,1.0864,0.7,0.0,1.2,7710.9,Efficient Route
+Portugal,Europe,Decor,Warli Art Wall Plate Set of 3,24,23.28,0.378,0.2328,0.0,1.0755,0.32,0.0,25.2863,22.6692,97.37,1.0862,1.5,0.0,1.3,0.0,Efficient Route
+Spain,Europe,Kitchen,Copper Water Bottle 1L,83,24.0843,0.189,0.2408,0.0,1.0719,0.32,0.2475,26.1536,23.6545,98.21,1.086,0.7,0.0,1.2,1571.21,Efficient Route
+UK,Europe,Rugs,Jute Braided Area Rug 2x3ft,380,28.7763,0.588,0.2878,0.0,1.0265,0.32,0.2415,31.24,27.9006,96.95,1.0859,1.9,0.0,1.0,7175.49,Efficient Route
+Japan,Asia Pacific,Kitchen,Copper Water Bottle 750ml,52,21.0988,0.133,0.211,0.0,1.014,0.25,0.1895,22.8963,20.7549,98.37,1.0856,0.6,0.0,1.1,509.69,Efficient Route
+Sweden,Europe,Decor,Madhubani Art Canvas Print Large,73,21.1923,0.147,0.2119,0.0,0.978,0.32,0.1537,23.003,20.8334,98.31,1.0856,0.6,0.0,1.4,1568.22,Efficient Route
+UK,Europe,Decor,Macrame Wall Hanging Large,387,25.0137,0.273,0.2501,0.0,1.043,0.32,0.2358,27.1357,24.4906,97.91,1.085,1.0,0.0,1.2,7931.59,Efficient Route
+Netherlands,Europe,Kitchen,Copper Water Bottle 1L,127,24.0709,0.189,0.2407,0.0,1.0525,0.32,0.2371,26.1102,23.6412,98.21,1.085,0.7,0.0,1.2,2783.91,Efficient Route
+Japan,Asia Pacific,Lighting,Rattan Pendant Lamp Shade,43,25.9012,0.28,0.259,0.0,0.9984,0.25,0.4062,28.0948,25.3622,97.92,1.0849,1.0,0.0,0.9,1420.17,Efficient Route
+France,Europe,Decor,Macrame Wall Hanging Large,150,24.9513,0.273,0.2495,0.0,1.0605,0.32,0.2038,27.0582,24.4288,97.9,1.0848,1.0,0.0,1.2,2757.72,Efficient Route
+Italy,Europe,Lighting,Rattan Pendant Lamp Shade,66,26.2677,0.336,0.2627,0.0,1.0527,0.32,0.2586,28.4977,25.669,97.72,1.0847,1.2,0.0,1.1,1113.91,Efficient Route
+Italy,Europe,Decor,Jute Rope Mirror Frame Round,57,23.8728,0.357,0.2387,0.0,0.9552,0.32,0.1355,25.8793,23.2771,97.5,1.0842,1.4,0.0,1.2,799.12,Efficient Route
+Sweden,Europe,Decor,Macrame Wall Hanging Large,71,25.2383,0.273,0.2524,0.0,0.9062,0.32,0.3514,27.3413,24.7129,97.92,1.0839,1.0,0.0,1.2,1923.57,Efficient Route
+Sweden,Europe,Rugs,Jute Braided Area Rug 2x3ft,82,29.0524,0.588,0.2905,0.0,1.0572,0.32,0.1664,31.4746,28.1739,96.97,1.0837,1.9,0.0,1.0,1067.61,Efficient Route
+Ireland,Europe,Kitchen,Teak Wood Salad Bowl Large,42,31.5857,0.504,0.3158,0.0,1.085,0.32,0.3996,34.2101,30.7659,97.4,1.0836,1.5,0.0,0.9,1438.55,Efficient Route
+Italy,Europe,Lighting,Bamboo Table Lamp,52,30.6892,0.462,0.3069,0.0,1.0713,0.32,0.4021,33.2515,29.9203,97.49,1.0834,1.4,0.0,1.0,1571.0,Efficient Route
+Germany,Europe,Decor,Macrame Wall Hanging Large,217,25.0187,0.273,0.2502,0.0,1.0557,0.32,0.1897,27.1073,24.4955,97.91,1.0834,1.0,0.0,1.2,3981.12,Efficient Route
+Spain,Europe,Kitchen,Ceramic Mug Set of 4,36,21.0772,0.357,0.2108,0.0,0.8627,0.32,0.0,22.8277,20.5094,97.3,1.0833,1.6,0.0,1.4,0.0,Efficient Route
+Netherlands,Europe,Rugs,Jute Braided Area Rug 2x3ft,111,28.7892,0.588,0.2879,0.0,0.962,0.32,0.2338,31.1809,27.9133,96.95,1.0832,1.9,0.0,1.0,2087.26,Efficient Route
+Singapore,Asia Pacific,Rugs,Jute Braided Area Rug 2x3ft,233,28.8026,0.49,0.288,0.0,1.0358,0.25,0.3271,31.1935,28.0245,97.3,1.0832,1.6,0.0,0.8,6566.38,Efficient Route
+Germany,Europe,Kitchen,Copper Water Bottle 1L,239,23.9289,0.189,0.2393,0.0,0.9803,0.32,0.2537,25.9112,23.5006,98.21,1.0832,0.7,0.0,1.2,5655.44,Efficient Route
+Sweden,Europe,Lighting,Rattan Pendant Lamp Shade,51,25.7718,0.336,0.2577,0.0,0.9956,0.32,0.2261,27.9072,25.1781,97.69,1.083,1.2,0.0,1.1,1292.99,Efficient Route
+Netherlands,Europe,Lighting,Rattan Pendant Lamp Shade,89,26.0535,0.336,0.2605,0.0,1.0456,0.32,0.1878,28.2034,25.4569,97.71,1.0828,1.2,0.0,1.1,1458.72,Efficient Route
+Singapore,Asia Pacific,Kitchen,Copper Water Bottle 750ml,169,21.1643,0.133,0.2116,0.0,1.0148,0.25,0.132,22.9057,20.8196,98.37,1.0823,0.6,0.0,1.1,2067.94,Efficient Route
+Singapore,Asia Pacific,Decor,Macrame Wall Hanging Large,226,24.9278,0.2275,0.2493,0.0,0.9687,0.25,0.3518,26.9751,24.451,98.09,1.0821,0.8,0.0,0.9,6739.8,Efficient Route
+Japan,Asia Pacific,Rugs,Jute Braided Area Rug 2x3ft,76,28.9382,0.49,0.2894,0.0,1.1207,0.25,0.2181,31.3063,28.1588,97.3,1.0819,1.6,0.0,0.8,1033.24,Efficient Route
+Spain,Europe,Lighting,Bamboo Table Lamp,60,30.6933,0.462,0.3069,0.0,1.0517,0.32,0.3465,33.1805,29.9244,97.49,1.0818,1.4,0.0,1.0,1585.29,Efficient Route
+France,Europe,Lighting,Bamboo Table Lamp,92,30.5704,0.462,0.3057,0.0,1.0379,0.32,0.3667,33.0627,29.8027,97.49,1.0818,1.4,0.0,1.0,2683.04,Efficient Route
+Spain,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,77,33.7864,0.672,0.3379,0.0,0.9921,0.32,0.4276,36.536,32.7765,97.01,1.0815,1.8,0.0,0.9,2674.27,Efficient Route
+Portugal,Europe,Rugs,Jute Braided Area Rug 2x3ft,35,28.6543,0.588,0.2865,0.0,1.1101,0.32,0.0,30.959,27.7797,96.94,1.0806,1.9,0.0,1.0,0.0,Efficient Route
+Japan,Asia Pacific,Kitchen,Copper Water Bottle 1L,87,24.0747,0.1575,0.2407,0.0,1.0273,0.25,0.2612,26.0115,23.6764,98.34,1.0805,0.6,0.0,1.0,1987.53,Efficient Route
+UK,Europe,Lighting,Bamboo Table Lamp,259,30.7299,0.462,0.3073,0.0,1.0127,0.32,0.3565,33.1884,29.9606,97.49,1.0803,1.4,0.0,1.0,8330.89,Efficient Route
+Ireland,Europe,Lighting,Bamboo Table Lamp,22,30.5745,0.462,0.3058,0.0,1.0338,0.32,0.3401,33.0362,29.8068,97.49,1.0802,1.4,0.0,1.0,505.18,Efficient Route
+Singapore,Asia Pacific,Lighting,Rattan Pendant Lamp Shade,142,26.0474,0.28,0.2605,0.0,0.9674,0.25,0.3205,28.1258,25.5069,97.92,1.0801,1.0,0.0,0.9,4749.23,Efficient Route
+France,Europe,Decor,Madhubani Art Canvas Print Large,134,21.1036,0.147,0.211,0.0,0.9456,0.32,0.0708,22.798,20.7455,98.3,1.0801,0.6,0.0,1.4,919.07,Efficient Route
+Spain,Europe,Kitchen,Teak Wood Salad Bowl Large,80,31.5191,0.504,0.3152,0.0,1.0369,0.32,0.3392,34.0344,30.6999,97.4,1.08,1.5,0.0,0.9,1433.03,Efficient Route
+Germany,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,250,33.621,0.672,0.3362,0.0,1.0498,0.32,0.2885,36.2875,32.6128,97.0,1.0794,1.9,0.0,0.9,5841.25,Efficient Route
+UK,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,388,33.5693,0.672,0.3357,0.0,1.0457,0.32,0.2587,36.2015,32.5616,96.99,1.0786,1.9,0.0,0.9,8120.7,Efficient Route
+UK,Europe,Kitchen,Teak Wood Salad Bowl Large,360,31.6928,0.504,0.3169,0.0,1.0493,0.32,0.288,34.1711,30.8719,97.41,1.0782,1.5,0.0,0.9,7803.55,Efficient Route
+Japan,Asia Pacific,Decor,Macrame Wall Hanging Large,72,25.0358,0.2275,0.2504,0.0,1.0045,0.25,0.2248,26.993,24.558,98.09,1.0781,0.8,0.0,0.9,1353.33,Efficient Route
+Ireland,Europe,Decor,Macrame Wall Hanging Large,43,24.8088,0.273,0.2481,0.0,0.9681,0.32,0.1205,26.7385,24.2877,97.9,1.078,1.0,0.0,1.2,535.25,Efficient Route
+Ireland,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,42,33.675,0.672,0.3367,0.0,1.0766,0.32,0.2153,36.2957,32.6662,97.0,1.078,1.9,0.0,0.9,1264.02,Efficient Route
+Sweden,Europe,Lighting,Bamboo Table Lamp,54,30.7022,0.462,0.307,0.0,1.0213,0.32,0.2784,33.0909,29.9332,97.49,1.0779,1.4,0.0,1.0,1024.02,Efficient Route
+Sweden,Europe,Kitchen,Copper Water Bottle 1L,80,23.9031,0.189,0.239,0.0,0.9916,0.32,0.1173,25.76,23.4751,98.21,1.0777,0.7,0.0,1.2,745.51,Efficient Route
+Germany,Europe,Lighting,Bamboo Table Lamp,158,30.7403,0.462,0.3074,0.0,1.0027,0.32,0.2832,33.1156,29.9709,97.49,1.0775,1.4,0.0,1.0,3318.84,Efficient Route
+Portugal,Europe,Lighting,Bamboo Table Lamp,25,30.6176,0.462,0.3062,0.0,0.9491,0.32,0.3152,32.9701,29.8494,97.49,1.0773,1.4,0.0,1.0,521.95,Efficient Route
+Germany,Europe,Kitchen,Teak Wood Salad Bowl Large,260,31.7663,0.504,0.3177,0.0,0.9926,0.32,0.3032,34.2038,30.9446,97.41,1.0768,1.5,0.0,0.9,6206.29,Efficient Route
+France,Europe,Lighting,Rattan Pendant Lamp Shade,95,25.9285,0.336,0.2593,0.0,0.9762,0.32,0.0961,27.9161,25.3332,97.7,1.0768,1.2,0.0,1.1,1122.52,Efficient Route
+Ireland,Europe,Textiles,Kantha Quilt Throw Blanket,45,36.6151,0.504,0.3662,0.0,1.0601,0.32,0.568,39.4333,35.745,97.62,1.0765,1.3,0.0,0.8,1832.03,Efficient Route
+Italy,Europe,Kitchen,Teak Wood Salad Bowl Large,70,31.3736,0.504,0.3137,0.0,1.016,0.32,0.2437,33.771,30.5558,97.39,1.0764,1.5,0.0,1.0,1512.22,Efficient Route
+Ireland,Europe,Kitchen,Copper Water Bottle 1L,45,23.6556,0.189,0.2366,0.0,0.8557,0.32,0.2093,25.4661,23.23,98.2,1.0762,0.7,0.0,1.3,884.95,Efficient Route
+Portugal,Europe,Textiles,Kantha Quilt Throw Blanket,41,37.0361,0.504,0.3704,0.0,0.9558,0.32,0.6637,39.85,36.1617,97.64,1.0761,1.3,0.0,0.8,1790.75,Efficient Route
+France,Europe,Kitchen,Teak Wood Salad Bowl Large,147,31.799,0.504,0.318,0.0,1.018,0.32,0.251,34.21,30.977,97.41,1.0759,1.5,0.0,0.9,2318.86,Efficient Route
+Portugal,Europe,Kitchen,Teak Wood Salad Bowl Large,37,31.2251,0.504,0.3123,0.0,1.064,0.32,0.1721,33.5975,30.4089,97.38,1.0759,1.5,0.0,1.0,529.75,Efficient Route
+Portugal,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,48,33.5927,0.672,0.3359,0.0,1.0946,0.32,0.114,36.1293,32.5848,97.0,1.0758,1.9,0.0,0.9,858.39,Efficient Route
+Portugal,Europe,Lighting,Rattan Pendant Lamp Shade,38,25.65,0.336,0.2565,0.0,0.9226,0.32,0.1011,27.5862,25.0575,97.69,1.0756,1.2,0.0,1.2,215.74,Efficient Route
+Netherlands,Europe,Lighting,Bamboo Table Lamp,68,30.5694,0.462,0.3057,0.0,0.9411,0.32,0.2738,32.872,29.8017,97.49,1.0753,1.4,0.0,1.0,1589.15,Efficient Route
+Sweden,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,81,33.8117,0.672,0.3381,0.0,0.9479,0.32,0.2563,36.346,32.8016,97.01,1.0749,1.9,0.0,0.9,1903.34,Efficient Route
+Italy,Europe,Kitchen,Copper Water Bottle 1L,75,24.1633,0.189,0.2416,0.0,0.9523,0.32,0.1058,25.9721,23.7327,98.22,1.0749,0.7,0.0,1.2,935.31,Efficient Route
+France,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,159,33.7739,0.672,0.3377,0.0,0.9852,0.32,0.1975,36.2864,32.7642,97.01,1.0743,1.9,0.0,0.9,2684.32,Efficient Route
+Japan,Asia Pacific,Rugs,Cotton Dhurrie Rug 3x5ft,82,33.7366,0.56,0.3374,0.0,1.0197,0.25,0.3107,36.2144,32.8392,97.34,1.0734,1.5,0.0,0.7,2536.55,Efficient Route
+Italy,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,71,33.462,0.672,0.3346,0.0,0.9612,0.32,0.1658,35.9156,32.4554,96.99,1.0734,1.9,0.0,0.9,1141.44,Efficient Route
+Singapore,Asia Pacific,Kitchen,Copper Water Bottle 1L,240,23.9833,0.1575,0.2398,0.0,0.968,0.25,0.1326,25.7313,23.586,98.34,1.073,0.6,0.0,1.0,3411.7,Efficient Route
+Netherlands,Europe,Rugs,Cotton Dhurrie Rug 3x5ft,115,33.7917,0.672,0.3379,0.0,0.9483,0.32,0.184,36.254,32.7818,97.01,1.0729,1.9,0.0,0.9,2093.98,Efficient Route
+Netherlands,Europe,Kitchen,Teak Wood Salad Bowl Large,115,31.7202,0.504,0.3172,0.0,1.0293,0.32,0.1303,34.021,30.899,97.41,1.0726,1.5,0.0,0.9,1359.93,Efficient Route
+Singapore,Asia Pacific,Kitchen,Teak Wood Salad Bowl Large,226,31.7632,0.42,0.3176,0.0,1.0028,0.25,0.3087,34.0624,31.0256,97.68,1.0723,1.2,0.0,0.7,5771.3,Efficient Route
+Portugal,Europe,Rugs,Jute Braided Area Rug 4x6ft,34,53.3153,1.344,0.5332,0.0,1.1032,0.32,0.5252,57.1409,51.4381,96.47,1.0717,2.4,0.0,0.6,1398.98,Efficient Route
+Sweden,Europe,Kitchen,Teak Wood Salad Bowl Large,68,31.4228,0.504,0.3142,0.0,0.9912,0.32,0.0877,33.64,30.6046,97.39,1.0705,1.5,0.0,1.0,637.39,Efficient Route
+Japan,Asia Pacific,Kitchen,Teak Wood Salad Bowl Large,63,31.7429,0.42,0.3174,0.0,0.9685,0.25,0.2721,33.9709,31.0054,97.67,1.0705,1.2,0.0,0.7,1731.53,Efficient Route
+Japan,Asia Pacific,Lighting,Bamboo Table Lamp,60,30.7307,0.385,0.3073,0.0,1.0675,0.25,0.137,32.8774,30.0384,97.74,1.0698,1.2,0.0,0.8,1254.43,Efficient Route
+Ireland,Europe,Textiles,Hand Block Print Bedsheet Set,38,44.1358,0.756,0.4414,0.0,1.0638,0.32,0.4691,47.186,42.9384,97.28,1.0693,1.6,0.0,0.7,1137.92,Efficient Route
+Singapore,Asia Pacific,Rugs,Cotton Dhurrie Rug 3x5ft,203,33.5172,0.56,0.3352,0.0,0.9696,0.25,0.2126,35.8447,32.6221,97.33,1.0693,1.6,0.0,0.7,4110.83,Efficient Route
+Ireland,Europe,Kitchen,Ceramic Dinner Set 12pc,47,46.5498,1.05,0.4655,0.0,1.1318,0.32,0.256,49.7732,45.0343,96.74,1.0692,2.1,0.0,0.6,687.43,Efficient Route
+Germany,Europe,Kitchen,Ceramic Dinner Set 12pc,205,46.2158,1.05,0.4622,0.0,1.0154,0.32,0.3287,49.3921,44.7036,96.72,1.0689,2.1,0.0,0.6,5748.16,Efficient Route
+France,Europe,Textiles,Kantha Quilt Throw Blanket,139,36.6905,0.504,0.3669,0.0,0.9971,0.32,0.3332,39.2117,35.8196,97.62,1.0687,1.3,0.0,0.8,3914.7,Efficient Route
+France,Europe,Kitchen,Ceramic Dinner Set 12pc,151,46.0546,1.05,0.4605,0.0,1.01,0.32,0.3177,49.2128,44.544,96.72,1.0685,2.1,0.0,0.7,4060.09,Efficient Route
+Netherlands,Europe,Kitchen,Ceramic Dinner Set 12pc,112,45.8486,1.05,0.4585,0.0,0.995,0.32,0.303,48.975,44.3401,96.71,1.0683,2.1,0.0,0.7,3049.6,Efficient Route
+UK,Europe,Kitchen,Ceramic Dinner Set 12pc,409,46.0718,1.05,0.4607,0.0,1.0366,0.32,0.2684,49.2075,44.5611,96.72,1.0682,2.1,0.0,0.7,8496.01,Efficient Route
+Singapore,Asia Pacific,Lighting,Bamboo Table Lamp,174,30.8101,0.385,0.3081,0.0,0.9991,0.25,0.1394,32.8917,30.117,97.75,1.0677,1.2,0.0,0.8,1882.25,Efficient Route
+Italy,Europe,Textiles,Kantha Quilt Throw Blanket,84,36.1543,0.504,0.3615,0.0,0.9557,0.32,0.2929,38.5885,35.2887,97.6,1.0676,1.3,0.0,0.8,1737.92,Efficient Route
+Italy,Europe,Kitchen,Ceramic Dinner Set 12pc,72,46.2133,1.05,0.4621,0.0,1.0235,0.32,0.2659,49.3348,44.7012,96.72,1.0676,2.1,0.0,0.6,1601.14,Efficient Route
+Spain,Europe,Rugs,Jute Braided Area Rug 4x6ft,74,53.7373,1.344,0.5374,0.0,0.9879,0.32,0.4102,57.3368,51.8559,96.5,1.0674,2.3,0.0,0.6,2914.17,Efficient Route
+UK,Europe,Textiles,Hand Block Print Bedsheet Set,409,44.1341,0.756,0.4413,0.0,1.0396,0.32,0.4042,47.0953,42.9368,97.28,1.0671,1.6,0.0,0.7,13152.43,Efficient Route
+UK,Europe,Textiles,Kantha Quilt Throw Blanket,402,36.4838,0.504,0.3648,0.0,1.0302,0.32,0.214,38.9169,35.6149,97.62,1.0669,1.3,0.0,0.8,7975.83,Efficient Route
+Spain,Europe,Textiles,Hand Block Print Bedsheet Set,79,44.1425,0.756,0.4414,0.0,1.0388,0.32,0.3917,47.0904,42.9451,97.28,1.0668,1.6,0.0,0.7,2094.7,Efficient Route
+Italy,Europe,Rugs,Jute Braided Area Rug 4x6ft,77,53.7018,1.344,0.537,0.0,1.0779,0.32,0.301,57.2818,51.8208,96.49,1.0666,2.4,0.0,0.6,1703.73,Efficient Route
+Netherlands,Europe,Textiles,Kantha Quilt Throw Blanket,112,36.6666,0.504,0.3667,0.0,1.0255,0.32,0.2011,39.0838,35.7959,97.62,1.0659,1.3,0.0,0.8,1650.03,Efficient Route
+UK,Europe,Rugs,Jute Braided Area Rug 4x6ft,398,53.7558,1.344,0.5376,0.0,1.002,0.32,0.3226,57.2819,51.8742,96.5,1.0657,2.4,0.0,0.6,11228.82,Efficient Route
+Portugal,Europe,Kitchen,Ceramic Dinner Set 12pc,29,46.3283,1.05,0.4633,0.0,1.0064,0.32,0.1978,49.3657,44.815,96.73,1.0654,2.1,0.0,0.6,569.36,Efficient Route
+Sweden,Europe,Textiles,Hand Block Print Bedsheet Set,87,43.9697,0.756,0.4397,0.0,1.0431,0.32,0.3107,46.8391,42.774,97.28,1.0653,1.6,0.0,0.7,2743.42,Efficient Route
+Spain,Europe,Kitchen,Ceramic Dinner Set 12pc,81,45.8548,1.05,0.4585,0.0,1.0873,0.32,0.0665,48.8372,44.3463,96.7,1.0652,2.2,0.0,0.7,457.41,Efficient Route
+Germany,Europe,Textiles,Hand Block Print Bedsheet Set,203,44.262,0.756,0.4426,0.0,1.0627,0.32,0.2783,47.1216,43.0633,97.29,1.0647,1.6,0.0,0.7,4754.32,Efficient Route
+Japan,Asia Pacific,Rugs,Jute Braided Area Rug 4x6ft,78,53.5949,1.12,0.5359,0.0,1.1584,0.25,0.4022,57.0614,51.9389,96.91,1.0647,2.0,0.0,0.4,2029.6,Efficient Route
+Germany,Europe,Textiles,Kantha Quilt Throw Blanket,238,36.4545,0.504,0.3645,0.0,0.9798,0.32,0.18,38.8029,35.5859,97.62,1.0646,1.3,0.0,0.8,4025.66,Efficient Route
+Netherlands,Europe,Rugs,Jute Braided Area Rug 4x6ft,109,53.8884,1.344,0.5389,0.0,1.0071,0.32,0.2648,57.3632,52.0056,96.5,1.0646,2.3,0.0,0.6,2268.53,Efficient Route
+Netherlands,Europe,Textiles,Hand Block Print Bedsheet Set,125,44.079,0.756,0.4408,0.0,1.1037,0.32,0.2231,46.9226,42.8822,97.28,1.0645,1.6,0.0,0.7,2679.61,Efficient Route
+Spain,Europe,Textiles,Kantha Quilt Throw Blanket,91,36.5134,0.504,0.3651,0.0,0.972,0.32,0.1913,38.8659,35.6443,97.62,1.0645,1.3,0.0,0.8,1605.95,Efficient Route
+France,Europe,Rugs,Jute Braided Area Rug 4x6ft,133,53.9747,1.344,0.5397,0.0,1.008,0.32,0.252,57.4385,52.091,96.51,1.0644,2.3,0.0,0.6,2959.48,Efficient Route
+Portugal,Europe,Furniture,Cane Rattan Side Table,17,64.44,1.47,0.6444,0.0,1.0238,0.32,0.702,68.6001,62.3256,96.72,1.0643,2.1,0.0,0.5,746.8,Efficient Route
+Sweden,Europe,Textiles,Kantha Quilt Throw Blanket,76,36.76,0.504,0.3676,0.0,0.9248,0.32,0.2466,39.123,35.8884,97.63,1.0643,1.3,0.0,0.8,1680.15,Efficient Route
+Sweden,Europe,Kitchen,Ceramic Dinner Set 12pc,69,45.8574,1.05,0.4586,0.0,1.0527,0.32,0.0545,48.7932,44.3488,96.71,1.0641,2.2,0.0,0.7,537.41,Efficient Route
+Japan,Asia Pacific,Textiles,Kantha Quilt Throw Blanket,71,36.86,0.42,0.3686,0.0,0.9938,0.25,0.326,39.2184,36.0714,97.86,1.0638,1.1,0.0,0.6,1967.85,Efficient Route
+Sweden,Europe,Rugs,Jute Braided Area Rug 4x6ft,79,53.3276,1.344,0.5333,0.0,1.0008,0.32,0.1762,56.7018,51.4503,96.47,1.0635,2.4,0.0,0.6,1340.68,Efficient Route
+Japan,Asia Pacific,Textiles,Hand Block Print Bedsheet Set,72,43.93,0.63,0.4393,0.0,0.9503,0.25,0.5026,46.7022,42.8607,97.56,1.0633,1.4,0.0,0.5,2947.6,Efficient Route
+Portugal,Europe,Textiles,Hand Block Print Bedsheet Set,45,43.4956,0.756,0.435,0.0,1.1301,0.32,0.1067,46.2433,42.3046,97.26,1.0633,1.6,0.0,0.7,239.99,Efficient Route
+France,Europe,Textiles,Hand Block Print Bedsheet Set,167,44.2729,0.756,0.4427,0.0,0.9357,0.32,0.3156,47.0429,43.0742,97.29,1.0626,1.6,0.0,0.7,4587.7,Efficient Route
+Singapore,Asia Pacific,Textiles,Kantha Quilt Throw Blanket,242,36.5161,0.42,0.3652,0.0,1.0574,0.25,0.1935,38.8022,35.731,97.85,1.0626,1.1,0.0,0.6,4185.25,Efficient Route
+Germany,Europe,Rugs,Jute Braided Area Rug 4x6ft,263,53.8963,1.344,0.539,0.0,1.0214,0.32,0.1387,57.2593,52.0133,96.5,1.0625,2.4,0.0,0.6,3455.57,Efficient Route
+Singapore,Asia Pacific,Kitchen,Ceramic Dinner Set 12pc,224,46.2793,0.875,0.4628,0.0,0.9839,0.25,0.3061,49.1571,44.9415,97.11,1.0623,1.8,0.0,0.5,5002.22,Efficient Route
+Italy,Europe,Textiles,Hand Block Print Bedsheet Set,79,44.0435,0.756,0.4404,0.0,1.0089,0.32,0.2117,46.7806,42.8471,97.28,1.0623,1.6,0.0,0.7,1360.44,Efficient Route
+Singapore,Asia Pacific,Textiles,Hand Block Print Bedsheet Set,241,44.2325,0.63,0.4423,0.0,1.0398,0.25,0.3475,46.9422,43.1602,97.57,1.0614,1.3,0.0,0.5,6950.69,Efficient Route
+Singapore,Asia Pacific,Rugs,Jute Braided Area Rug 4x6ft,222,53.6919,1.12,0.5369,0.0,1.024,0.25,0.2927,56.9156,52.035,96.91,1.0601,2.0,0.0,0.4,5573.15,Efficient Route
+Germany,Europe,Furniture,Cane Rattan Side Table,157,65.345,1.47,0.6534,0.0,0.9921,0.32,0.4146,69.195,63.2215,96.75,1.059,2.1,0.0,0.5,5909.04,Efficient Route
+Ireland,Europe,Rugs,Jute Braided Area Rug 4x6ft,31,54.1213,1.344,0.5412,0.0,0.8564,0.32,0.1177,57.3006,52.2361,96.51,1.0588,2.3,0.0,0.6,421.32,Efficient Route
+Netherlands,Europe,Furniture,Cane Rattan Side Table,63,65.3016,1.47,0.653,0.0,0.9925,0.32,0.3892,69.1263,63.1786,96.75,1.0585,2.1,0.0,0.5,1914.39,Efficient Route
+UK,Europe,Furniture,Cane Rattan Side Table,267,65.3207,1.47,0.6532,0.0,1.0047,0.32,0.3536,69.1223,63.1975,96.75,1.0582,2.1,0.0,0.5,8230.37,Efficient Route
+Spain,Europe,Furniture,Cane Rattan Side Table,48,65.7475,1.47,0.6575,0.0,1.0117,0.32,0.2605,69.4672,63.62,96.76,1.0568,2.1,0.0,0.5,1050.8,Efficient Route
+Ireland,Europe,Furniture,Cane Rattan Side Table,30,64.8947,1.47,0.6489,0.0,1.0816,0.32,0.1541,68.5693,62.7757,96.73,1.0567,2.1,0.0,0.5,252.65,Efficient Route
+Japan,Asia Pacific,Kitchen,Ceramic Dinner Set 12pc,56,46.2686,0.875,0.4627,0.0,0.9872,0.25,0.0253,48.8687,44.9309,97.11,1.0562,1.8,0.0,0.5,145.69,Efficient Route
+Sweden,Europe,Furniture,Cane Rattan Side Table,60,65.4387,1.47,0.6544,0.0,0.9412,0.32,0.2681,69.0923,63.3143,96.75,1.0559,2.1,0.0,0.5,1416.79,Efficient Route
+Japan,Asia Pacific,Furniture,Cane Rattan Side Table,41,65.3463,1.225,0.6535,0.0,1.0121,0.25,0.4085,68.8954,63.4679,97.12,1.0546,1.8,0.0,0.4,876.85,Efficient Route
+France,Europe,Furniture,Cane Rattan Side Table,111,65.7272,1.47,0.6573,0.0,0.9938,0.32,0.1392,69.3075,63.5999,96.76,1.0546,2.1,0.0,0.5,1835.6,Efficient Route
+Italy,Europe,Furniture,Cane Rattan Side Table,50,66.0552,1.47,0.6606,0.0,0.95,0.32,0.1668,69.6226,63.9246,96.77,1.0541,2.1,0.0,0.5,951.5,Efficient Route
+Singapore,Asia Pacific,Furniture,Cane Rattan Side Table,162,65.5444,1.225,0.6554,0.0,0.986,0.25,0.3753,69.0361,63.664,97.13,1.0533,1.8,0.0,0.4,4119.48,Efficient Route

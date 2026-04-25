@@ -1,0 +1,41 @@
+product_id,sku_code,product_name,category,subcategory,brand_name,weight_kg,cogs_inr,india_mrp_inr,fob_price_usd,gross_margin_pct_india,primary_material,is_handmade,is_sustainable,is_export_ready,moq_units,monthly_capacity_units,lead_time_days,shelf_life_months,hsn_code,marketplace_presence,product_launch_date,is_active,artisan_cluster
+P001,NK-001,Handwoven Jute Storage Basket Small,Storage,Baskets,NestKraft,0.6,280,896,15.0,77.6,Rattan,N,Y,Y,200,4911,7,120,63079090,Noon,2022-04-30,Y,Chennai
+P002,NK-002,Handwoven Jute Storage Basket Large,Storage,Baskets,NestKraft,0.9,380,1216,20.0,77.2,Ceramic,Y,Y,Y,500,3734,14,36,57050090,Wayfair,2022-02-27,N,Chennai
+P003,NK-003,Woven Seagrass Floor Basket,Storage,Baskets,NestKraft,1.1,420,1344,23.0,78.1,Recycled Glass,Y,Y,Y,200,3843,7,24,44219090,Noon,2022-12-12,Y,Varanasi
+P004,NK-004,Macrame Wall Hanging Small,Decor,Wall Art,NestKraft,0.4,320,1024,18.0,78.7,Copper,Y,Y,Y,500,10680,30,36,57050090,Amazon Handmade,2023-04-19,Y,Jaipur
+P005,NK-005,Macrame Wall Hanging Large,Decor,Wall Art,NestKraft,0.65,480,1536,26.0,77.9,Rattan,Y,N,Y,300,4976,10,24,63049200,Amazon Handmade,2022-04-27,Y,Varanasi
+P006,NK-006,Macrame Plant Hanger Set of 3,Decor,Wall Art,NestKraft,0.35,260,832,16.0,80.5,Handloom Cotton,Y,Y,Y,500,3959,10,36,57050090,Not on Marketplace,2022-05-07,Y,Chennai
+P007,NK-007,Block Print Cotton Table Runner,Textiles,Table Linen,NestKraft,0.28,180,576,12.0,82.0,Cotton,Y,N,Y,300,7759,10,60,69120090,Wayfair,2023-01-28,N,Moradabad
+P008,NK-008,Block Print Cotton Napkin Set of 6,Textiles,Table Linen,NestKraft,0.35,220,704,14.0,81.2,Rattan,Y,N,Y,300,8694,14,120,63049200,Etsy,2022-02-27,N,Jodhpur
+P009,NK-009,Hand Embroidered Cushion Cover Set 2,Textiles,Cushions,NestKraft,0.45,340,1088,19.0,78.6,Recycled Glass,Y,Y,Y,500,4385,30,24,63049200,Amazon Handmade,2023-05-28,Y,Jaipur
+P010,NK-010,Kantha Quilt Throw Blanket,Textiles,Throws,NestKraft,1.2,680,2176,38.0,78.6,Copper,Y,Y,N,300,6736,7,24,63049200,Not on Marketplace,2022-04-06,Y,Kolkata
+P011,NK-011,Ceramic Dinner Set 12pc,Kitchen,Dinnerware,NestKraft,2.5,920,2944,48.0,77.0,Ceramic,Y,Y,Y,100,3802,21,120,46021990,Direct B2B,2022-04-28,Y,Chennai
+P012,NK-012,Ceramic Mug Set of 4,Kitchen,Mugs,NestKraft,0.85,380,1216,22.0,79.3,Recycled Glass,Y,Y,Y,300,10155,7,24,63079090,Not on Marketplace,2023-05-03,Y,Chennai
+P013,NK-013,Terracotta Planter Set of 3,Garden,Planters,NestKraft,1.3,360,1152,20.0,78.4,Recycled Glass,Y,Y,Y,200,10120,21,24,46021990,Amazon Handmade,2022-08-25,Y,Kolkata
+P014,NK-014,Terracotta Planter Large,Garden,Planters,NestKraft,1.8,420,1344,24.0,79.0,Cotton,Y,Y,Y,500,8616,7,36,46021990,Amazon Handmade,2022-09-29,Y,Kutch
+P015,NK-015,Bamboo Cutting Board Set of 3,Kitchen,Prep Tools,NestKraft,0.9,290,928,17.0,79.6,Teak Wood,Y,Y,Y,100,7534,30,24,69120090,Not on Marketplace,2022-07-08,Y,Chennai
+P016,NK-016,Bamboo Serving Tray Large,Kitchen,Serveware,NestKraft,0.75,260,832,16.0,80.5,Copper,Y,Y,Y,500,6061,21,60,44219090,Etsy,2023-03-23,Y,Saharanpur
+P017,NK-017,Handmade Soy Candle Set of 3,Decor,Candles,NestKraft,0.55,260,832,16.0,80.5,Bamboo,Y,Y,Y,200,2262,14,60,63079090,Noon,2022-09-04,Y,Moradabad
+P018,NK-018,Handmade Soy Candle Large,Decor,Candles,NestKraft,0.38,195,624,13.0,82.0,Recycled Glass,Y,N,Y,200,8287,7,120,57050090,Amazon Handmade,2022-03-17,Y,Jaipur
+P019,NK-019,Copper Water Bottle 1L,Kitchen,Drinkware,NestKraft,0.45,440,1408,25.0,78.9,Teak Wood,Y,N,Y,200,10815,7,24,94054090,Not on Marketplace,2022-06-03,Y,Kolkata
+P020,NK-020,Copper Water Bottle 750ml,Kitchen,Drinkware,NestKraft,0.38,380,1216,22.0,79.3,Bamboo,Y,Y,Y,300,11208,21,120,63049200,Not on Marketplace,2023-03-11,Y,Saharanpur
+P021,NK-021,Hand Painted Wooden Tray,Decor,Trays,NestKraft,0.7,320,1024,18.0,78.7,Copper,N,Y,Y,300,4049,14,60,57050090,Wayfair,2022-03-27,Y,Kolkata
+P022,NK-022,Hand Painted Wooden Bowl,Decor,Bowls,NestKraft,0.55,280,896,16.0,79.0,Jute,Y,Y,Y,500,7423,14,24,63049200,Noon,2022-10-12,Y,Jaipur
+P023,NK-023,Rattan Pendant Lamp Shade,Lighting,Pendants,NestKraft,0.8,480,1536,27.0,78.7,Handloom Cotton,Y,Y,Y,500,6548,30,24,69120090,Direct B2B,2022-08-08,Y,Varanasi
+P024,NK-024,Bamboo Table Lamp,Lighting,Table Lamps,NestKraft,1.1,560,1792,32.0,79.0,Teak Wood,Y,Y,Y,100,5108,14,120,63049200,Etsy,2022-03-10,Y,Jaipur
+P025,NK-025,Jute Braided Area Rug 2x3ft,Rugs,Area Rugs,NestKraft,1.4,520,1664,30.0,79.2,Brass,Y,Y,Y,100,9158,14,60,46021990,Direct B2B,2022-02-16,Y,Kutch
+P026,NK-026,Jute Braided Area Rug 4x6ft,Rugs,Area Rugs,NestKraft,3.2,980,3136,56.0,79.0,Jute,N,Y,Y,500,9400,14,24,63079090,Noon,2022-04-04,Y,Jaipur
+P027,NK-027,Cotton Dhurrie Rug 3x5ft,Rugs,Area Rugs,NestKraft,1.6,620,1984,35.0,78.8,Handloom Cotton,Y,Y,Y,300,5170,10,120,94054090,Noon,2023-03-29,Y,Jaipur
+P028,NK-028,Warli Art Wall Plate Set of 3,Decor,Wall Art,NestKraft,0.9,420,1344,24.0,79.0,Cotton,Y,N,Y,200,11874,30,60,74182990,Noon,2022-07-23,Y,Kutch
+P029,NK-029,Brass Tealight Holder Set of 4,Decor,Candles,NestKraft,0.65,380,1216,22.0,79.3,Rattan,Y,Y,Y,500,4255,7,120,63049200,Direct B2B,2022-08-06,Y,Moradabad
+P030,NK-030,Handmade Paper Photo Frame Set 3,Decor,Frames,NestKraft,0.45,260,832,15.0,79.2,Ceramic,Y,Y,Y,100,3154,21,36,57050090,Noon,2023-04-19,Y,Chennai
+P031,NK-031,Recycled Glass Vase Set of 2,Decor,Vases,NestKraft,0.95,360,1152,21.0,79.5,Brass,N,Y,Y,300,6499,7,24,46021990,Not on Marketplace,2023-03-08,Y,Jaipur
+P032,NK-032,Teak Wood Salad Bowl Large,Kitchen,Serveware,NestKraft,1.2,580,1856,33.0,79.0,Cotton,Y,Y,N,500,8295,30,36,74182990,Direct B2B,2022-12-07,Y,Kutch
+P033,NK-033,Teak Wood Cheese Board,Kitchen,Serveware,NestKraft,0.85,420,1344,24.0,79.0,Copper,Y,Y,Y,500,8197,21,60,94054090,Noon,2022-10-16,Y,Saharanpur
+P034,NK-034,Jute Cotton Laundry Basket,Storage,Baskets,NestKraft,0.75,320,1024,18.0,78.7,Cotton,Y,Y,N,300,11888,30,36,74182990,Not on Marketplace,2022-09-11,Y,Varanasi
+P035,NK-035,Handloom Cotton Throw Pillow Set 2,Textiles,Cushions,NestKraft,0.55,300,960,17.0,78.9,Rattan,Y,Y,Y,500,3648,14,36,46021990,Wayfair,2022-12-23,N,Varanasi
+P036,NK-036,Madhubani Art Canvas Print Large,Decor,Wall Art,NestKraft,0.35,380,1216,22.0,79.3,Copper,Y,N,Y,300,7539,21,60,63079090,Noon,2022-01-23,Y,Jaipur
+P037,NK-037,Bamboo Toothbrush Holder Set,Bath,Accessories,NestKraft,0.3,180,576,12.0,82.0,Brass,Y,Y,Y,200,11637,14,120,63079090,Direct B2B,2023-06-06,Y,Moradabad
+P038,NK-038,Jute Rope Mirror Frame Round,Decor,Mirrors,NestKraft,0.85,440,1408,25.0,78.9,Rattan,Y,Y,Y,300,6199,7,36,44219090,Amazon Handmade,2022-04-10,N,Moradabad
+P039,NK-039,Hand Block Print Bedsheet Set,Textiles,Bedding,NestKraft,1.8,820,2624,46.0,78.7,Bamboo,Y,N,Y,300,10445,7,120,63079090,Noon,2022-06-29,Y,Saharanpur
+P040,NK-040,Cane Rattan Side Table,Furniture,Tables,NestKraft,3.5,1200,3840,68.0,78.9,Ceramic,Y,Y,Y,300,4557,21,36,44219090,Amazon Handmade,2022-08-11,Y,Jaipur

@@ -1,0 +1,301 @@
+customer_id,company_name,customer_type,market_id,country,city,customer_tier,credit_limit_usd,payment_terms_days,preferred_categories,primary_platform,account_manager,registration_date,is_active,annual_revenue_band,lifetime_orders,avg_order_value_usd
+C0001,Buyer_0001_Intl,Distributor,M05,Australia,Brisbane,Silver,25000,30,Decor,Amazon,Priya Sharma,2018-11-09,Y,200K-500K,131,13104.02
+C0002,Buyer_0002_Intl,Retail Chain,M06,Canada,Vancouver,Bronze,100000,60,Storage,Wayfair,Kavya Iyer,2021-02-12,Y,500K-1M,90,27889.39
+C0003,Buyer_0003_Intl,Retail Chain,M19,Ireland,Dublin,Silver,5000,45,"Kitchen,Storage",Wayfair,Kavya Iyer,2021-05-08,Y,500K-1M,94,11448.02
+C0004,Buyer_0004_Intl,Online Marketplace,M08,France,Marseille,Bronze,25000,60,"Decor,Textiles",Noon,Vikram Patel,2018-11-17,Y,200K-500K,13,8271.91
+C0005,Buyer_0005_Intl,Distributor,M16,Spain,Barcelona,Silver,25000,15,"Kitchen,Storage",Local Marketplace,Arjun Nair,2019-09-07,Y,<50K,66,8037.59
+C0006,Buyer_0006_Intl,Distributor,M13,South Africa,Cape Town,Silver,50000,30,Storage,Amazon,Kavya Iyer,2020-11-08,Y,50K-200K,37,14210.62
+C0007,Buyer_0007_Intl,Online Marketplace,M01,USA,Los Angeles,Bronze,10000,30,Storage,Direct B2B,Arjun Nair,2021-01-12,Y,50K-200K,66,17654.34
+C0008,Buyer_0008_Intl,Retail Chain,M20,Portugal,Porto,Bronze,25000,15,All,Wayfair,Sneha Reddy,2019-05-08,Y,50K-200K,36,33373.21
+C0009,Buyer_0009_Intl,Online Marketplace,M17,Kuwait,Kuwait City,Bronze,50000,30,All,Amazon,Priya Sharma,2019-06-28,Y,50K-200K,26,5499.73
+C0010,Buyer_0010_Intl,Distributor,M07,Germany,Hamburg,Bronze,100000,60,Decor,Wayfair,Sneha Reddy,2020-02-04,N,50K-200K,75,29609.09
+C0011,Buyer_0011_Intl,Online Marketplace,M13,South Africa,Johannesburg,Bronze,25000,30,Kitchen,Direct B2B,Vikram Patel,2020-03-10,Y,50K-200K,108,21633.03
+C0012,Buyer_0012_Intl,Online Marketplace,M04,Singapore,Singapore City,Bronze,25000,45,Decor,Wayfair,Rahul Mehta,2020-05-05,Y,50K-200K,43,12087.46
+C0013,Buyer_0013_Intl,Distributor,M04,Singapore,Singapore City,Bronze,25000,30,Textiles,Local Marketplace,Rahul Mehta,2021-07-19,Y,500K-1M,148,20118.53
+C0014,Buyer_0014_Intl,Retail Chain,M06,Canada,Montreal,Bronze,50000,15,Storage,Local Marketplace,Rahul Mehta,2020-10-01,Y,200K-500K,8,12557.73
+C0015,Buyer_0015_Intl,Distributor,M19,Ireland,Dublin,Bronze,25000,30,"Kitchen,Storage",Noon,Sneha Reddy,2020-03-31,Y,50K-200K,29,24166.41
+C0016,Buyer_0016_Intl,Distributor,M12,Malaysia,Kuala Lumpur,Silver,5000,90,"Decor,Textiles",Noon,Kavya Iyer,2019-06-06,Y,500K-1M,40,17806.68
+C0017,Buyer_0017_Intl,Gift Shop Chain,M07,Germany,Berlin,Bronze,100000,60,Storage,Wayfair,Priya Sharma,2019-09-06,Y,>1M,128,7244.7
+C0018,Buyer_0018_Intl,Retail Chain,M10,Netherlands,Amsterdam,Gold,25000,90,Storage,Amazon,Rahul Mehta,2021-07-15,Y,50K-200K,84,5370.06
+C0019,Buyer_0019_Intl,Wholesaler,M19,Ireland,Dublin,Bronze,25000,30,Decor,Local Marketplace,Vikram Patel,2018-11-22,Y,50K-200K,116,22230.47
+C0020,Buyer_0020_Intl,Distributor,M07,Germany,Munich,Bronze,10000,30,"Decor,Textiles",Amazon,Vikram Patel,2021-06-09,Y,50K-200K,144,36174.59
+C0021,Buyer_0021_Intl,Interior Design Studio,M03,UK,London,Platinum,25000,45,"Decor,Textiles",Amazon,Rahul Mehta,2021-05-19,Y,500K-1M,62,14283.14
+C0022,Buyer_0022_Intl,Interior Design Studio,M13,South Africa,Johannesburg,Bronze,10000,30,"Decor,Textiles",Wayfair,Rahul Mehta,2020-03-19,Y,500K-1M,7,29533.6
+C0023,Buyer_0023_Intl,Online Marketplace,M13,South Africa,Johannesburg,Gold,25000,60,Decor,Amazon,Priya Sharma,2020-01-12,Y,<50K,45,26619.53
+C0024,Buyer_0024_Intl,Online Marketplace,M18,Sweden,Stockholm,Silver,5000,15,Storage,Local Marketplace,Rahul Mehta,2020-10-28,Y,50K-200K,88,37316.95
+C0025,Buyer_0025_Intl,Retail Chain,M20,Portugal,Porto,Bronze,25000,30,Decor,Direct B2B,Priya Sharma,2020-08-19,Y,200K-500K,73,32982.46
+C0026,Buyer_0026_Intl,Retail Chain,M08,France,Lyon,Gold,250000,30,All,Noon,Vikram Patel,2021-04-29,Y,50K-200K,37,23010.93
+C0027,Buyer_0027_Intl,D2C Platform,M09,Saudi Arabia,Dammam,Bronze,5000,30,All,Direct B2B,Rahul Mehta,2019-05-19,Y,<50K,119,26555.6
+C0028,Buyer_0028_Intl,Wholesaler,M07,Germany,Frankfurt,Bronze,250000,45,Decor,Amazon,Sneha Reddy,2020-03-11,Y,500K-1M,57,36016.75
+C0029,Buyer_0029_Intl,Gift Shop Chain,M01,USA,Seattle,Silver,25000,30,"Decor,Textiles",Direct B2B,Sneha Reddy,2019-04-27,Y,200K-500K,8,16461.14
+C0030,Buyer_0030_Intl,Distributor,M03,UK,London,Platinum,50000,30,Storage,Local Marketplace,Vikram Patel,2019-06-11,Y,500K-1M,95,13610.35
+C0031,Buyer_0031_Intl,Interior Design Studio,M13,South Africa,Johannesburg,Silver,50000,30,Decor,Local Marketplace,Priya Sharma,2021-06-11,N,500K-1M,117,1223.79
+C0032,Buyer_0032_Intl,D2C Platform,M17,Kuwait,Kuwait City,Silver,25000,30,Decor,Amazon,Sneha Reddy,2021-11-10,Y,200K-500K,110,33200.8
+C0033,Buyer_0033_Intl,Distributor,M01,USA,Seattle,Bronze,50000,60,Decor,Wayfair,Priya Sharma,2021-04-12,Y,50K-200K,20,32198.44
+C0034,Buyer_0034_Intl,Distributor,M06,Canada,Vancouver,Silver,50000,60,Textiles,Direct B2B,Sneha Reddy,2019-01-31,Y,200K-500K,124,4894.62
+C0035,Buyer_0035_Intl,Interior Design Studio,M06,Canada,Montreal,Silver,25000,90,All,Wayfair,Sneha Reddy,2018-11-04,Y,<50K,53,23412.81
+C0036,Buyer_0036_Intl,Online Marketplace,M12,Malaysia,Penang,Silver,10000,60,"Kitchen,Storage",Wayfair,Priya Sharma,2019-05-19,Y,200K-500K,119,18988.08
+C0037,Buyer_0037_Intl,Wholesaler,M13,South Africa,Cape Town,Silver,25000,30,"Decor,Textiles",Etsy,Kavya Iyer,2020-06-28,Y,<50K,12,5453.4
+C0038,Buyer_0038_Intl,Distributor,M13,South Africa,Johannesburg,Bronze,50000,45,Kitchen,Amazon,Sneha Reddy,2020-09-28,N,200K-500K,17,39238.27
+C0039,Buyer_0039_Intl,Wholesaler,M15,Italy,Rome,Gold,50000,30,"Kitchen,Storage",Noon,Rahul Mehta,2019-10-02,Y,50K-200K,64,9216.08
+C0040,Buyer_0040_Intl,Distributor,M16,Spain,Madrid,Bronze,50000,30,"Decor,Textiles",Local Marketplace,Vikram Patel,2020-06-18,Y,<50K,42,3435.58
+C0041,Buyer_0041_Intl,Distributor,M11,New Zealand,Wellington,Silver,25000,60,Kitchen,Local Marketplace,Kavya Iyer,2019-03-30,Y,<50K,94,24118.02
+C0042,Buyer_0042_Intl,Distributor,M05,Australia,Brisbane,Bronze,50000,15,Textiles,Amazon,Priya Sharma,2019-09-15,Y,<50K,147,29763.57
+C0043,Buyer_0043_Intl,Wholesaler,M04,Singapore,Singapore City,Silver,5000,90,Decor,Noon,Kavya Iyer,2019-06-04,Y,200K-500K,11,2071.78
+C0044,Buyer_0044_Intl,Interior Design Studio,M03,UK,Birmingham,Silver,25000,30,Textiles,Local Marketplace,Arjun Nair,2018-11-04,Y,200K-500K,98,26621.73
+C0045,Buyer_0045_Intl,Online Marketplace,M19,Ireland,Cork,Bronze,5000,45,Textiles,Amazon,Arjun Nair,2019-07-16,Y,50K-200K,71,21665.84
+C0046,Buyer_0046_Intl,Retail Chain,M20,Portugal,Lisbon,Gold,10000,45,"Kitchen,Storage",Local Marketplace,Sneha Reddy,2020-06-11,Y,<50K,108,4847.99
+C0047,Buyer_0047_Intl,Wholesaler,M18,Sweden,Stockholm,Bronze,10000,60,Storage,Wayfair,Sneha Reddy,2019-02-13,Y,<50K,58,7562.94
+C0048,Buyer_0048_Intl,Retail Chain,M15,Italy,Rome,Bronze,10000,45,"Kitchen,Storage",Direct B2B,Rahul Mehta,2021-04-20,Y,<50K,34,23064.59
+C0049,Buyer_0049_Intl,Wholesaler,M09,Saudi Arabia,Dammam,Gold,25000,45,All,Direct B2B,Vikram Patel,2019-07-14,Y,<50K,20,12417.22
+C0050,Buyer_0050_Intl,Retail Chain,M17,Kuwait,Kuwait City,Silver,10000,15,Kitchen,Local Marketplace,Kavya Iyer,2019-06-25,N,500K-1M,50,37581.98
+C0051,Buyer_0051_Intl,Retail Chain,M14,Japan,Osaka,Bronze,25000,45,Decor,Etsy,Arjun Nair,2019-01-31,Y,50K-200K,102,32894.62
+C0052,Buyer_0052_Intl,Online Marketplace,M15,Italy,Florence,Gold,10000,30,"Kitchen,Storage",Noon,Sneha Reddy,2021-05-07,N,50K-200K,138,39355.83
+C0053,Buyer_0053_Intl,Retail Chain,M01,USA,New York,Silver,10000,45,Kitchen,Noon,Vikram Patel,2019-11-23,Y,<50K,52,10979.1
+C0054,Buyer_0054_Intl,Interior Design Studio,M03,UK,Birmingham,Silver,10000,45,"Decor,Textiles",Noon,Kavya Iyer,2020-11-01,Y,50K-200K,15,38813.17
+C0055,Buyer_0055_Intl,Online Marketplace,M16,Spain,Barcelona,Silver,5000,45,Kitchen,Wayfair,Sneha Reddy,2018-11-05,Y,50K-200K,84,17704.37
+C0056,Buyer_0056_Intl,Distributor,M11,New Zealand,Auckland,Platinum,25000,15,"Decor,Textiles",Noon,Sneha Reddy,2021-11-02,Y,200K-500K,131,14422.74
+C0057,Buyer_0057_Intl,Wholesaler,M12,Malaysia,Penang,Bronze,25000,15,"Kitchen,Storage",Direct B2B,Arjun Nair,2019-06-19,Y,50K-200K,37,2773.7
+C0058,Buyer_0058_Intl,Retail Chain,M10,Netherlands,Rotterdam,Bronze,25000,45,All,Wayfair,Arjun Nair,2020-02-23,Y,<50K,126,2868.4
+C0059,Buyer_0059_Intl,Online Marketplace,M16,Spain,Madrid,Bronze,25000,15,"Kitchen,Storage",Amazon,Sneha Reddy,2021-01-08,Y,50K-200K,40,27926.84
+C0060,Buyer_0060_Intl,D2C Platform,M08,France,Lyon,Bronze,10000,15,"Decor,Textiles",Noon,Priya Sharma,2019-04-26,Y,50K-200K,72,18750.82
+C0061,Buyer_0061_Intl,Online Marketplace,M06,Canada,Calgary,Gold,50000,15,Kitchen,Noon,Sneha Reddy,2018-11-05,Y,50K-200K,40,9679.65
+C0062,Buyer_0062_Intl,Distributor,M12,Malaysia,Kuala Lumpur,Bronze,25000,90,Kitchen,Amazon,Vikram Patel,2020-03-22,Y,>1M,56,24867.64
+C0063,Buyer_0063_Intl,D2C Platform,M08,France,Marseille,Platinum,25000,45,"Decor,Textiles",Noon,Sneha Reddy,2021-06-24,N,200K-500K,104,10712.04
+C0064,Buyer_0064_Intl,Online Marketplace,M04,Singapore,Singapore City,Platinum,5000,30,Textiles,Amazon,Rahul Mehta,2019-10-19,Y,200K-500K,139,23443.16
+C0065,Buyer_0065_Intl,Retail Chain,M08,France,Paris,Silver,10000,30,All,Wayfair,Rahul Mehta,2021-03-04,Y,50K-200K,110,14880.98
+C0066,Buyer_0066_Intl,Distributor,M18,Sweden,Stockholm,Silver,10000,30,Storage,Direct B2B,Rahul Mehta,2019-02-10,Y,50K-200K,136,33083.25
+C0067,Buyer_0067_Intl,Wholesaler,M05,Australia,Perth,Bronze,10000,60,Decor,Amazon,Priya Sharma,2019-01-16,Y,50K-200K,93,32971.29
+C0068,Buyer_0068_Intl,Online Marketplace,M09,Saudi Arabia,Jeddah,Bronze,25000,45,Kitchen,Etsy,Priya Sharma,2021-01-11,Y,200K-500K,94,19512.14
+C0069,Buyer_0069_Intl,Online Marketplace,M04,Singapore,Singapore City,Silver,25000,30,Decor,Amazon,Sneha Reddy,2019-05-08,Y,200K-500K,56,14552.11
+C0070,Buyer_0070_Intl,Wholesaler,M17,Kuwait,Kuwait City,Silver,25000,30,Storage,Noon,Rahul Mehta,2020-06-11,Y,<50K,60,15012.34
+C0071,Buyer_0071_Intl,Wholesaler,M09,Saudi Arabia,Dammam,Bronze,50000,15,"Kitchen,Storage",Wayfair,Priya Sharma,2020-08-02,Y,50K-200K,138,32384.01
+C0072,Buyer_0072_Intl,Distributor,M01,USA,Seattle,Silver,50000,45,Decor,Local Marketplace,Arjun Nair,2019-09-03,Y,50K-200K,39,13664.64
+C0073,Buyer_0073_Intl,Retail Chain,M20,Portugal,Porto,Silver,50000,60,Storage,Wayfair,Sneha Reddy,2018-12-10,Y,500K-1M,28,8995.13
+C0074,Buyer_0074_Intl,Distributor,M13,South Africa,Johannesburg,Gold,100000,30,"Decor,Textiles",Local Marketplace,Vikram Patel,2020-12-12,N,200K-500K,49,4119.78
+C0075,Buyer_0075_Intl,Interior Design Studio,M16,Spain,Barcelona,Bronze,5000,15,Textiles,Amazon,Kavya Iyer,2021-04-12,Y,50K-200K,125,19094.37
+C0076,Buyer_0076_Intl,Distributor,M13,South Africa,Cape Town,Bronze,10000,15,Kitchen,Direct B2B,Sneha Reddy,2021-04-20,Y,<50K,13,19699.58
+C0077,Buyer_0077_Intl,Online Marketplace,M14,Japan,Kyoto,Gold,5000,90,Storage,Etsy,Kavya Iyer,2021-10-15,Y,200K-500K,36,33763.62
+C0078,Buyer_0078_Intl,Interior Design Studio,M03,UK,Birmingham,Gold,25000,30,Decor,Wayfair,Rahul Mehta,2021-08-07,Y,<50K,101,9472.56
+C0079,Buyer_0079_Intl,Wholesaler,M06,Canada,Vancouver,Bronze,50000,60,Kitchen,Noon,Kavya Iyer,2021-10-10,N,50K-200K,26,15734.86
+C0080,Buyer_0080_Intl,Retail Chain,M18,Sweden,Stockholm,Bronze,10000,45,Textiles,Local Marketplace,Rahul Mehta,2020-05-17,Y,<50K,86,32489.5
+C0081,Buyer_0081_Intl,Wholesaler,M19,Ireland,Cork,Silver,100000,30,"Decor,Textiles",Noon,Arjun Nair,2018-12-31,Y,200K-500K,4,33086.05
+C0082,Buyer_0082_Intl,Distributor,M05,Australia,Brisbane,Bronze,5000,30,"Kitchen,Storage",Direct B2B,Kavya Iyer,2021-10-11,Y,50K-200K,82,15876.75
+C0083,Buyer_0083_Intl,Wholesaler,M15,Italy,Milan,Gold,100000,30,Kitchen,Local Marketplace,Sneha Reddy,2020-05-24,Y,50K-200K,127,18797.66
+C0084,Buyer_0084_Intl,Distributor,M02,UAE,Abu Dhabi,Silver,10000,45,"Kitchen,Storage",Wayfair,Rahul Mehta,2018-11-03,Y,500K-1M,88,12688.81
+C0085,Buyer_0085_Intl,Retail Chain,M10,Netherlands,Amsterdam,Bronze,5000,60,Storage,Amazon,Sneha Reddy,2019-07-19,Y,50K-200K,127,37356.15
+C0086,Buyer_0086_Intl,Wholesaler,M18,Sweden,Gothenburg,Silver,25000,45,Textiles,Noon,Priya Sharma,2020-10-31,Y,50K-200K,120,5450.84
+C0087,Buyer_0087_Intl,Distributor,M13,South Africa,Johannesburg,Silver,10000,45,Decor,Direct B2B,Rahul Mehta,2018-09-28,Y,50K-200K,22,37402.98
+C0088,Buyer_0088_Intl,Distributor,M05,Australia,Perth,Silver,10000,15,Textiles,Wayfair,Kavya Iyer,2020-01-28,N,<50K,130,27607.56
+C0089,Buyer_0089_Intl,Interior Design Studio,M01,USA,Miami,Silver,10000,90,Textiles,Wayfair,Rahul Mehta,2020-11-11,Y,200K-500K,31,21637.63
+C0090,Buyer_0090_Intl,Interior Design Studio,M01,USA,Seattle,Bronze,50000,60,All,Wayfair,Sneha Reddy,2021-08-14,Y,<50K,119,2080.24
+C0091,Buyer_0091_Intl,Online Marketplace,M18,Sweden,Gothenburg,Silver,25000,30,Textiles,Wayfair,Arjun Nair,2020-03-29,Y,50K-200K,11,19443.37
+C0092,Buyer_0092_Intl,Interior Design Studio,M15,Italy,Florence,Bronze,10000,90,Textiles,Local Marketplace,Rahul Mehta,2021-11-16,Y,200K-500K,46,16783.73
+C0093,Buyer_0093_Intl,Online Marketplace,M17,Kuwait,Kuwait City,Gold,25000,45,Kitchen,Wayfair,Kavya Iyer,2019-07-03,N,200K-500K,96,7119.78
+C0094,Buyer_0094_Intl,Distributor,M11,New Zealand,Auckland,Gold,50000,45,Decor,Noon,Priya Sharma,2020-06-10,Y,200K-500K,10,26531.26
+C0095,Buyer_0095_Intl,Retail Chain,M17,Kuwait,Kuwait City,Platinum,10000,45,Kitchen,Direct B2B,Vikram Patel,2021-06-15,Y,50K-200K,128,38869.12
+C0096,Buyer_0096_Intl,Distributor,M13,South Africa,Johannesburg,Bronze,25000,60,Kitchen,Local Marketplace,Arjun Nair,2020-10-20,Y,<50K,99,22837.8
+C0097,Buyer_0097_Intl,D2C Platform,M01,USA,Los Angeles,Silver,5000,45,Storage,Wayfair,Priya Sharma,2019-11-24,Y,200K-500K,112,28818.33
+C0098,Buyer_0098_Intl,Online Marketplace,M02,UAE,Sharjah,Bronze,10000,30,Kitchen,Etsy,Rahul Mehta,2019-07-29,Y,50K-200K,60,3483.26
+C0099,Buyer_0099_Intl,Retail Chain,M09,Saudi Arabia,Dammam,Silver,25000,30,All,Etsy,Sneha Reddy,2021-04-17,Y,500K-1M,87,17172.55
+C0100,Buyer_0100_Intl,Online Marketplace,M03,UK,Edinburgh,Bronze,10000,90,All,Direct B2B,Sneha Reddy,2021-08-06,Y,500K-1M,145,5361.25
+C0101,Buyer_0101_Intl,D2C Platform,M01,USA,New York,Gold,25000,30,"Kitchen,Storage",Amazon,Kavya Iyer,2019-10-11,Y,500K-1M,65,24821.6
+C0102,Buyer_0102_Intl,Distributor,M16,Spain,Barcelona,Bronze,50000,30,Storage,Amazon,Sneha Reddy,2020-08-25,Y,50K-200K,57,37588.5
+C0103,Buyer_0103_Intl,Online Marketplace,M06,Canada,Toronto,Bronze,5000,30,"Kitchen,Storage",Local Marketplace,Arjun Nair,2021-08-21,Y,50K-200K,106,26741.69
+C0104,Buyer_0104_Intl,Online Marketplace,M17,Kuwait,Kuwait City,Bronze,25000,30,"Kitchen,Storage",Local Marketplace,Sneha Reddy,2020-01-05,N,200K-500K,9,3810.68
+C0105,Buyer_0105_Intl,Online Marketplace,M05,Australia,Melbourne,Bronze,10000,45,"Decor,Textiles",Local Marketplace,Kavya Iyer,2021-06-11,Y,50K-200K,22,14702.92
+C0106,Buyer_0106_Intl,Distributor,M05,Australia,Sydney,Bronze,100000,90,Decor,Amazon,Vikram Patel,2019-11-19,Y,<50K,141,22386.0
+C0107,Buyer_0107_Intl,Wholesaler,M06,Canada,Toronto,Silver,25000,30,Decor,Etsy,Rahul Mehta,2018-10-02,Y,500K-1M,89,16605.74
+C0108,Buyer_0108_Intl,D2C Platform,M03,UK,Manchester,Gold,50000,30,Kitchen,Amazon,Rahul Mehta,2020-02-07,Y,500K-1M,18,33478.85
+C0109,Buyer_0109_Intl,Online Marketplace,M05,Australia,Sydney,Platinum,25000,30,Kitchen,Noon,Sneha Reddy,2021-10-31,Y,50K-200K,115,32735.1
+C0110,Buyer_0110_Intl,Interior Design Studio,M05,Australia,Perth,Bronze,5000,60,"Decor,Textiles",Wayfair,Priya Sharma,2021-10-09,N,<50K,145,24783.78
+C0111,Buyer_0111_Intl,D2C Platform,M10,Netherlands,Amsterdam,Silver,25000,45,Kitchen,Local Marketplace,Rahul Mehta,2020-07-02,Y,50K-200K,143,15439.55
+C0112,Buyer_0112_Intl,Interior Design Studio,M10,Netherlands,Rotterdam,Bronze,100000,30,Decor,Etsy,Vikram Patel,2019-11-08,Y,500K-1M,106,10809.19
+C0113,Buyer_0113_Intl,Distributor,M19,Ireland,Cork,Silver,25000,60,"Kitchen,Storage",Direct B2B,Sneha Reddy,2021-11-21,Y,500K-1M,15,4950.27
+C0114,Buyer_0114_Intl,Online Marketplace,M17,Kuwait,Kuwait City,Gold,50000,60,Textiles,Direct B2B,Kavya Iyer,2019-12-14,Y,50K-200K,63,14711.99
+C0115,Buyer_0115_Intl,Online Marketplace,M14,Japan,Osaka,Gold,50000,60,All,Wayfair,Vikram Patel,2020-05-27,Y,<50K,13,16996.36
+C0116,Buyer_0116_Intl,Retail Chain,M09,Saudi Arabia,Jeddah,Bronze,10000,90,Textiles,Etsy,Sneha Reddy,2020-11-25,Y,500K-1M,81,27292.26
+C0117,Buyer_0117_Intl,Interior Design Studio,M14,Japan,Kyoto,Silver,10000,30,Textiles,Amazon,Vikram Patel,2020-08-06,Y,50K-200K,32,26599.87
+C0118,Buyer_0118_Intl,D2C Platform,M01,USA,Chicago,Gold,25000,60,Decor,Amazon,Rahul Mehta,2019-04-05,Y,50K-200K,137,3548.24
+C0119,Buyer_0119_Intl,D2C Platform,M19,Ireland,Cork,Silver,25000,30,Textiles,Noon,Kavya Iyer,2020-03-20,Y,>1M,40,16294.17
+C0120,Buyer_0120_Intl,Retail Chain,M13,South Africa,Cape Town,Gold,50000,60,"Decor,Textiles",Noon,Sneha Reddy,2021-01-30,Y,<50K,148,7925.73
+C0121,Buyer_0121_Intl,Distributor,M13,South Africa,Cape Town,Silver,100000,45,Storage,Amazon,Arjun Nair,2020-09-02,Y,200K-500K,82,6947.06
+C0122,Buyer_0122_Intl,Gift Shop Chain,M04,Singapore,Singapore City,Silver,10000,60,Kitchen,Direct B2B,Kavya Iyer,2021-06-26,Y,<50K,77,33230.24
+C0123,Buyer_0123_Intl,Wholesaler,M01,USA,Chicago,Bronze,10000,45,Storage,Local Marketplace,Arjun Nair,2021-01-06,Y,50K-200K,76,2443.08
+C0124,Buyer_0124_Intl,Distributor,M17,Kuwait,Kuwait City,Silver,50000,30,"Kitchen,Storage",Direct B2B,Vikram Patel,2019-10-19,Y,500K-1M,38,17231.97
+C0125,Buyer_0125_Intl,D2C Platform,M08,France,Marseille,Silver,10000,45,All,Noon,Priya Sharma,2021-04-22,Y,50K-200K,71,7393.58
+C0126,Buyer_0126_Intl,Wholesaler,M02,UAE,Dubai,Platinum,50000,90,Kitchen,Wayfair,Kavya Iyer,2019-03-26,Y,>1M,48,35269.74
+C0127,Buyer_0127_Intl,Online Marketplace,M08,France,Paris,Gold,25000,90,Textiles,Amazon,Vikram Patel,2019-12-05,Y,200K-500K,18,22635.99
+C0128,Buyer_0128_Intl,Online Marketplace,M07,Germany,Munich,Silver,25000,15,All,Noon,Arjun Nair,2018-12-30,Y,50K-200K,144,9870.12
+C0129,Buyer_0129_Intl,Retail Chain,M02,UAE,Sharjah,Silver,5000,30,Kitchen,Noon,Rahul Mehta,2018-12-16,Y,50K-200K,39,20495.15
+C0130,Buyer_0130_Intl,Distributor,M03,UK,Birmingham,Silver,25000,30,"Decor,Textiles",Local Marketplace,Rahul Mehta,2020-02-28,Y,50K-200K,89,29474.27
+C0131,Buyer_0131_Intl,Retail Chain,M18,Sweden,Stockholm,Silver,25000,45,"Decor,Textiles",Amazon,Priya Sharma,2020-03-27,N,50K-200K,62,38358.23
+C0132,Buyer_0132_Intl,Wholesaler,M12,Malaysia,Penang,Bronze,25000,60,"Decor,Textiles",Local Marketplace,Kavya Iyer,2021-05-22,Y,<50K,141,9441.48
+C0133,Buyer_0133_Intl,Distributor,M01,USA,Miami,Bronze,10000,30,"Decor,Textiles",Amazon,Kavya Iyer,2020-08-01,Y,50K-200K,109,35538.33
+C0134,Buyer_0134_Intl,Retail Chain,M12,Malaysia,Kuala Lumpur,Bronze,50000,45,Textiles,Local Marketplace,Kavya Iyer,2021-06-29,Y,50K-200K,81,37424.72
+C0135,Buyer_0135_Intl,Retail Chain,M05,Australia,Melbourne,Platinum,50000,60,Storage,Direct B2B,Vikram Patel,2020-04-02,Y,200K-500K,134,36723.69
+C0136,Buyer_0136_Intl,Online Marketplace,M17,Kuwait,Kuwait City,Silver,10000,45,Kitchen,Wayfair,Priya Sharma,2020-10-17,Y,200K-500K,77,25708.24
+C0137,Buyer_0137_Intl,D2C Platform,M16,Spain,Madrid,Gold,5000,45,Textiles,Wayfair,Kavya Iyer,2018-11-26,Y,200K-500K,90,25488.97
+C0138,Buyer_0138_Intl,Retail Chain,M15,Italy,Milan,Gold,5000,45,"Decor,Textiles",Amazon,Vikram Patel,2018-10-12,Y,<50K,14,16605.86
+C0139,Buyer_0139_Intl,Retail Chain,M15,Italy,Rome,Bronze,25000,45,"Kitchen,Storage",Etsy,Rahul Mehta,2020-08-19,Y,50K-200K,95,30294.0
+C0140,Buyer_0140_Intl,Interior Design Studio,M05,Australia,Sydney,Gold,25000,30,Storage,Noon,Arjun Nair,2020-07-05,Y,200K-500K,54,21626.73
+C0141,Buyer_0141_Intl,Retail Chain,M14,Japan,Tokyo,Silver,25000,45,"Kitchen,Storage",Noon,Vikram Patel,2018-11-01,Y,50K-200K,132,27355.57
+C0142,Buyer_0142_Intl,Distributor,M02,UAE,Sharjah,Silver,10000,45,All,Amazon,Rahul Mehta,2020-11-05,Y,<50K,39,17595.55
+C0143,Buyer_0143_Intl,Retail Chain,M11,New Zealand,Auckland,Bronze,10000,60,"Kitchen,Storage",Local Marketplace,Rahul Mehta,2020-03-12,Y,500K-1M,72,29474.66
+C0144,Buyer_0144_Intl,Distributor,M19,Ireland,Cork,Silver,25000,45,All,Etsy,Arjun Nair,2020-04-04,Y,200K-500K,25,33119.28
+C0145,Buyer_0145_Intl,Distributor,M07,Germany,Munich,Platinum,25000,60,All,Direct B2B,Rahul Mehta,2019-03-29,Y,50K-200K,77,6540.3
+C0146,Buyer_0146_Intl,Online Marketplace,M06,Canada,Toronto,Silver,250000,30,"Decor,Textiles",Local Marketplace,Priya Sharma,2020-09-25,Y,<50K,120,33450.84
+C0147,Buyer_0147_Intl,Retail Chain,M02,UAE,Sharjah,Silver,5000,30,All,Local Marketplace,Arjun Nair,2018-09-23,Y,200K-500K,53,21979.62
+C0148,Buyer_0148_Intl,D2C Platform,M06,Canada,Calgary,Gold,25000,15,Decor,Amazon,Rahul Mehta,2020-06-11,Y,200K-500K,131,33910.9
+C0149,Buyer_0149_Intl,Retail Chain,M18,Sweden,Gothenburg,Silver,25000,30,Kitchen,Amazon,Sneha Reddy,2021-02-28,Y,200K-500K,96,17707.03
+C0150,Buyer_0150_Intl,Online Marketplace,M02,UAE,Dubai,Platinum,25000,45,Kitchen,Noon,Vikram Patel,2021-04-14,Y,200K-500K,72,15658.39
+C0151,Buyer_0151_Intl,Online Marketplace,M18,Sweden,Stockholm,Gold,50000,90,"Decor,Textiles",Amazon,Rahul Mehta,2018-11-15,N,500K-1M,62,36670.38
+C0152,Buyer_0152_Intl,Distributor,M15,Italy,Rome,Silver,25000,15,Decor,Amazon,Priya Sharma,2020-12-06,Y,50K-200K,6,10645.84
+C0153,Buyer_0153_Intl,Interior Design Studio,M19,Ireland,Dublin,Gold,250000,30,"Kitchen,Storage",Amazon,Kavya Iyer,2021-11-07,Y,<50K,32,33893.12
+C0154,Buyer_0154_Intl,Distributor,M02,UAE,Sharjah,Silver,5000,60,Textiles,Noon,Rahul Mehta,2019-01-19,Y,200K-500K,99,19773.61
+C0155,Buyer_0155_Intl,Gift Shop Chain,M20,Portugal,Lisbon,Bronze,5000,30,"Kitchen,Storage",Direct B2B,Kavya Iyer,2020-07-14,Y,200K-500K,138,20952.54
+C0156,Buyer_0156_Intl,Distributor,M06,Canada,Vancouver,Bronze,50000,45,Textiles,Direct B2B,Sneha Reddy,2021-03-11,Y,200K-500K,131,12891.96
+C0157,Buyer_0157_Intl,Retail Chain,M01,USA,Los Angeles,Gold,25000,45,All,Amazon,Rahul Mehta,2020-08-29,Y,<50K,76,23263.25
+C0158,Buyer_0158_Intl,Distributor,M15,Italy,Rome,Gold,10000,45,Storage,Noon,Arjun Nair,2020-09-03,Y,<50K,59,13548.28
+C0159,Buyer_0159_Intl,Gift Shop Chain,M10,Netherlands,Rotterdam,Gold,5000,30,Textiles,Direct B2B,Kavya Iyer,2018-12-07,Y,500K-1M,31,2339.36
+C0160,Buyer_0160_Intl,Online Marketplace,M19,Ireland,Dublin,Silver,5000,30,Storage,Local Marketplace,Sneha Reddy,2019-03-02,Y,200K-500K,93,11462.35
+C0161,Buyer_0161_Intl,Online Marketplace,M17,Kuwait,Kuwait City,Bronze,50000,60,Kitchen,Direct B2B,Arjun Nair,2019-07-24,Y,500K-1M,69,1050.06
+C0162,Buyer_0162_Intl,Distributor,M05,Australia,Sydney,Platinum,10000,45,Storage,Direct B2B,Arjun Nair,2020-07-30,N,200K-500K,52,39151.51
+C0163,Buyer_0163_Intl,Interior Design Studio,M04,Singapore,Singapore City,Bronze,10000,15,Kitchen,Noon,Arjun Nair,2018-12-26,Y,200K-500K,89,38657.29
+C0164,Buyer_0164_Intl,Distributor,M10,Netherlands,Rotterdam,Gold,10000,60,Decor,Local Marketplace,Arjun Nair,2020-05-18,Y,200K-500K,127,16290.09
+C0165,Buyer_0165_Intl,Wholesaler,M17,Kuwait,Kuwait City,Silver,10000,15,Decor,Noon,Rahul Mehta,2018-11-03,Y,500K-1M,31,29352.14
+C0166,Buyer_0166_Intl,Distributor,M10,Netherlands,Amsterdam,Bronze,5000,45,"Decor,Textiles",Amazon,Vikram Patel,2021-05-01,N,200K-500K,84,14355.6
+C0167,Buyer_0167_Intl,Distributor,M17,Kuwait,Kuwait City,Bronze,25000,30,"Decor,Textiles",Wayfair,Rahul Mehta,2020-05-23,Y,200K-500K,127,27106.85
+C0168,Buyer_0168_Intl,Distributor,M20,Portugal,Lisbon,Bronze,5000,90,All,Direct B2B,Rahul Mehta,2021-06-27,Y,<50K,132,32372.86
+C0169,Buyer_0169_Intl,Online Marketplace,M05,Australia,Melbourne,Bronze,50000,30,Textiles,Wayfair,Sneha Reddy,2020-08-01,Y,50K-200K,13,37912.84
+C0170,Buyer_0170_Intl,Online Marketplace,M02,UAE,Sharjah,Silver,10000,30,All,Noon,Sneha Reddy,2020-01-17,Y,200K-500K,45,16488.32
+C0171,Buyer_0171_Intl,Distributor,M06,Canada,Toronto,Bronze,25000,30,Kitchen,Noon,Vikram Patel,2019-10-01,Y,50K-200K,127,31505.28
+C0172,Buyer_0172_Intl,Interior Design Studio,M02,UAE,Sharjah,Gold,50000,30,All,Noon,Sneha Reddy,2021-11-28,Y,50K-200K,114,11224.4
+C0173,Buyer_0173_Intl,Retail Chain,M13,South Africa,Johannesburg,Bronze,25000,60,Storage,Wayfair,Priya Sharma,2020-12-07,Y,50K-200K,20,39621.03
+C0174,Buyer_0174_Intl,Online Marketplace,M11,New Zealand,Auckland,Silver,25000,90,Kitchen,Noon,Vikram Patel,2020-08-31,Y,50K-200K,81,1810.17
+C0175,Buyer_0175_Intl,Retail Chain,M11,New Zealand,Wellington,Bronze,10000,30,"Decor,Textiles",Amazon,Sneha Reddy,2021-03-30,Y,50K-200K,129,24458.33
+C0176,Buyer_0176_Intl,Retail Chain,M16,Spain,Barcelona,Silver,10000,30,Decor,Noon,Vikram Patel,2019-05-02,Y,50K-200K,143,26652.63
+C0177,Buyer_0177_Intl,Online Marketplace,M11,New Zealand,Wellington,Silver,25000,45,"Decor,Textiles",Etsy,Rahul Mehta,2020-10-07,Y,500K-1M,17,27771.39
+C0178,Buyer_0178_Intl,Distributor,M19,Ireland,Dublin,Silver,250000,60,Textiles,Wayfair,Rahul Mehta,2021-11-18,Y,50K-200K,58,5519.19
+C0179,Buyer_0179_Intl,Distributor,M15,Italy,Rome,Bronze,25000,45,Kitchen,Etsy,Vikram Patel,2019-11-28,Y,<50K,72,37590.37
+C0180,Buyer_0180_Intl,Wholesaler,M16,Spain,Madrid,Gold,25000,30,Kitchen,Noon,Priya Sharma,2018-10-14,N,<50K,109,7902.38
+C0181,Buyer_0181_Intl,D2C Platform,M11,New Zealand,Auckland,Gold,50000,30,Storage,Amazon,Priya Sharma,2021-03-01,Y,200K-500K,23,25211.93
+C0182,Buyer_0182_Intl,Retail Chain,M16,Spain,Madrid,Gold,25000,45,Textiles,Direct B2B,Vikram Patel,2020-09-06,Y,50K-200K,72,9528.9
+C0183,Buyer_0183_Intl,Distributor,M08,France,Marseille,Gold,5000,15,Decor,Local Marketplace,Sneha Reddy,2020-04-14,Y,500K-1M,8,12842.88
+C0184,Buyer_0184_Intl,Online Marketplace,M04,Singapore,Singapore City,Bronze,25000,45,"Kitchen,Storage",Local Marketplace,Kavya Iyer,2020-09-13,N,200K-500K,59,22221.17
+C0185,Buyer_0185_Intl,Retail Chain,M08,France,Lyon,Gold,100000,30,Kitchen,Noon,Priya Sharma,2021-05-07,Y,200K-500K,111,17153.98
+C0186,Buyer_0186_Intl,Distributor,M04,Singapore,Singapore City,Bronze,10000,60,Kitchen,Amazon,Arjun Nair,2019-12-20,Y,50K-200K,13,7080.84
+C0187,Buyer_0187_Intl,Distributor,M03,UK,Birmingham,Silver,25000,15,Storage,Wayfair,Rahul Mehta,2021-02-04,Y,200K-500K,16,7500.71
+C0188,Buyer_0188_Intl,Interior Design Studio,M03,UK,Edinburgh,Gold,10000,45,All,Etsy,Vikram Patel,2021-11-30,Y,50K-200K,119,17191.28
+C0189,Buyer_0189_Intl,Online Marketplace,M18,Sweden,Stockholm,Bronze,25000,30,Decor,Etsy,Arjun Nair,2019-03-19,Y,500K-1M,2,30485.49
+C0190,Buyer_0190_Intl,Distributor,M19,Ireland,Cork,Bronze,5000,45,"Decor,Textiles",Etsy,Vikram Patel,2018-11-12,Y,200K-500K,145,36000.21
+C0191,Buyer_0191_Intl,Distributor,M19,Ireland,Cork,Silver,25000,15,Textiles,Wayfair,Rahul Mehta,2020-07-01,Y,50K-200K,30,4097.8
+C0192,Buyer_0192_Intl,Distributor,M05,Australia,Brisbane,Silver,50000,45,Kitchen,Local Marketplace,Rahul Mehta,2020-07-28,N,50K-200K,103,16209.67
+C0193,Buyer_0193_Intl,Interior Design Studio,M18,Sweden,Gothenburg,Bronze,10000,45,Kitchen,Amazon,Priya Sharma,2020-03-23,Y,<50K,13,4729.63
+C0194,Buyer_0194_Intl,Distributor,M10,Netherlands,Amsterdam,Gold,25000,45,"Decor,Textiles",Wayfair,Priya Sharma,2021-01-06,Y,200K-500K,96,1450.43
+C0195,Buyer_0195_Intl,Distributor,M06,Canada,Vancouver,Bronze,50000,45,Decor,Etsy,Arjun Nair,2021-01-04,Y,50K-200K,94,26739.37
+C0196,Buyer_0196_Intl,Wholesaler,M01,USA,New York,Bronze,100000,45,All,Noon,Vikram Patel,2021-10-14,Y,200K-500K,82,24416.02
+C0197,Buyer_0197_Intl,Distributor,M05,Australia,Brisbane,Bronze,10000,60,Kitchen,Direct B2B,Rahul Mehta,2019-07-24,Y,50K-200K,13,7190.35
+C0198,Buyer_0198_Intl,Online Marketplace,M09,Saudi Arabia,Dammam,Gold,10000,30,Decor,Wayfair,Arjun Nair,2021-03-06,Y,200K-500K,94,9965.46
+C0199,Buyer_0199_Intl,Distributor,M12,Malaysia,Penang,Bronze,10000,60,"Decor,Textiles",Wayfair,Kavya Iyer,2020-05-02,Y,500K-1M,149,1729.34
+C0200,Buyer_0200_Intl,Distributor,M14,Japan,Tokyo,Gold,250000,30,Storage,Amazon,Arjun Nair,2020-05-22,Y,200K-500K,112,33529.93
+C0201,Buyer_0201_Intl,Distributor,M02,UAE,Sharjah,Platinum,100000,15,All,Amazon,Sneha Reddy,2020-01-07,N,200K-500K,55,39007.87
+C0202,Buyer_0202_Intl,Interior Design Studio,M17,Kuwait,Kuwait City,Silver,25000,15,Textiles,Wayfair,Arjun Nair,2018-11-15,Y,<50K,81,6110.01
+C0203,Buyer_0203_Intl,Wholesaler,M14,Japan,Osaka,Silver,50000,30,Kitchen,Etsy,Sneha Reddy,2020-09-13,Y,<50K,116,9873.83
+C0204,Buyer_0204_Intl,Wholesaler,M13,South Africa,Johannesburg,Bronze,25000,60,Decor,Direct B2B,Sneha Reddy,2019-02-20,N,200K-500K,143,34841.65
+C0205,Buyer_0205_Intl,Retail Chain,M09,Saudi Arabia,Dammam,Bronze,25000,45,Storage,Amazon,Sneha Reddy,2018-09-27,Y,50K-200K,108,37117.38
+C0206,Buyer_0206_Intl,Interior Design Studio,M15,Italy,Milan,Bronze,5000,60,Textiles,Etsy,Kavya Iyer,2020-12-11,N,50K-200K,53,17249.39
+C0207,Buyer_0207_Intl,Distributor,M15,Italy,Rome,Silver,50000,45,"Kitchen,Storage",Noon,Arjun Nair,2021-03-04,Y,<50K,128,2784.4
+C0208,Buyer_0208_Intl,Retail Chain,M11,New Zealand,Wellington,Silver,5000,30,Decor,Amazon,Arjun Nair,2019-01-25,Y,50K-200K,57,2344.16
+C0209,Buyer_0209_Intl,Wholesaler,M16,Spain,Madrid,Silver,50000,30,Decor,Etsy,Kavya Iyer,2021-01-26,Y,<50K,52,23298.83
+C0210,Buyer_0210_Intl,Distributor,M17,Kuwait,Kuwait City,Bronze,50000,30,Textiles,Etsy,Rahul Mehta,2019-07-17,Y,500K-1M,137,16201.49
+C0211,Buyer_0211_Intl,Distributor,M04,Singapore,Singapore City,Platinum,50000,30,Storage,Direct B2B,Priya Sharma,2019-07-01,Y,50K-200K,111,1923.18
+C0212,Buyer_0212_Intl,Distributor,M01,USA,Los Angeles,Bronze,5000,15,"Kitchen,Storage",Direct B2B,Arjun Nair,2021-07-02,Y,200K-500K,1,23663.49
+C0213,Buyer_0213_Intl,Distributor,M08,France,Paris,Silver,10000,30,"Decor,Textiles",Noon,Priya Sharma,2020-03-23,Y,<50K,44,1243.06
+C0214,Buyer_0214_Intl,Distributor,M17,Kuwait,Kuwait City,Silver,10000,45,Storage,Etsy,Vikram Patel,2019-07-04,Y,200K-500K,75,31664.98
+C0215,Buyer_0215_Intl,Online Marketplace,M03,UK,Manchester,Bronze,10000,45,All,Local Marketplace,Vikram Patel,2019-09-28,Y,50K-200K,98,12812.17
+C0216,Buyer_0216_Intl,Retail Chain,M20,Portugal,Lisbon,Silver,5000,90,Kitchen,Etsy,Kavya Iyer,2021-07-31,N,500K-1M,9,2378.11
+C0217,Buyer_0217_Intl,Wholesaler,M15,Italy,Milan,Bronze,100000,90,Textiles,Direct B2B,Vikram Patel,2020-03-24,Y,500K-1M,32,23863.41
+C0218,Buyer_0218_Intl,Wholesaler,M15,Italy,Rome,Bronze,25000,45,"Decor,Textiles",Local Marketplace,Vikram Patel,2021-04-02,Y,50K-200K,15,16389.23
+C0219,Buyer_0219_Intl,Retail Chain,M14,Japan,Kyoto,Silver,10000,30,"Kitchen,Storage",Amazon,Rahul Mehta,2019-08-08,Y,500K-1M,140,38972.98
+C0220,Buyer_0220_Intl,Distributor,M14,Japan,Osaka,Silver,10000,45,Textiles,Amazon,Rahul Mehta,2020-09-09,Y,>1M,136,22132.59
+C0221,Buyer_0221_Intl,Retail Chain,M02,UAE,Dubai,Silver,25000,60,Textiles,Wayfair,Rahul Mehta,2019-05-18,N,500K-1M,72,11589.38
+C0222,Buyer_0222_Intl,Online Marketplace,M13,South Africa,Johannesburg,Bronze,25000,30,Storage,Direct B2B,Vikram Patel,2020-07-01,Y,500K-1M,12,28610.0
+C0223,Buyer_0223_Intl,Distributor,M14,Japan,Osaka,Gold,25000,30,Kitchen,Wayfair,Kavya Iyer,2018-09-25,Y,50K-200K,65,11442.49
+C0224,Buyer_0224_Intl,Online Marketplace,M19,Ireland,Dublin,Silver,100000,60,All,Local Marketplace,Sneha Reddy,2020-12-06,Y,200K-500K,107,36246.34
+C0225,Buyer_0225_Intl,Retail Chain,M07,Germany,Hamburg,Silver,25000,30,Decor,Direct B2B,Sneha Reddy,2021-11-25,Y,<50K,42,15489.1
+C0226,Buyer_0226_Intl,Online Marketplace,M03,UK,London,Bronze,250000,45,Decor,Noon,Priya Sharma,2020-08-12,Y,<50K,115,22354.85
+C0227,Buyer_0227_Intl,Retail Chain,M15,Italy,Milan,Gold,50000,45,Textiles,Etsy,Sneha Reddy,2020-07-26,N,>1M,139,2782.47
+C0228,Buyer_0228_Intl,Retail Chain,M14,Japan,Kyoto,Bronze,10000,30,Kitchen,Noon,Sneha Reddy,2019-08-23,Y,50K-200K,103,17503.95
+C0229,Buyer_0229_Intl,D2C Platform,M11,New Zealand,Wellington,Bronze,100000,30,"Kitchen,Storage",Local Marketplace,Rahul Mehta,2019-01-05,Y,200K-500K,95,33428.65
+C0230,Buyer_0230_Intl,Interior Design Studio,M15,Italy,Rome,Gold,5000,30,"Kitchen,Storage",Direct B2B,Rahul Mehta,2020-04-19,Y,500K-1M,17,32381.43
+C0231,Buyer_0231_Intl,Distributor,M13,South Africa,Johannesburg,Gold,50000,15,"Decor,Textiles",Local Marketplace,Vikram Patel,2021-05-30,Y,500K-1M,85,9593.29
+C0232,Buyer_0232_Intl,Wholesaler,M18,Sweden,Stockholm,Bronze,10000,15,Storage,Etsy,Priya Sharma,2019-11-10,Y,>1M,56,9662.3
+C0233,Buyer_0233_Intl,Online Marketplace,M06,Canada,Calgary,Gold,50000,60,Kitchen,Amazon,Arjun Nair,2021-09-01,Y,50K-200K,134,32838.37
+C0234,Buyer_0234_Intl,Wholesaler,M03,UK,Manchester,Bronze,50000,30,Kitchen,Amazon,Priya Sharma,2021-09-08,Y,<50K,86,37271.62
+C0235,Buyer_0235_Intl,Wholesaler,M19,Ireland,Dublin,Silver,50000,45,Storage,Local Marketplace,Priya Sharma,2018-12-31,Y,50K-200K,102,4538.15
+C0236,Buyer_0236_Intl,Retail Chain,M15,Italy,Rome,Gold,50000,30,"Kitchen,Storage",Wayfair,Kavya Iyer,2021-07-19,Y,<50K,54,18442.3
+C0237,Buyer_0237_Intl,Distributor,M05,Australia,Melbourne,Bronze,10000,90,"Kitchen,Storage",Direct B2B,Vikram Patel,2020-10-08,Y,<50K,115,14028.21
+C0238,Buyer_0238_Intl,Distributor,M10,Netherlands,Rotterdam,Silver,5000,30,"Kitchen,Storage",Direct B2B,Kavya Iyer,2021-09-20,Y,50K-200K,139,34930.99
+C0239,Buyer_0239_Intl,Online Marketplace,M07,Germany,Berlin,Silver,25000,30,Textiles,Amazon,Priya Sharma,2021-06-15,Y,200K-500K,88,4074.18
+C0240,Buyer_0240_Intl,Online Marketplace,M17,Kuwait,Kuwait City,Silver,10000,60,Kitchen,Noon,Priya Sharma,2021-06-16,Y,200K-500K,49,9076.14
+C0241,Buyer_0241_Intl,Distributor,M07,Germany,Frankfurt,Silver,25000,60,Decor,Etsy,Priya Sharma,2019-07-15,Y,50K-200K,149,30296.76
+C0242,Buyer_0242_Intl,Distributor,M12,Malaysia,Kuala Lumpur,Gold,10000,30,Storage,Noon,Sneha Reddy,2021-01-15,Y,200K-500K,115,2810.72
+C0243,Buyer_0243_Intl,Wholesaler,M17,Kuwait,Kuwait City,Silver,250000,60,"Kitchen,Storage",Noon,Kavya Iyer,2020-09-03,Y,50K-200K,63,20107.39
+C0244,Buyer_0244_Intl,Gift Shop Chain,M13,South Africa,Cape Town,Bronze,25000,30,"Decor,Textiles",Local Marketplace,Priya Sharma,2019-05-04,Y,<50K,104,18130.6
+C0245,Buyer_0245_Intl,Online Marketplace,M20,Portugal,Lisbon,Silver,50000,30,"Kitchen,Storage",Amazon,Rahul Mehta,2019-10-05,Y,200K-500K,83,13908.53
+C0246,Buyer_0246_Intl,Distributor,M04,Singapore,Singapore City,Bronze,5000,30,"Kitchen,Storage",Amazon,Vikram Patel,2020-03-30,Y,200K-500K,103,16267.23
+C0247,Buyer_0247_Intl,Distributor,M10,Netherlands,Rotterdam,Silver,50000,15,All,Amazon,Vikram Patel,2019-06-28,Y,200K-500K,17,21573.67
+C0248,Buyer_0248_Intl,Distributor,M03,UK,London,Bronze,100000,45,Textiles,Local Marketplace,Rahul Mehta,2020-12-19,Y,<50K,6,7125.6
+C0249,Buyer_0249_Intl,D2C Platform,M09,Saudi Arabia,Riyadh,Gold,25000,30,Storage,Wayfair,Vikram Patel,2021-11-23,Y,500K-1M,147,23222.24
+C0250,Buyer_0250_Intl,Distributor,M13,South Africa,Johannesburg,Bronze,25000,30,All,Noon,Sneha Reddy,2019-11-24,Y,200K-500K,28,32372.95
+C0251,Buyer_0251_Intl,Online Marketplace,M18,Sweden,Stockholm,Silver,50000,45,All,Local Marketplace,Sneha Reddy,2020-02-05,Y,200K-500K,38,30598.31
+C0252,Buyer_0252_Intl,Distributor,M15,Italy,Milan,Gold,10000,60,"Decor,Textiles",Direct B2B,Arjun Nair,2020-06-05,Y,200K-500K,119,6832.88
+C0253,Buyer_0253_Intl,Online Marketplace,M04,Singapore,Singapore City,Gold,25000,30,Kitchen,Etsy,Arjun Nair,2021-07-27,N,500K-1M,37,6650.58
+C0254,Buyer_0254_Intl,Online Marketplace,M15,Italy,Rome,Gold,10000,45,"Decor,Textiles",Wayfair,Arjun Nair,2020-04-11,Y,200K-500K,115,11312.44
+C0255,Buyer_0255_Intl,Wholesaler,M02,UAE,Dubai,Silver,5000,30,Kitchen,Direct B2B,Vikram Patel,2020-04-07,Y,200K-500K,68,14954.13
+C0256,Buyer_0256_Intl,Distributor,M15,Italy,Rome,Silver,10000,60,Kitchen,Noon,Sneha Reddy,2021-01-10,Y,>1M,43,16811.46
+C0257,Buyer_0257_Intl,Distributor,M08,France,Marseille,Bronze,5000,45,Storage,Amazon,Sneha Reddy,2019-03-29,N,200K-500K,58,27444.13
+C0258,Buyer_0258_Intl,Distributor,M08,France,Paris,Silver,5000,90,"Kitchen,Storage",Noon,Sneha Reddy,2020-10-25,Y,50K-200K,13,3021.87
+C0259,Buyer_0259_Intl,D2C Platform,M17,Kuwait,Kuwait City,Gold,5000,15,Storage,Local Marketplace,Rahul Mehta,2020-03-14,Y,200K-500K,52,2159.17
+C0260,Buyer_0260_Intl,Wholesaler,M12,Malaysia,Penang,Silver,100000,15,Textiles,Etsy,Sneha Reddy,2019-12-16,Y,50K-200K,58,16162.89
+C0261,Buyer_0261_Intl,Online Marketplace,M19,Ireland,Dublin,Bronze,25000,30,Kitchen,Local Marketplace,Rahul Mehta,2019-01-27,Y,50K-200K,32,28128.82
+C0262,Buyer_0262_Intl,Online Marketplace,M10,Netherlands,Amsterdam,Gold,100000,30,All,Wayfair,Arjun Nair,2021-03-04,Y,200K-500K,105,8382.67
+C0263,Buyer_0263_Intl,Interior Design Studio,M09,Saudi Arabia,Riyadh,Gold,25000,30,"Kitchen,Storage",Wayfair,Arjun Nair,2020-01-18,Y,500K-1M,83,25946.98
+C0264,Buyer_0264_Intl,Distributor,M05,Australia,Sydney,Platinum,10000,90,Decor,Etsy,Vikram Patel,2021-08-09,Y,500K-1M,99,10985.26
+C0265,Buyer_0265_Intl,D2C Platform,M06,Canada,Calgary,Bronze,25000,30,Textiles,Direct B2B,Arjun Nair,2019-07-26,Y,50K-200K,104,35534.58
+C0266,Buyer_0266_Intl,Retail Chain,M20,Portugal,Lisbon,Bronze,25000,30,Storage,Direct B2B,Vikram Patel,2020-01-10,N,50K-200K,28,35911.05
+C0267,Buyer_0267_Intl,Retail Chain,M02,UAE,Abu Dhabi,Silver,5000,60,"Decor,Textiles",Wayfair,Priya Sharma,2018-11-14,Y,50K-200K,129,12453.66
+C0268,Buyer_0268_Intl,Online Marketplace,M13,South Africa,Cape Town,Bronze,25000,30,Textiles,Wayfair,Priya Sharma,2018-11-23,Y,>1M,48,9815.76
+C0269,Buyer_0269_Intl,Distributor,M06,Canada,Vancouver,Bronze,10000,60,Textiles,Amazon,Kavya Iyer,2021-01-13,Y,>1M,40,16923.12
+C0270,Buyer_0270_Intl,Distributor,M05,Australia,Sydney,Silver,25000,15,"Kitchen,Storage",Direct B2B,Vikram Patel,2019-04-17,Y,200K-500K,97,10228.84
+C0271,Buyer_0271_Intl,Interior Design Studio,M01,USA,New York,Bronze,25000,30,Textiles,Etsy,Kavya Iyer,2021-08-11,N,500K-1M,114,27157.45
+C0272,Buyer_0272_Intl,Distributor,M06,Canada,Toronto,Gold,10000,15,Textiles,Direct B2B,Kavya Iyer,2018-12-17,Y,200K-500K,132,33181.74
+C0273,Buyer_0273_Intl,Online Marketplace,M06,Canada,Calgary,Gold,5000,15,Decor,Amazon,Priya Sharma,2021-07-02,Y,200K-500K,137,27185.21
+C0274,Buyer_0274_Intl,Distributor,M16,Spain,Madrid,Silver,50000,90,"Decor,Textiles",Local Marketplace,Vikram Patel,2021-01-22,Y,<50K,111,33114.54
+C0275,Buyer_0275_Intl,Retail Chain,M04,Singapore,Singapore City,Gold,25000,30,"Decor,Textiles",Wayfair,Priya Sharma,2019-01-03,Y,50K-200K,144,16362.09
+C0276,Buyer_0276_Intl,Retail Chain,M11,New Zealand,Wellington,Silver,5000,45,"Decor,Textiles",Wayfair,Kavya Iyer,2021-08-20,Y,200K-500K,76,6927.63
+C0277,Buyer_0277_Intl,Retail Chain,M09,Saudi Arabia,Dammam,Bronze,250000,30,Kitchen,Amazon,Vikram Patel,2020-12-14,Y,200K-500K,31,29727.68
+C0278,Buyer_0278_Intl,Interior Design Studio,M03,UK,Manchester,Platinum,5000,30,All,Etsy,Kavya Iyer,2019-02-21,Y,50K-200K,119,14930.6
+C0279,Buyer_0279_Intl,Retail Chain,M19,Ireland,Cork,Gold,25000,60,"Decor,Textiles",Wayfair,Sneha Reddy,2019-12-01,Y,500K-1M,142,27113.82
+C0280,Buyer_0280_Intl,Online Marketplace,M08,France,Marseille,Silver,250000,15,Textiles,Noon,Vikram Patel,2019-12-25,Y,<50K,25,11409.24
+C0281,Buyer_0281_Intl,Online Marketplace,M05,Australia,Sydney,Bronze,10000,45,Textiles,Wayfair,Vikram Patel,2020-02-21,N,50K-200K,34,3984.2
+C0282,Buyer_0282_Intl,Interior Design Studio,M04,Singapore,Singapore City,Silver,5000,90,"Decor,Textiles",Noon,Kavya Iyer,2019-09-01,Y,200K-500K,67,39709.21
+C0283,Buyer_0283_Intl,D2C Platform,M06,Canada,Montreal,Silver,5000,45,"Kitchen,Storage",Amazon,Sneha Reddy,2019-05-01,Y,200K-500K,118,6923.1
+C0284,Buyer_0284_Intl,Interior Design Studio,M02,UAE,Abu Dhabi,Platinum,10000,90,"Decor,Textiles",Amazon,Rahul Mehta,2020-02-11,Y,200K-500K,73,39546.1
+C0285,Buyer_0285_Intl,Distributor,M20,Portugal,Porto,Gold,5000,15,Textiles,Wayfair,Priya Sharma,2021-08-26,Y,50K-200K,26,39109.37
+C0286,Buyer_0286_Intl,Distributor,M11,New Zealand,Wellington,Bronze,25000,30,Kitchen,Direct B2B,Kavya Iyer,2020-04-24,Y,<50K,148,31917.67
+C0287,Buyer_0287_Intl,Distributor,M04,Singapore,Singapore City,Bronze,5000,30,Storage,Noon,Vikram Patel,2021-02-24,Y,200K-500K,104,26649.38
+C0288,Buyer_0288_Intl,Online Marketplace,M15,Italy,Milan,Platinum,25000,45,Storage,Etsy,Priya Sharma,2020-10-26,Y,200K-500K,10,23450.04
+C0289,Buyer_0289_Intl,Distributor,M06,Canada,Montreal,Bronze,250000,90,"Decor,Textiles",Wayfair,Priya Sharma,2018-10-27,Y,<50K,67,34751.18
+C0290,Buyer_0290_Intl,Online Marketplace,M17,Kuwait,Kuwait City,Silver,50000,30,Decor,Etsy,Priya Sharma,2020-01-03,Y,200K-500K,5,12146.03
+C0291,Buyer_0291_Intl,Online Marketplace,M06,Canada,Montreal,Bronze,25000,45,"Decor,Textiles",Wayfair,Rahul Mehta,2021-05-18,N,50K-200K,27,19133.1
+C0292,Buyer_0292_Intl,Retail Chain,M19,Ireland,Dublin,Silver,10000,30,"Kitchen,Storage",Direct B2B,Arjun Nair,2021-01-10,Y,200K-500K,113,25080.09
+C0293,Buyer_0293_Intl,Interior Design Studio,M02,UAE,Dubai,Silver,25000,45,"Decor,Textiles",Direct B2B,Kavya Iyer,2021-07-02,Y,500K-1M,15,16918.67
+C0294,Buyer_0294_Intl,Distributor,M15,Italy,Milan,Silver,25000,30,Storage,Direct B2B,Arjun Nair,2020-05-30,Y,<50K,105,17557.47
+C0295,Buyer_0295_Intl,Distributor,M11,New Zealand,Auckland,Bronze,25000,90,Textiles,Local Marketplace,Arjun Nair,2020-10-24,Y,<50K,44,13747.16
+C0296,Buyer_0296_Intl,Interior Design Studio,M08,France,Lyon,Gold,5000,45,"Decor,Textiles",Direct B2B,Arjun Nair,2020-08-28,Y,200K-500K,26,22917.89
+C0297,Buyer_0297_Intl,Online Marketplace,M19,Ireland,Cork,Platinum,50000,30,Textiles,Amazon,Priya Sharma,2021-07-24,Y,200K-500K,95,34142.52
+C0298,Buyer_0298_Intl,Interior Design Studio,M13,South Africa,Johannesburg,Silver,25000,30,Textiles,Amazon,Sneha Reddy,2019-10-04,Y,200K-500K,84,8699.91
+C0299,Buyer_0299_Intl,Retail Chain,M12,Malaysia,Penang,Bronze,10000,30,Decor,Local Marketplace,Priya Sharma,2019-07-13,Y,500K-1M,140,37429.78
+C0300,Buyer_0300_Intl,Distributor,M05,Australia,Melbourne,Gold,10000,30,Textiles,Noon,Priya Sharma,2021-09-10,Y,500K-1M,132,27812.24
