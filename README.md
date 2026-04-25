@@ -129,6 +129,8 @@ are actually worth pursuing.
 
 ## Visuals
 
+📊 **[View Interactive Power BI Dashboard](https://drive.google.com/file/d/1pGP406YwScbgJaobeQHJvEgoHYkyMCGp/view?usp=sharing)**
+
 ### Executive Summary
 ![Executive Summary](https://github.com/MohsinR11/nestkraft-export-intelligence/blob/main/Dashboard%20Screenshots/Page%201%20-%20Executive%20Overview.png)
 
